@@ -1,0 +1,802 @@
+[
+  {
+    "title": "SEMI F94-0304 SPECIFICATION FOR DIMENSION OF TWO PORT COMPONENTS (EXCEPT MFC/MFM) FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-1  Design Example 1",
+    "content": "R1-1.1   Seal Design — See Figure R1-1.  \nR1-1.2  Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 170 Vickers.  The hardness may be tested per ISO 6507.  \nR1-1.3  Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.25 micrometers Ra max.  The surface roughness may be tested per SEMI F37-0299.  \nR1-1.4  Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision.  \nFigure R1-1 Design Example 1"
+  },
+  {
+    "title": "SEMI F94-0304 SPECIFICATION FOR DIMENSION OF TWO PORT COMPONENTS (EXCEPT MFC/MFM) FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-2  Design Example 2",
+    "content": "R1-2.1  Seal Design — See Figure R1-2.  \nR1-2.2  Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 300 Vickers.  The hardness may be tested per ISO 6507.  \nR1-2.3  Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.04 micrometers Ra max.  The surface roughness may be tested per SEMI F37-0299.  \nR1-2.4  Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision.  \nFigure R1-2 Design Example 2"
+  },
+  {
+    "title": "SEMI F94-0304 SPECIFICATION FOR DIMENSION OF TWO PORT COMPONENTS (EXCEPT MFC/MFM) FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-3  Design Example 3",
+    "content": "R1-3.1  Seal Design — See Figure R1-3.  \nR1-3.2  Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 300 Vickers.  The hardness may be tested per ISO 6507.  \nR1-3.3  Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.1 micrometers Ra max.  The surface roughness may be tested per SEMI F37-0299.  \nR1-3.4  Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision.  \nFigure R1-3 Design Example 3"
+  },
+  {
+    "title": "SEMI F94-0304 SPECIFICATION FOR DIMENSION OF TWO PORT COMPONENTS (EXCEPT MFC/MFM) FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4 (Part 1)",
+    "content": "Title: SEMI F94-0304 SPECIFICATION FOR DIMENSION OF TWO PORT COMPONENTS (EXCEPT MFC/MFM) FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4\n\nContent: R1-4.1 Seal Design — See Figure R1-4. R1-4.2 Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 300 Vickers. The hardness may be tested per ISO 6507. R1-4.3 Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.2 micrometers Ra max. The surface roughness may be tested per SEMI F37-0299. R1-4.4 Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision. Figure R1-4 Design Example 4 NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer' s instructions, product labels, product data sheets, and other relevant literature,"
+  },
+  {
+    "title": "SEMI F94-0304 SPECIFICATION FOR DIMENSION OF TWO PORT COMPONENTS (EXCEPT MFC/MFM) FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4 (Part 2)",
+    "content": "Title: SEMI F94-0304 SPECIFICATION FOR DIMENSION OF TWO PORT COMPONENTS (EXCEPT MFC/MFM) FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4\n\nContent: respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility. Copyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS",
+    "content": "This specification was technically approved by the Global Gases Committee and is the direct responsibility of the Japanese Gases & Facilities Committee.  Current edition approved by the Japanese Regional Standards Committee on November 20, 2003.  Initially available at www.semi.org February 2004; to be published March 2004.  \nE This document was modified in May 2004 with committee approval to correct an error made at the preballot stage.  Changes were made to Figure R1-2."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 1  Purpose",
+    "content": "1.1  This standard establishes the properties and physical of two port components for 1.5 inch type surface mount gas distribution systems."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 2  Scope",
+    "content": "2.1  This document includes common requirements, layout, size, detailed specifications, and dimensions of the components.  \n2.2  This standard applies to all three port four fastener components. The components (i.e. valves, pressure regulators, pressure transducers, filters and purifiers) are mounted on substrates with fasteners accessible from the top.  \n2.3  This standard only applies to components, which control flow of $\\leq 5 0$ slm nitrogen equivalent at $3 0 8 ~ \\mathrm { { k P a } }$ (44.7 psia).  This standard also only applies to components with operating pressures less than 3445 kPa (500 psia) at $2 0 ^ { \\circ } \\mathrm { C }$ .  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 3  Limitations",
+    "content": "3.1  This standard only addresses the component; it does not address the seals, the sealing system, or the assembly process and does not guarantee the performance of the sealing system.  The user should be aware that gas delivery system performance and sealing system performance are addressed elsewhere in the SEMI standards.  \n3.2  The user should be aware that alternative technologies are commercially available.  \n3.3  International, national, and local codes, regulations, and laws should be consulted to ensure that the equipment meets regulatory requirements in each location of use."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 4.1  SEMI Standards",
+    "content": "SEMI E49.9 — Guide for Ultrahigh Purity Gas Distribution Systems in Semiconductor Manufacturing Equipment  \nSEMI F20 — Specification for 316L Stainless Steel Bar, Extruded Shapes, Plate, and Investment Castings for Components Used in High Purity Semiconductor Manufacturing Applications  \n4.2  ASME Standards1  \nASME Y14.5 — Dimensioning and Tolerancing  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 5.1  Definitions",
+    "content": "5.1.1  components for surface mount a gas distribution system component having inlets and outlets located on the bottom of the component with the attachment mechanism accessible from the top.  \n5.1.2  four fastener configuration — the component has four fasteners located on an interface, independent of number of sealing point.  \n$5 . 1 . 3 R a$ — roughness average.  The arithmetic average of the absolute values of the measure profile height deviations taken within the sampling length and measured from the graphical centerline."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 6  Common Requirements (Part 1)",
+    "content": "Title: SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 6  Common Requirements\n\nContent: 6.1 Dimensional Requirements — All components shall meet the requirements outlined in Figure 1. All geometric dimensioning and tolerancing complies with ASME Y14.5 and/or the applicable ISO standard. NOTE 1: All dimensions are in millimeters unless otherwise noted. NOTE 2: The through hole of the sealing port will be elliptical if the through hole is drilled at an angle. In this case, the diameter shall apply to the major diameter of the ellipse. 6.2 Material — The material used to manufacture the base of the components shall comply to SEMI F20 with the exception that the sulfur content shall comply to SEMI E49.9. NOTE 3: SEMI E49.9 was withdrawn. However, a ballot to combine E49.8 and E49.9 in one single standard was submitted for SEMICON West 2003. 6.3 Burrs and Sharp Edges — Unless specifically noted on the drawing, remove all burrs and sharp edges. 6.4 Handles and Displays — Rotating handles and removable displays shall stay within the"
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 6  Common Requirements (Part 2)",
+    "content": "Title: SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 6  Common Requirements\n\nContent: maximum envelope of the base of the component with the exception of toggle and/or lockout/tagout valves at the discretion of the system designer. They shall be movable or removable such that they do not interfere with the access of the mounting fasteners from above. UNIT: [mm]"
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 7.1  ISO Standards2 (Part 1)",
+    "content": "Title: SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 7.1  ISO Standards2\n\nContent: ISO 406 — Technical Drawings - Tolerancing of Linear and Angular Dimensions ISO 1101 — Technical Drawings - Geometrical Tolerancing - Tolerancing of Form, Orientation, Location, and Run-Out - Generalities, Definitions, Symbols, and Indications on Drawings. ISO 1660 — Technical Drawings - Dimensioning and Tolerancing of Profiles ISO 2692 — Technical Drawings - Geometrical Tolerancing - Maximum Material Principle ISO 6507 — Metallic Materials - Vickers Hardness Test ISO 8015 — Technical Drawings - Fundamental Tolerancing Principles NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer' s instructions, product labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 7.1  ISO Standards2 (Part 2)",
+    "content": "Title: SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # 7.1  ISO Standards2\n\nContent: These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # RELATED INFORMATION 1EXAMPLES OF SEAL DESIGNS FOR 1.5 INCH TYPE SURFACEMOUNT COMPONENTS",
+    "content": "NOTICE:  This related information is not an official part of SEMI F95 and was derived from the work of the originating task force.  This related information was approved for publication by full ballot procedures. Determination of the suitability of the material is solely the responsibility of the user."
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-1  Design Example 1",
+    "content": "R1-1.1  Seal Design — See Figure R1-1.  \nR1-1.2  Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 170 Vickers.  The hardness may be tested per ISO 6507.  \nR1-1.3  Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.25 micrometers Ra max.  The surface roughness may be tested per SEMI F37-0299.  \nR1-1.4  Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision.  \nFigure R1-1 Design Example 1"
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-2  Design Example 2",
+    "content": "R1-2.1  Seal Design — See Figure R1-2.  \nR1-2.2  Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 300 Vickers.  The hardness may be tested per ISO 6507.  \nR1-2.3  Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.04 micrometers Ra max.  The surface roughness may be tested per SEMI F37-0299.  \nR1-2.4  Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision.  \nFigure R1-2 Design Example 2"
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-3  Design Example 3",
+    "content": "R1-3.1  Seal Design — See Figure R1-3.  \nR1-3.2  Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 300 Vickers.  The hardness may be tested per ISO 6507.  \nR1-3.3  Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.1 micrometers Ra max.  The surface roughness may be tested per SEMI F37-0299.  \nR1-3.4  Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision.  \nFigure R1-3 Design Example 3"
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4 (Part 1)",
+    "content": "Title: SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4\n\nContent: R1-4.1 Seal Design — See Figure R1-4. R1-4.2 Surface Hardness — The sealing surface (the bottom of the counterbore) has a minimum hardness of 300 Vickers. The hardness may be tested per ISO 6507. R1-4.3 Surface Roughness — The sealing surface (the bottom of the counterbore) has a surface roughness of 0.2 micrometers Ra max. The surface roughness may be tested per SEMI F37-0299. R1-4.4 Surface Scratches — The sealing surface (the bottom of the counterbore) is without any lateral scratches which are visible to non-magnified normal vision. Figure R1-4 Design Example 4 NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer' s instructions, product labels, product data sheets, and other relevant literature, respecting any"
+  },
+  {
+    "title": "SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4 (Part 2)",
+    "content": "Title: SEMI F95-0304E SPECIFICATION FOR DIMENSION OF THREE PORT COMPONENTS FOR 1.5 INCH FOUR FASTENER CONFIGURATION TYPE SURFACE MOUNT GAS DISTRIBUTION SYSTEMS - # R1-4  Design Example 4\n\nContent: materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility. Copyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS",
+    "content": "This specification was technically approved by the Global Gases Committee and is the direct responsibility of the North American Gases Committee. Current edition approved by the North American Regional Standards Committee on April 22, 2004.  Initially available at www.semi.org June 2004; to be published July 2004."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 1  Purpose",
+    "content": "1.1  This document specifies the type, size and spacing of connectors to be used on metal (e.g. stainless steel) canisters for liquid chemical precursors, solutions and solvents."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 2  Scope",
+    "content": "2.1  This document applies to metal (e.g. stainless steel) canisters to be used for “liquid precursors” (see definition) including solutions of precursors in solvents. It also applies to containers for solvents used for in situ cleaning of delivery system.  \n2.2  The liquid connection ports (inlet and outlet) are included, as are pneumatic connections to valves.  \n2.3  Parameters such as overall canister dimensions are expected to be specified by other standards.  \nNOTICE: This document does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the user of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 3.1  SEMI Standard",
+    "content": "SEMI F66 — Specification for Port Marking and Symbol of Stainless Steel Vessels for Liquid Chemicals  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 4.1  Definitions",
+    "content": "4.1.1  canister — a metal (usually stainless steel) container in which a liquid precursor is supplied. Canisters are also known as “ampoules”, “shuttle drums”, “ tanks”, etc.  \n4.1.2  liquid precursor — a liquid precursor is a chemical supplied as a liquid and used in Chemical Vapor Deposition (CVD).  Many liquid precursors are toxic, reactive and air-sensitive."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 5  Ports",
+    "content": "5.1  A canister has a gas inlet port and a liquid outlet port.  The outlet port is equipped with a dip-tube, marked according to SEMI F66.  Note that a canister may be used as a bubbler, by using the dip-tube port as the gas inlet.  In this standard however, liquid delivery is assumed and the dip-tube port will be referred to as the “outlet”."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 5.2  Canisters up to 100 liters in volume: (Part 1)",
+    "content": "Title: SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 5.2  Canisters up to 100 liters in volume:\n\nContent: 5.2.1 The ports will be located with the dip tube at the 3 o’clock position and the gas inlet at the 9 o’clock position, as illustrated in Figure 1. 5.2.2 Both ports shall be fitted with $1 / 4 ^ { , 9 }$ O.D. face-seal connectors. 5.2.3 The port separation (L in the Figure) shall be $7 6 \\mathrm { m m }$ or $1 4 6 ~ \\mathrm { m m }$ , $+ / - \\mathrm { ~ 4 ~ m m }$ , the value to be chosen according to the diameter of the canister. 5.3 For canisters greater than 100 liters in volume, the outlet port shall be in the center, the port separation 152 $+ / - 4 \\mathrm { { m m } }$ , and the port connections $\\% \\overrightarrow { }$ O.D. face-seal. 5.4 The connector shall be male on the gas inlet port and female on the dip tube port. 5.5 The height difference between the tops of the ports will be no more than $0 . 5 \\mathrm { m m }$ . 5.6 Additional ports may be provided so long as they do not interfere with the above specifications. NOTE 1: The user of this standard should evaluate"
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 5.2  Canisters up to 100 liters in volume: (Part 2)",
+    "content": "Title: SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 5.2  Canisters up to 100 liters in volume:\n\nContent: the consequences of connecting a given precursor to a point intended for other precursors. The nature of the precursor itself and of the other precursors expected to be in use at the same location should be taken into account. Consider packaging precursors with a non-standard connector on the canister outlet if necessary to avoid a dangerous situation."
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 6  Valves (Part 1)",
+    "content": "Title: SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 6  Valves\n\nContent: 6.1 The inlet and outlet port are each provided with a valve but the details of those valves are not specified here. If pneumatic valves are provided, the pneumatic connection shall be a 1/8” quick-connect type. NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer' s instructions, product labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or"
+  },
+  {
+    "title": "SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 6  Valves (Part 2)",
+    "content": "Title: SEMI F96-0704SPECIFICATION FOR PORT CONFIGURATION OF CANISTERS TOCONTAIN LIQUID CVD PRECURSORS - # 6  Valves\n\nContent: copyrights, and the risk of infringement of such rights are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL",
+    "content": "This specification was technically approved by the Global Facilities Committee and is the direct responsibility of the European Global Facilities Committee.  Current edition approved by the European Regional Standards Committee on November 10, 2004.  Initially available at www.semi.org January 2005; to be published March 2005."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 1  Purpose",
+    "content": "1.1  The purpose of this specification is to provide the requirements for the architecture, functionality and interfaces for Facility Monitoring and Control Systems and the various Facility Package Units to enable a standardized and integrated communication between them.  This specification is appended with related information to provide application examples."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 1.2  Background and Motivation (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 1.2  Background and Motivation\n\nContent: 1.2.1 Today, the suppliers of Facility Package Units (e.g., chemicals, power supply, gases, HVAC) are often using individual communication concepts. This leads to high efforts to specify the communication structures between Facility Package Units (FPU) and the Facility Monitoring and Control Systems (FMCS), to evaluate the quoted solutions and to eventually integrate these units. These individual, not standardized concepts today are not reusable, bear risks in execution and lead to high maintenance costs. 1.2.2 This specification is a first step to standardize the communication between facility and monitoring components. Therefore, it focuses in its scope to a small set of requirements which are common to all FPUs. As this communication concept is adopted by the various FPU suppliers and their customers, more specific standards describing particular FPUs and their services may evolve. 1.3 Who and what is addressed by this standard. 1.3.1 A standardization of the communication concept between FMCS and"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 1.2  Background and Motivation (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 1.2  Background and Motivation\n\nContent: FPUs will support Facility Package Unit manufacturers, general contractors, system integrators, purchasers, and control system manufacturers. It will lead to substantially reduced costs, more reliable execution times, and optimized maintenance concepts."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 2  Scope (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 2  Scope\n\nContent: 2.1 This standard specifies the requirements for the architecture, common services, data, and its semantic meaning to integrate the FPUs into the FMCS. For this purpose, a basic set of common services (operations) between the FMCS and the FPUs are specified to exchange FPU status information and data. In addition, the state models for FPUs are described. 2.2 Out of scope for this standard are: Services of FMCS provided to interface to Manufacturing Execution Systems or Enterprise Resource Planning Systems, Specification of functionality of particular FMCS functions (graphical user interface (GUI), data archives, reporting archives, alarm handling, etc.), and • The specification of the interface between FPU control level and FPU field level. 2.3 Applicability — This standard applies to the field of facility management and is targeted for FPU suppliers and FMCS suppliers for systems integration, engineering and commissioning as well as the operation of such systems by the purchasers. NOTICE: This standard does not purport"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 2  Scope (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 2  Scope\n\nContent: to address safety issues, if any, associated with its use. It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 3  Limitations",
+    "content": "3.1  This standard focuses on the semantic definition of data exchanged between FMCS and FPUs.  It is not intended to specify the protocols to be used for data being exchanged.  \n3.2  The standard does not focus on any specific hardware or software products to be used."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 4  Referenced Standards",
+    "content": "4.1  SEMI Standards  \nSEMI E6 — Guide for Semiconductor Equipment Installation Documentation  \nSEMI E30 — Generic Model for Communications and Control of Manufacturing Equipment (GEM)  \nSEMI E54 — Sensor Actuator Network Standards Series  \n4.2  Other Standards  \n4.2.1  OPC — Data Access Automation Interface Standard, Version 2.0, OPC Foundation 1998, available from http://www.opcfoundation.com/  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology\n\nContent: 5.1 Abbreviations and Acronyms 5.1.1 CPU — Central Processing Unit 5.1.2 ERP — Enterprise Resource Planning 5.1.3 FMCS — Facility Monitoring and Control System 5.1.4 FPU — Facility Package Unit 5.1.5 GUI — Graphical User Interface 5.1.6 HVAC — Heating Ventilation and Air Conditioning 5.1.7 I/0 — Input/Output Device 5.1.8 IT System — Information System 5.1.9 MES — Manufacturing Execution System 5.1.10 OLE — Object Linking and Embedding 5.1.11 OP-Mode — Operating Mode 5.1.12 OPC — OLE for Process Control1 5.1.13 PLC — Programmable Logic Controller 5.1.14 UPW — Ultra Pure Water 5.2 Definitions 5.2.1 alarm&event history — functionality inside a FMCS to store alarms and events in a persistent storage (e.g. a database). Focus is to later retrieve alarms and events for investigation purposes. 5.2.2 Client/Server-System — a system consisting of two different sub systems: a server system which provides services and client systems which access these services. 5.2.3 communication interface — interface of an IT system to"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology\n\nContent: communicate with other IT systems. Usually the communication takes place via a network. 5.2.4 data cache — unit within an IT system or FMCS being responsible for buffering data usually with the focus of performance optimization. 5.2.5 facility monitoring and control system (FMCS) — IT System consisting of software and hardware components that are used to monitor and control all FPUs as described in $\\ S 2$ . Typically a FMCS is implemented using a PC based architecture. A FMCS in general consists of the following sub components: • Software modules to monitor and control the FPU, • Software module to cover alarm&event history, • Report archive to store reports persistently, • Data archive to store monitored data persistently, • Human interface to provide access for human users to FMCS functionality, and Communication infrastructure to connect to the different FPUs and to external systems (e.g. Manufacturing Execution System, Enterprise Resource Planning System). 5.2.6 facility system — describes an overall"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology (Part 3)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology\n\nContent: architecture in the context of facility monitoring and control. A Facility System typically consists of 4 layers as described in $\\ S 2$ . 5.2.7 FPU Control Level — describes a unit to monitor and/or control a certain piece of facility infrastructure. A FPU owns a well defined interface that enables external IT systems to monitor (and control) activities running on the specific FPU. 5.2.8 FPU Field Level — describes a unit of a FPU, such as sensors, actuators, aggregates or even an own subcontrol level to control a certain piece of facility infrastructure in order to support all the necessary functions of the FPU at the control level. 5.2.9 integration — covers the interconnection of FMCS and FPUs by Engineering and Commissioning with respect to communication. It does not cover the Engineering and Commissioning of the FPUs themselves. 5.2.10 network — general term for a bus technology which includes field bus technology or local area networks. 5.2.11 programmable logic controller (PLC) — a system consisting of"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology (Part 4)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 5  Terminology\n\nContent: software and hardware usually to fulfi monitor and control tasks. Typically a PLC comprises the following components: • rack — accommodates the modules and connects them to each other; • power supply — provides the internal supply voltages; • central processing unit (CPU) — stores and processes the user program; signal modules — adapt the signals from the system to the internal signal level or control actuators via digital and analog signals; • function modules — execute complex or time-critical processes independently of the CPU; and communication processors — interface the programmable controllers to each other or to other devices via a network. 5.2.11.1 A PLC may consist of several racks which are linked to one another via bus cables or may all be self contained. 5.2.12 Tag — is a unique identifier within a FMCS to access information in a FPU. Assigned to each unique Tag is the data necessary to select the access to a particular FPU on the Network and to access the particular information within that FPU."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 6  Overview (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 6  Overview\n\nContent: 6.1.1 A facility system within this standard is described by four levels (see Figure 1). ERP/MES Level: consists of systems within the Enterprise Resource Planning and Manufacturing Execution System, • FMCS Level: consists of the FMCS, • FPU Control Level: consists of the FPU that are monitored and controlled by the FMCS, and FPU Field Level: consists of the hardware components to monitor and control the FPUs. A subcontrol level within the level of the FPU may or may not be present depending on the complexity of the functions to be performed. 6.1.2 Figure 2 depicts typical examples of Facility Package Units. Figure 2 Typical Examples of Facility Package Units 6.1.2.1 Description of Figure 2. • Building systems — facility installation concerning the building, e.g. lighting. • Chemicals — facility installation for the supply of chemicals, e.g. for process tools. • Chilled water system — facility installation for the supply of cold water, e.g. for air condition or process tools. • Cleanroom — production area with clean"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 6  Overview (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 6  Overview\n\nContent: conditions and specifications concerning air condition. Compressed air — facility installation for the supply of compressed air. Electrical — facility installation for the electrical power supply. • Exhaust — facility installation for the disposal of gases and contaminated air. • Fire protection — facility installation for fire protection, e.g. for fire and smoke detection. • Gases — facility installation for the supply of bulk or special gases, e.g. for process tools. • Hot water — facility installation for the supply of hot water, e.g. for radiators, air condition or process tools. • HVAC — facility installation for heating, ventilation and air conditioning. • Life safety — facility installation for life safety and security, e.g. for detection of leakages of gases. Ultra pure water — facility installation for the supply of ultra pure water, e.g. for process tools. • Waste water treatment — facility installation for the treatment of waste water."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 7  Ordering Information",
+    "content": "7.1  When integrating FPUs into a FMCS, suppliers and purchasers have to agree on details on how the integration will be performed.  This includes a number of items such as the information to be exchanged between FMCS and FPUs, the communication protocol to be used2, or details of the available FPU subcontrol level.  Other parties such as fab planners or system integrators may be involved in this information exchange.  Related Information 2 provides a template for the ordering information and examples for its use."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8  Conventions",
+    "content": "8.1  This standard follows the conventions for state model methodology and service definitions as defined by other SEMI standards supplemented by specific extensions.  The conventions used in this standard are described in the following paragraphs."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.2  State Model Methodology (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.2  State Model Methodology\n\nContent: 8.2.1 This document uses the state model methodology as defined within SEMI E30 to describe the behavior of FPUs. A state model is comprised of the following elements: definitions of each state and sub state, a diagram of the states and the transition between states, and a state transition table. 8.2.2 The diagram of the state model uses the Harel State Chart notation3. 8.3 Notion of Alarm-Mode, Warning-Mode, Error-Mode — Signifies the importance of the situation that occurred at the FPU to draw attention at the FMCS. Error-Mode is generally used to signify an error. This error may be persistent for some time until the error situation is corrected. Warning-Mode may be used to signal a higher awareness that is to be raised at the FMCS. Again, attention may be needed to correct the problem. Alarm-Mode signals the highest awareness required and may again need some attention for correction. The use of which mode is used when and where is intentionally left to the agreement between the purchaser and the"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.2  State Model Methodology (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.2  State Model Methodology\n\nContent: supplier. It is recommended to use always the same philosophy for use of these three modes for the entire facility when possible."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.4  Transition Tables",
+    "content": "8.4.1  Transition Tables are provided in conjunction with the state diagrams to explicitly describe the nature of each state transition.  A transition table contains columns for transition number, previous state, trigger, new state, actions and a remark.  The trigger for the transition occurs while in the previous state.  The actions include a combination of actions taken upon exit of the previous state and actions taken upon entry into the new state."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.5  Operation Representation",
+    "content": "8.5.1  Operations are used to describe interfaces between different resources (e.g. interfaces between FMCS and FPUs).  An operation definition table defines the specific set of operations for a specific resource as shown in the following table:  \n8.5.2  Operation — Defines the operation name.  The operation name has to be unique for each given resource  \n8.5.3  Description — Gives a short comprehensive description of the operation with regard to functionality."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.6  Parameter Definitions (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.6  Parameter Definitions\n\nContent: 8.6.1 When calling an operation, parameters can be passed and returned. Parameters to be passed and returned depend upon the operation that is called. By using a parameter definition table the parameters passed and returned by an operation are defined. 8.6.2 Parameter — Within the parameter column the name of the specific parameter is given. 8.6.3 Description — Contains a description of a parameter. 8.6.4 Direction — Defines the direction: FMCS $_ - >$ FPU: originated by FMCS and received by FPU FPU $_ - >$ FMCS: originated by FPU and received by FMCS 8.6.5 Data Type — Defines the format of a parameter. 8.7 Field Definitions 8.7.1 A parameter can consist of different fields that define the contents of a parameter. A field definition table defines the format of the fields maintained within a specific parameter. 8.7.2 Field — A parameter can consist of different fields representing the contents of a parameter. Within the field column the name of the specific field is given. 8.7.3 Bit — In case a field is"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.6  Parameter Definitions (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 8.6  Parameter Definitions\n\nContent: stored within a bitwise-formatted parameter, the bit column defines the bit number or bit range where the field value is stored. 8.7.4 Meaning — Defines the meaning of the one or several field values. 8.7.5 Mandatory/Optional — Defines if setting the value of a field is either mandatory or optional."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9  Requirements",
+    "content": "9.1  Interconnection between FMCS and FPUs  \n9.1.1  The interconnection between the FMCS and the FPUs may be made by any type of bus system specified by SEMI (e.g. SEMI E54 series) as well as industrial ethernet based networks.  It is the purpose of this standard:  \n• to specify the semantics of the services that are exchanged between the FMCS and the FPUs, and to model the status information of the state machines that are maintained by the FPUs.  \n9.1.2  As introduced in $\\ S 7$ , state models are used to represent the current state of a FPU.  The FMCS may use this state information in order to display the state of all FPUs.  In addition, the FMCS may decide based on the state of a FPU whether remote operations on a FPU are advisable or not.  \nInterconnection Between FMCS and FPUs"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.2  FPU Requirements",
+    "content": "9.2.1  The FPU shall be able to run without a FMCS and shall communicate a minimal amount of status information to FMCS via the network as described in the next section."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.3  FMCS Requirements",
+    "content": "9.3.1  The FMCS shall be able to support the interface to the FPU and to make the information of this interface available through the Data Cache of the FMCS.  The FMCS shall be able to either monitor and/or control the FPU depending on the application."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4  State Models of Facility Package Unit",
+    "content": "9.4.1  State Models are used to describe the status of the FPU.  For the definition of the status models see $\\ S 8$ .  In the following all status values are specified together with their transitions."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.2  Watchdog-Toggle (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.2  Watchdog-Toggle\n\nContent: 9.4.2.1 The Watchdog-toggle shall be used to signal that a FPU still is capable to perform its processing function and is able to notify this to the FMCS. As long as the toggle mechanism alternates between “on” and “off” the processing function of the FPU is assumed to be functional. The processing function is assumed to be a programmed function, e.g. for a PLC. The toggle mechanism shall be linked into the processing function of the FPU so that if the processing function stops, the toggle mechanism will stop as well. Watchdog-toggle represents a variable that toggles its value between $\\ \" 0 \\ \"$ and “1” within a specified time window. The maximum required cycle time shall not exceed one minute. The Watchdog-toggle is used to realize a “life-beat monitoring function”. 9.4.2.2 The Watchdog-toggle is always required except in the case that the underlying communication system of the FPU and the FMCS already provides an integrated life-beat function, or • the FPU is a very simple device which does not provide"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.2  Watchdog-Toggle (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.2  Watchdog-Toggle\n\nContent: any processing function (e.g., a valve, electrical engine or heater). Table 1 State Transition for Watchdog-Toggle"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.3  OP-Mode",
+    "content": "9.4.3.1  OP-Mode specifies the operation mode of the FPU.  It can assume two values: Manual and Automatic.  The behavior of the FPU with respect to the states Manual and Automatic is out of scope.  \nManual: FPU operates in manual mode.\nAutomatic: FPU operates in automatic mode.  \nTable 2  State Transition Table for OP-Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.4  Control-Mode",
+    "content": "9.4.4.1  Control-Mode specifies the control mode of the FPU with respect to the FMCS.  It may assume two values: Local and Remote.  The behavior of the FPU with respect to the states Local and Remote is out of scope.  It is dependent on the type of FPU.  Control Mode is intended to be used by the FMCS to identify whether a remote operation of the FPU is enabled or disabled – by this the FMCS can allow or disallow operator actions on the FMCS  \nwith respect to that particular FPU.  On the FPU this control mode may be used to enable or disable remote control of the FMCS.  \nLocal: FPU operates in local mode, i.e. it can be controlled locally.\n• Remote: FPU operates in remote mode, i.e. it can be remotely controlled by the FMCS.  \nTable 3  State Transition Table Control-Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.5  Run-Mode (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.5  Run-Mode\n\nContent: 9.4.5.1 Run-Mode specifies the different running states of the FPU. It assumes three main values: Down, in Standby or Run. The behavior of the FPU with respect to the states of Run-Mode is out of scope. It is dependent on the type of FPU. The Annex to this Standard (see Related Information 1) provides some examples of the use of RunMode. The Run-Mode provides general information of the FPU, whether it is Down, in Stand-by or in Run: Down (the FPU is in a fault situation or it may be switched into Down by a pre scheduled function; this is specified by an optional flag): o flag set for scheduled down o flag set for unscheduled down • Stand-by (the FPU is ready to be switched into Run). • Run (the FPU is running). 9.4.5.2 The FPU should assume optionally sub states when in Run or Stand-by. These sub states are: Run: sub state Locked (the FPU is locked to hold the Run state) or Not_Locked and • Stand-by: sub state Locked (the FPU is locked to hold the Stand-by state) or Not_Locked. 9.4.5.3 The locked sub state of Run"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.5  Run-Mode (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.5  Run-Mode\n\nContent: and Stand-by may be used in order to force the FPU to maintain the current Run or Stand-by state until the lock is disabled. The reasons causing the lock are out of scope of this standard. In addition to the trigger to unlock, only critical failures can cause the FPU to leave the locked sub state. These critical failures are being defined on a case by case basis by the purchaser and supplier of the FPU and the system integrator."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.6  Alarm-Mode",
+    "content": "9.4.6.1  Alarms are being defined on a case by case basis between the purchaser and the supplier of the FMCS and FPUs and the system integrator.  Alarm-Mode specifies whether an alarm occurred:  \nNo_Alarm: No alarm present.\nAlarm: An alarm is present (at least one part of the FPU is in alarm condition).  \nTable 5  State Transition Table Alarm-Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.7  Warning-Mode",
+    "content": "9.4.7.1  Warnings are being defined on a case by case basis between the purchaser and supplier of the FMCS and FPUs and the system integrator.  Warning-Mode specifies whether a warning occurred:  \nNo_Warning: No warning present Warning: Warning present.  \nTable 6  State Transition Table Warning-Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.8  Error-Mode",
+    "content": "9.4.8.1  Errors are being defined on a case by case basis by the purchaser and supplier of the FMCS and FPUs and the system integrator.  Error-Mode specifies whether an error occurred:  \nNo_Error: No error present.\nError: Error present.  \nTable 7  State Transition Table Error-Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.9  Maintenance-Mode",
+    "content": "9.4.9.1  Maintenance-Mode specifies whether maintenance is required or no maintenance is required:  \n• No_Maintenance: No maintenance required.\n• Maintenance: Maintenance is required (at least one part of the FPU requires maintenance at the site of the FPU).  \nTable 8  State Transition Table Maintenance-Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.4.10  Simulation-Mode",
+    "content": "9.4.10.1  Simulation-Mode specifies whether the FPU or parts of the FPU are simulated:  \nNo_Simulation: FPU operates not in simulation mode (simulation turned off).  \n• Simulation: FPU or parts of the FPU are simulated.  FPU functions are performed using simulated I/O signals.  \nTable 9  State Transition Table Simulation-Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 9.5  Operations Between FMCS and FPUs",
+    "content": "9.5.1  The Table below lists the operations between the FMCS and the FPU."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # Table 10  Operation Definition",
+    "content": "9.5.2  Get Status — Is used by the FMCS to request the status of the FPU.  \nTable 11  Status Parameters  \nTable 12  Status Field Values  \n9.5.3  Set Data — Is used by the FMCS to set data in the FPU.  Upon receiving this, the FPU shall update the data with the Set value.  \nTable 13  Set Data Parameter  \n9.5.4  Get Data — Is used by the FMCS to get data from the FPU.  Upon receiving this from the FPU, the FMCS shall update its data cache.  \nTable 14  Get Data Parameter"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 10  Mapping to Various Communication Solutions",
+    "content": "10.1  This standard does not make any assumptions about how the mapping to the communications protocols is made."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 11  Test Methods and Compliance (Part 1)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 11  Test Methods and Compliance\n\nContent: 11.1 Overall Precondition — The precondition for testing the FPU (and the FMCS) is the agreement between supplier and purchaser on a common set of issues which include: communication hardware and protocols to be used for the integration between FMCS and FPU, data formats and semantics to be transferred between FMCS and FPU, FMCS and FPU are initialized, the FPU reflects already a valid run state, FMCS shall be able to issue a Get Status, and FMCS shall be able to visualize the results of the tests. 11.1.1 See ordering information (§7) and Related Information 2 (§R2). 11.2 Tests 11.2.1 Get Status Test 11.2.1.1 Preconditions: FMCS and FPU are connected. FMCS is ready to issue a Get Status. 11.2.1.2 Test Operations: • Operation 1: The FMCS shall issue a Get Status against the FPU. • Operation 2: The FMCS shall issue a Get Status against the FPU. The FPU shall alternate the WatchdogToggle. Operation 3..n: The status of all status variables at the FPU is forced at least to change once; after each status"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 11  Test Methods and Compliance (Part 2)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 11  Test Methods and Compliance\n\nContent: change a new Get Status request shall be issued against the FPU. 11.2.1.3 Post Conditions: Post condition 1: The FPU shall respond with all requested parameters in the Status Response. The result shall be visualized by the FMCS and show the returned values of all supported status variables. • Post condition 2: The FMCS shall visualize that the FPU is still alive or not alternating the Watchdog-Toggle within the specified time window. Post condition 3..n: The FPU shall respond with the changed status variable values. In each case the result of all supported status variables shall be visualized by the FMCS. 11.2.1.4 All status values of the Run-Mode shall be used at the FPU to show that state changes are correctly maintained and transmitted to the FMCS. 11.2.2 Set Data Test (if supported by FPU) 11.2.2.1 Preconditions: FMCS and FPU are connected. FMCS is ready to issue a Set Data. FMCS shall be able to enter the data to be transmitted by Set Data. 11.2.2.2 Test Operations: • Operation 1..n: The FMCS"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 11  Test Methods and Compliance (Part 3)",
+    "content": "Title: SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 11  Test Methods and Compliance\n\nContent: shall issue a Set Data against the FPU."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # 11.2.2.3  Post Conditions:",
+    "content": "Post condition 1..n: The FPU shall reflect the new value of the variable set by the Set Data.  \n1.2.2.4  It is recommended that all parameters supported by Set Data are tested.  \n11.2.3  Get Data Test (if supported by FPU)  \n11.2.3.1  Preconditions:  \nFMCS and FPU are connected.\nFMCS is ready to issue a Get Data.  \n11.2.3.2  Test Operations:  \n• Operation 1..n: A test person shall set the variable at the FPU to a particular value.  The FMCS shall issue a Get Data against the FPU.  \n11.2.3.3  Post Conditions:  \nPost condition 1..n: The FMCS shall visualize the new value of the variable.  \n11.2.3.4  It is recommended that all parameters supported by Get Data are tested.  \n11.3  Compliance  \n11.3.1  Table 15 provides a checklist for compliance with this standard.  \nTable 15  Compliance Checklist"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # RELATED INFORMATION 1 APPLICATION EXAMPLES",
+    "content": "NOTICE: This related information is not an official part of SEMI F97 and was derived from work of the originating task force.  This related information was approved for publication by full letter ballot on November 10, 2004."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # R1-1  Application Examples",
+    "content": "R1-1.1 In order to help with understanding of FPU states specified in this standard, this Related Information provides examples of their use.  Examples of simple and more complex FPUs are given.  The status of the FPU retrieved by the FMCS is depicted in a table.  In addition, a picture is given that might visualize the FPU status by the FMCS."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # Table R1-1  Status Response of a Pump in Operation",
+    "content": "FMCS- Visualization"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # Table R1-2  Status Response of a Pump That is Not Operating Because of an Alarm, e.g. Motor-Overheat",
+    "content": "FMCS- Visualization"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # R1-2 Complex FPU – Makeup Air Unit (MAU)",
+    "content": "Table R1-3  Status Response of a MAU in Run, Locked and Automatic Mode  \nTable R1-4  Status Response of a MAU in Maintenance Mode"
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # RELATED INFORMATION 2 CHECKLIST FOR SUPPLIERS AND PURCHASERS",
+    "content": "NOTICE: This related information is not an official part of SEMI F97 and was derived from work of the originating task force.  This related information was approved for publication by full letter ballot on November 10, 2004."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # R2-1  Checklist of Information Exchanged",
+    "content": "R2-1.1  Table R2-1 lists the information that needs to be agreed upon by purchasers, system integrators and suppliers for a particular application within the focus of this standard."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # Table R2-1  Template for the Information Exchanged Between FMCS and FPU",
+    "content": "NOTE 1:  Table R2-1 is comprised of three sections – General Information, Status Information, and Data Information General Information  \nStatus Information  \nData Information  \nR2-1.2  SEMI E6 recommends data to be supplied in the semiconductor equipment installation documentation including their units of measurement.  It is recommended that FPUs and FMCS use the same units of measurement for the data to be exchanged between them."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # R2-2  Example",
+    "content": "R2-2.1  The tables below give examples of the template tables listed in R2-1."
+  },
+  {
+    "title": "SEMI F97-0305SPECIFICATION FOR FACILITY PACKAGE INTEGRATION,MONITORING AND CONTROL - # Table R2-2  Example of the Use of the Tables R2-1 for One Particular FPU General Information",
+    "content": "Status Information  \nData Information  \nNOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application.  The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer's instructions, product labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein.  These standards are subject to change without notice.  \nBy publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard.  Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING",
+    "content": "This guide was technically approved by the Global Facilities Committee and is the direct responsibility of the North American Facilities Committee.  Current edition approved by the North American Regional Standards Committee on December 10, 2004.  Initially available at www.semi.org February 2005; to be published March 2005."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 1  Purpose",
+    "content": "1.1  This guide establishes definitional requirements for industrial water systems that reuse water in a semiconductor manufacturing facility.  It is intended to establish a common basis for developing detailed specifications in subsequent documents concerning design, performance, optimization, and monitoring of such systems.  \n1.2  This document may be used by users and suppliers as a basis for developing site-specific specifications and performance criteria."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 2  Scope",
+    "content": "2.1  This guide applies to water systems designed for reuse of water including reclaim and recycle, used in semiconductor manufacturing facilities, supplying water to a variety of uses.  Such uses include directing waters to the front end of a UPW system, to cooling systems, scrubbers, thermal processes, and to irrigation systems, depending on the quality of the water.  \n2.2  This guide can be used to understand the design elements and functionality of water systems that support reuse of water.  Although such systems can be retrofitted into existing manufacturing factories, there is a broader range of opportunities available in new facilities that can be designed with water saving applications in mind.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 3  Limitations",
+    "content": "3.1  This guide does not define the actual specifications generally negotiated between the user and the manufacturer of the reclaim or recycle system.  \n3.2  This guide does not address the methodology for optimizing the reuse of spent rinse waters.\n3.3  This guide does not address the frequency or scope of ongoing maintenance for reuse water systems including change-out of resin beds and replacement of filters.\n3.4  This guide does not describe the broad range of possible reuse opportunities and the associated water quality required for each.\n3.5  This guide does not intend to cover any of the important safety considerations that relate to the proper installation, operation, or maintenance of a reuse water system."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 4  Referenced Standards",
+    "content": "4.1  SEMI Standards  \nSEMI E49 — Guide for High Purity and Ultrahigh Purity Piping Performance, Subassemblies, and Final Assemblies SEMI F63 — Guide for Ultrapure Water System Used in Semiconductor Processing SEMI S2 — Environmental, Health, and Safety Guideline for Semiconductor Manufacturing Equipment"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 4.2  Other Standards",
+    "content": "“Strategies for Water Reuse Reduction in Semiconductor Manufacturing”, Technology Transfer 97013232A-ENG1  \n2004 International Technology Roadmap for Semiconductors1  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 5  Terminology",
+    "content": "5.1  Acronyms and Abbreviations  \n5.1.1  UPW — Ultrapure Water  \n5.2  Definitions  \n5.2.1  spent water — any discharge water that is consumed or processed and is ready to be discharged to drain.  \n5.2.2  UPW reclaim — the reuse of spent water as feed water for a process different from the one that discharged it, e.g.  RO reject fed into cooling towers.  \n5.2.3  UPW recycle — the reuse of spent water as feed water for the same process that discharged it (Point-ofDischarge (POD) recycling), or  the plant UPW system.  \n5.2.4  UPW reuse — the secondary use of spent water."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements (Part 1)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements\n\nContent: 6.1 Collection of Waste Streams — The most common collection system includes fab-wide gravity collection piping using PVC or PVDF transfer piping and associated pipe racks and tunnels to the collection tanks. Proper venting is also critical to correct operation. The system may also include a reclaim pit, pumps, tanks, and controls. Separate holding tanks are used for each grade of water or type of waste stream so that routing of waste and types of treatment can be matched to specific needs (see Figure 1). 6.1.1 A key consideration for the design of a water reuse system is the ability to separate different grades of water and collect each type of effluent. Typical types of segregation include: segregation of clean rinse water from acid waste; separation of waste streams that contain organics, (e.g. from IPA drying); and isolation of waste streams that require specific treatment such as for hydrofluoric acid, CMP processing, copper solutions, or phosphoric acid. 6.1.2 A recent initiative by semiconductor"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements (Part 2)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements\n\nContent: fabs encourages tool manufacturers to include multiple drain lines within the tool so that waste streams can be easily segregated. Diverter valves can be used to segregate chemicals and are also useful when organics exceed recommended levels. Tool manufacturers can also incorporate plumbing and treatment modules for returning spent water discharged from a tool as feed water for that tool (Point of Discharge [POD] recycling). Purchasing tools with recycle hardware already built-in eliminates the need for users to design and install customized water reuse systems unique to their site. 6.2 Treatment of Waste Streams — In addition to choosing the most effective and technically sound design choices, other considerations for treatment choices include easy access to all major components for operations and maintenance, availability of consumables and spare parts, and a high level of automation and reliability. There are several choices related to treatment choices: 6.2.1 TOC (total oxidizable carbon)"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements (Part 3)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements\n\nContent: destruction by UV is commonly used for removal of organics found in reclaim waters and is sometimes combined with ozone or hydrogen peroxide. 6.2.2 Activated Carbon or other adsorbents (e.g. GAC) are used for removal of organics and decomposed hydrogen peroxide, and is a common type of treatment in recycle water systems. 6.2.3 Electrodeionization (EDI) enables ion exchange reactions to be carried out continuously, without off-line regeneration, by introducing a dc electric field across the resin bed. This electric filed is oriented transverse to the direction of water flow through the ion exchange column. Under the influence of the applied electric field, impurity ions, chemically captured by the ion exchange reactions, drift from resin bead to neighboring resin bead and ultimately through a semipermeable membrane that isolates the feed water channel from adjacent circulating water flows (“concentrate channels”) that sweep away the impurities entering through the semipermeable membranes. This continuous"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements (Part 4)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements\n\nContent: regeneration action eliminates the need to take ion exchange columns off-line for resin regeneration and also eliminates the need for storing regeneration chemicals on site. 6.2.4 Reverse Osmosis Membrane Treatment provides extremely high rejection of dissolved ions (charged atoms and molecules), organic (carbon containing) compounds, silica (silicon containing) compounds, and virtually complete rejection of suspended contaminants, but will not reject dissolved gases and volatile organic compounds as well. For reclaim systems, special types of high rejection or low fouling RO membranes may be selected. 6.2.5 Often RO Systems are combined with ion exchange processes either with the purpose of increasing the recovery rate of the RO or by combining the high efficiency of a membrane process with the lower fouling potential of ion exchange resins, e.g. Weakly Acidic Cation Resin (WAC) is designed to remove Ca and $\\mathbf { M g }$ ions in the water. The system design should reflect that most of the"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements (Part 5)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements\n\nContent: contaminants of rinse waters are anionic in nature and may foul RO membranes, but recycling water may be mixed with other water qualities and may therefore contain hardness, which can react with the Fluoride of the recycling water. 6.2.6 Biological processes are used to treat water with higher organic contents. They can be either fixed bed systems or fluidized bed systems. These processes typically require both upstream and downstream processes, such as neutralization, and maintaining a stable feed concentration for the biological process upstream and removal of bacteria downstream. The operation of such systems is quite sensitive, but most of the organics used in semiconductor manufacturing can be treated by such systems, including TMAH and chemicals used for lithography and stripping. 6.2.7 Other Treatment — Includes microfiltration, ultrafiltration, and other types of water treatment typically used to protect RO Membranes. Pretreatment equipment may include media filtration (bulk suspended solids"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements (Part 6)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements\n\nContent: removal), 1–5 micron cartridge filtration (polishing step for suspended solids removal), sodium-cycle cation exchange (softening, to remove scale-forming cations), acid injection (to minimize cellulose acetate membrane damage and/or to control carbonate scales), scale inhibitor injection (to control scaling), and sulfite ion injection (to remove oxidizing agents). 6.3 Monitoring — TOC, pH, conductivity, and temperature are typical parameters that can be monitored on-line and tracked over time to optimize performance. The set points and level of monitoring depends on the chemistries being used and what the ionic and organic loads are in each waste stream after the application and the treatment. To ensure the accuracy of certain on-line measurements, a minimum residence time and volume of sample is required and can be provided through the use of a buffer station and separate sample tanks. Other parameters such as fluoride levels, specific organics, and oxidants from undeveloped ammonia must be measured in"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements (Part 7)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 6  Design Components and Elements\n\nContent: the laboratory."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 7  Grades of Water Effluent",
+    "content": "7.1  Rinse Water — The second and third rinses from wafer cleaning processes are sufficiently high quality to be reused without further treatment either for make-up water in a UPW system, or directly for use in a lower grade application such as CMP cleaning.  \n7.2  Non-treated Reclaim Water — Is a lower grade of water with possible applications including fab air pollution abatement scrubbers, fab point-of-use hazardous gas burn boxes, and drain flushing for CMP drains."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 8  Special Issues (Part 1)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 8  Special Issues\n\nContent: 8.1 Difficulty of Identifying and Treating Organics — It is difficult to evaluate rinse waters after solvent use. Real time, on-line instruments are not available to easily quantify and identify the complete composition of the organic molecules for proper segregation. In addition, treatment of waste water containing organics is more difficult in some cases, depending on the organic molecules being removed or converted. 8.2 Managing Excursions — Excursions in reuse water quality can occur due to various reasons such as human error in operating non-automated manufacturing equipment. 8.2.1 It is important to detect and redirect such water before it can contaminate the system for which it directed for reuse or possibly even damage the treatment equipment. Excursions from organics are particularly difficult because they cannot be detected in real time. Two methods have been used to compensate for this delay: locate the analyzers at a sufficient distance upstream of the central diverter point, or provide a sufficient"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 8  Special Issues (Part 2)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 8  Special Issues\n\nContent: buffer/quarantine volume. 8.3 Temperature — Hot water effluent from rinse tanks on wet benches can provide a challenge in recycling treatment systems, as temperature can be an important variable to water recycling system performance and can cause an increase in bacteria growth. This issue is influenced by seasonal variations in ambient temperature. Heat exchangers for process waters can be added to a recycle system in order to keep the system at a steady state. 8.4 Discharge Permits — One aspect of water reuse that can have significant economic impact relates to site effluent and local discharge permits. As water reuse increases, contaminant concentrations in the site effluent will also increase due to the reduced volume of the wastewater. If site water reuse is great enough, these higher concentrations may approach the limits of the local wastewater discharge permits and need to be closely monitored."
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 9  Economic Considerations (Part 1)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 9  Economic Considerations\n\nContent: 9.1 General — Potential cost savings are available from the introduction of reuse water systems. One type of savings can be measured from the actual cost of the water being replaced. The cost savings depends on the grade of water being replaced and the original cost of producing that grade of water at that location. Additional savings can often be realized in maintenance costs (e.g. membrane cleaning) given that the reclaim water is generally of better quality than incoming water. Models for evaluating the economics of a reclaim or recycle water application have been developed in the industry. NOTE: Courtesy of German UPW standard VDI 2083 Part 13 Figure 1 Schematic of Basic Reclaim Water System NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer's instructions, product labels, product"
+  },
+  {
+    "title": "SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 9  Economic Considerations (Part 2)",
+    "content": "Title: SEMI F98-0305 GUIDE FOR TREATMENT OF REUSE WATER IN SEMICONDUCTOR PROCESSING - # 9  Economic Considerations\n\nContent: data sheets, and other relevant literature, respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility. Copyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written"
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE",
+    "content": "This specification was technically approved by the Global Liquid Chemicals Committee.  This edition was approved for publication by the global Audits and Reviews Subcommittee on March 11, 2005.  It was available at www.semi.org in June 2005 and on CD-ROM in July 2005."
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 1  Purpose",
+    "content": "1.1  This document specifies the outside dimensions of diaphragm valves used with metric PFA tubes in liquid chemical distribution facilities and process equipment for semiconductor and flat panel display manufacturing."
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 2  Scope",
+    "content": "2.1  This specification addresses dimensions of diaphragm valves used with metric PFA tubes except for face-toface dimensions. Since there are many seizes of fittings being applied to valves, this document doesn’t specify faceto-face dimensions.  \n2.2  These diaphragm valves are limited to pneumatic valves. Specification for manual valves should be separately provided as needed.  \n2.3  These diaphragm valves are used in chemical distribution systems for semiconductor and flat panel display manufacturing.  \n2.4  The valves are made from materials such as PTFE or PFA, which have high corrosion resistance and low contamination contribution to the fluid.  \n2.5  The valves withstand up to 0.2 megapascals (MPa) [29 pounds per square inch (psi)] back pressure.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 3.1  SEMI Standards",
+    "content": "SEMI F65 — Dimensional Specification for Mounting Bases of Diaphragm Valves Used with Metric PFA Tubes  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 4  Terminology",
+    "content": "4.1  Abbreviations and Acronyms  \n4.1.1  PFA — Tetrafluoroethylene Perfluoroalkylvinylether  \n4.1.2  PTFE — Tetrafluoroethylene  \n4.2  Definitions  \n4.2.1  back pressure — a maximum allowable pressure applied to outlet of a diaphragm valve.  \n4.2.2  liquid chemicals — acid, alkali, organic solvent, and pure water used for wet stations; resists and developers used for truck system; and other chemicals used for process or maintenance (such as slurry of CMP) of equipment or facilities."
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 5  Dimensional Specifications",
+    "content": "5.1  Overall Height Dimensions — The height (B) and (C) indicated in Figure 1 and the values for different tube sizes are specified in Table 1.  \n5.2  Port Height Dimensions — The height (A) indicated in Figure 1 and the values for different tube sizes are specified in Table 1.  \n5.3  Body Dimensions — The length (D) and width (E) of the body indicated in Figure 1 and the values for different tube sizes are specified in Table 1.  \nTable 1  Dimensional Specifications  \n#1  OD and ID are the outside diameter and inside diameter of the tube respectively. #2  As seen above, dimensions of A are specified by the range, and dimensions from B to E are specified as maximum dimensions that are to be considered as targets."
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 6  Measurements (Part 1)",
+    "content": "Title: SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 6  Measurements\n\nContent: 6.1 The mounting base must be conditioned for a minimum of one hour in an air environment of $2 3 \\pm 3 ^ { \\circ } \\mathrm { C }$ $( 7 3 . 4 \\pm 5 . 4 ^ { \\circ } \\mathrm { F } )$ prior to measuring the dimensions. NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer's instructions, product labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights,"
+  },
+  {
+    "title": "SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 6  Measurements (Part 2)",
+    "content": "Title: SEMI F99-0705DIMENSIONAL SPECIFICATION OF A DIAPHRAGM VALVE FOR AMETRIC PFA TUBE - # 6  Measurements\n\nContent: and the risk of infringement of such rights are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE",
+    "content": "This test method was technically approved by the Global Liquid Chemicals Committee.  This edition was approved for publication by the global Audits and Reviews Subcommittee on March 11, 2005.  It was available at www.semi.org in June 2005 and on CD-ROM in July 2005."
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 1  Purpose",
+    "content": "1.1  This compliance test method presents that the verification of the compatibility of each diaphragm valves for Metric PFA tube simply.\n1.2  This document specifies the relative orifice that gives the minimum flow coefficient for diaphragm valve for Metric PFA tube.\n1.3  This compliance test method describes how to verify the flow coefficient of the diaphragm valve by comparing with the relative orifice."
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 2  Scope",
+    "content": "2.1  This Specification addresses a capacity of diaphragm valves used with metric PFA tubes.  \n2.2  These diaphragm valves are used in chemical distribution systems for semiconductor and flat panel display manufacturing.\n2.3  The valves are made from materials such as PTFE or PFA, which have high corrosion resistance and low contamination contribution to the fluid.\n2.4  The valves withstand up to 0.2 megapascals (MPa) [29 pounds per square inch (psi)] backpressure.\n2.5  Fully open to fully shut switch over is the objective of the shut-off valve.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 3  Terminology",
+    "content": "3.1  Abbreviations and Acronyms  \n3.1.1  PFA — Perfluroalkoxy  \n3.1.2  PTFE — Polytetrafluoroethylene  \n3.1.3  P1 — Gauge pressure at upstream pressure tap, kPa  \n3.1.4 $\\boldsymbol { \\mathcal { Q } }$ — Volumetric flow rate  \n3.2  Definitions  \n3.2.1  back pressure — a maximum allowable pressure applied to outlet of a diaphragm valve.  \n3.2.2  liquid chemicals — acid, alkali, organic solvent, and pure water used for wet stations; resists and developers used for track system; and other chemicals used for process or maintenance (such as slurry of CMP) of equipment or facilities."
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 4  Test Fluids",
+    "content": "4.1  Incompressible (Liquid) Fluid — Water is standard liquid test fluid."
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 5  Test Setup",
+    "content": "5.1  Standard Orifice  \n5.1.1  Orifice Diameter (A)  \nOn the basis of $50 \\%$ of the inner diameter of PFA tube connection. See Figure 1.  \n$\\Phi ^ { 2 . 0 [ \\mathrm { m m } ] }$ orifice $( \\varphi 6 - 4 [ \\mathrm { m m } ]$ tube) $\\varphi 4 . 0 [ \\mathrm { m m } ]$ orifice $\\left( \\phi 1 0 - 8 [ \\mathrm { m m } ] \\right.$ tube) + $\\Phi ^ { 5 . 0 [ \\mathrm { m m } ] }$ orifice $( \\varphi 1 2 \\mathrm { - } 1 0 [ \\mathrm { m m } ]$ tube) $\\Phi ^ { 8 . 0 [ \\mathrm { m m } ] }$ orifice (φ19-16[mm] tube) 1 $\\boldsymbol { \\Phi } ^ { 1 1 . 0 [ \\mathrm { m m } ] }$ orifice $( \\varphi 2 5 - 2 2 [ \\mathrm { m m } ]$ tube)"
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 5.1.2  Orifice Diameter Tolerance (Part 1)",
+    "content": "Title: SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 5.1.2  Orifice Diameter Tolerance\n\nContent: Tolerance: $+ 0 . 2 , - 0 [ \\mathrm { m m } ]$ 5.1.3 Orifice Length (B) should be less than inner tube diameter, i.e., $\\mathbf { B } \\leq \\mathbf { A }$ . 5.1.4 Dimensions (D) should be determined in accordance with the test valve port connection, i.e., $\\mathbf { D } \\leq \\mathbf { E }$ . 5.1.5 Dimension (F) should be equal to or less than a 90 degree angle. 5.2 Test Circuit 5.2.1 The valve and orifice tests must be applied with identical pressure sensors/flow meters. 5.2.2 Reproducibility and repeatability of measuring devices must rate $2 \\%$ or less of R.S. 5.2.3 Both the test valve and test orifice must have identical port connections. 5.3 Test Method/Procedure 5.3.1 In accordance to the test circuit of $\\ P 5 . 2$ , flow rate is compared under the same pressure condition. Volume and weight of accumulative flow can be compared without the use of a flow meter. 5.3.2 P1 is set 50kPa or more. 5.4 Qualification of Standard 5.4.1 The standard of diaphragm valves used with"
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 5.1.2  Orifice Diameter Tolerance (Part 2)",
+    "content": "Title: SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 5.1.2  Orifice Diameter Tolerance\n\nContent: metric PFA tubes is determined by the flow rate Q1 of the tested valve being greater than the flow rate Q2 of the standard orifice tested of $\\ P 5 . 1 .$ . ( $\\mathrm { Q 1 } > \\mathrm { Q 2 } / \\mathrm { Q 1 } < \\mathrm { Q 2 } )$ . NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer's instructions, product labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised"
+  },
+  {
+    "title": "SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 5.1.2  Orifice Diameter Tolerance (Part 3)",
+    "content": "Title: SEMI F100-0705 COMPLIANCE TEST METHOD FOR MINIMUM FLOW COEFFICIENT OF DIAPHRAGM VALVE FOR METRIC PFA TUBE - # 5.1.2  Orifice Diameter Tolerance\n\nContent: that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility. FLAT PANEL DISPLAY Semiconductor Equipment and Materials International"
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES",
+    "content": "This specification was technically reapproved by the Global Flat Panel Display Committee and is the direct responsibility of the Japanese FPD Materials and Components Committee. Current edition approved by the Japanese Regional Standards Committee on April 28, 2003.  Initially available at www.semi.org June 2003; to be published July 2003. Originally published in 1991."
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 1  Purpose",
+    "content": "1.1  This document defines various areas on the pattern surface of a flat panel display substrate and describes their relationship. It assumes the existence of terminology and a banking convention described in other SEMI flat panel display documents."
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 2  Scope",
+    "content": "NOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 3.1  SEMI Standards",
+    "content": "SEMI D9 — Terminology for FPD Substrates  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 4  Significance",
+    "content": "4.1  The patterns placed on a flat panel display substrate are expected to occur only in a specified, central area, and certain requirements are applied in that area to both the substrate and pattern quality. The substrate peripheral area(s) outside this zone have different specified properties. Defining the terms to apply and the geometric relationship in these various areas will assist the suppliers and users of substrates and processing/inspection equipment."
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 5  Summary",
+    "content": "5.1  A substrate edge length is defined in two dimensions, $\\mathrm { L } _ { \\mathrm { X } }$ and $\\mathrm { L _ { Y } }$ , with nominal and tolerance values for each.  \n$5 . 2 \\mathrm { ~ A ~ }$ quality area is defined by two dimensions, $\\mathbf { Q A } _ { \\mathrm { X } }$ and $\\mathbf { Q A } _ { \\mathrm { Y } }$ , with nominal and tolerance values for each.  \n5.3  A fixed edge exclusion area is defined for the substrate edges to be placed against reference (also called “banking”) pins.  \n5.4  Two variable edge exclusion areas result from combining the above three dimension sets."
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 6  Procedure (Part 1)",
+    "content": "Title: SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 6  Procedure\n\nContent: 6.1 Locate the properties in Sections 6.2–6.4 relative to the substrate origin, using the nominal values assigned by the substrate specification. 6.2 Let $\\operatorname { L _ { X } } =$ the substrate edge length in the xdirection, and $\\operatorname { L _ { Y } } =$ the substrate edge length in the y-direction. (See Figure 1.) 6.3 Let $\\mathrm { E F _ { X } = }$ the fixed edge exclusion area along the substrate’s lower edge, and $\\mathrm { E F _ { Y } ~ = ~ }$ the fixed edge exclusion area along the substrate’s left edge. 6.4 Let $\\boldsymbol { \\mathrm { Q A _ { X } } } =$ the quality area’s edge length in the x direction, and $\\mathbf { Q } \\mathbf { A } _ { \\mathrm { Y } } =$ the quality area’s edge length in the y direction. 6.5 Then $\\mathrm { E V _ { X } }$ and $\\mathrm { E V _ { Y } }$ , the variable edge exclusions, are not specified. They result from the interaction of substrate tolerance variations from nominal with the fixed location origin. $\\mathrm { \\Delta Q A _ { X } Q A _ { Y } }$ are specified,"
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 6  Procedure (Part 2)",
+    "content": "Title: SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # 6  Procedure\n\nContent: nominal dimensions EFX, EF Y $^ \\mathrm { E V } _ { \\mathrm { X } } , \\mathrm { E V } _ { \\mathrm { Y } }$ are not specified, but result from tolerance effects."
+  },
+  {
+    "title": "SEMI D3-91 (Reapproved 0703) QUALITY AREA SPECIFICATION FOR FLAT PANEL DISPLAY SUBSTRATES - # Figure 1 Substrate Area Relationships",
+    "content": "NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice.  \nThe user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES",
+    "content": "This standard was technically reapproved by the Global Flat Panel Display Committee and is the direct responsibility of the Japanese FPD Materials and Components Committee. Current edition approved by the Japanese Regional Standards Committee on April 28, 2003.  Initially available at www.semi.org June 2003; to be published July 2003. Originally published in 1993; previously published in 1994."
+  },
+  {
+    "title": "SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 1  Purpose",
+    "content": "1.1  This standard covers the specification of nominal edge length and thickness and related tolerances of a flat panel display substrate."
+  },
+  {
+    "title": "SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 2  Scope",
+    "content": "2.1  These dimensions apply to substrates that are principally used in fabricating AMLCD displays. These dimensions may also be applicable to substrates for other display types. The edge lengths specified range from $3 0 0 \\times 3 0 0 \\mathrm { ~ m m }$ to $5 0 0 \\times 5 0 0 \\ \\mathrm { m m }$ .  A single thickness, $1 . 1 \\mathrm { m m }$ , applied to all substrates.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 3.1  SEMI Standards",
+    "content": "SEMI D3 — Quality Area Specification for Flat Panel Display Substrates  \nSEMI D4 — Method for Referencing Flat Panel Display Substrates  \nSEMI D12 — Specification for Edge Condition of Flat Panel Display (FPD) Substrates  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 4.1  Edge Length",
+    "content": "Table 1  Standard (Arithmetical Progression) Edge Length (mm)  \nNOTE 1: For substrates larger than $5 0 0 ~ \\mathrm { \\ m m } \\times 5 0 0 ~ \\mathrm { \\ m m }$ , it is recommended that the edge lengths be increased in increments of 50 mm.  \nCopyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI.  \nTable 2  Standard Edge Length (mm)  \nTable 3  Edge Length Tolerance"
+  },
+  {
+    "title": "SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 4.2  Thickness — 1.1 ± 0.1 mm (Part 1)",
+    "content": "Title: SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 4.2  Thickness — 1.1 ± 0.1 mm\n\nContent: NOTE 1: Nominal values and tolerances for thickness $< 1 . 1$ $\\mathrm { m m }$ , and $> 1 . 1$ mm are under discussion. NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights"
+  },
+  {
+    "title": "SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 4.2  Thickness — 1.1 ± 0.1 mm (Part 2)",
+    "content": "Title: SEMI D5-94 (Reapproved 0703) STANDARD SIZE FOR FLAT PANEL DISPLAY SUBSTRATES - # 4.2  Thickness — 1.1 ± 0.1 mm\n\nContent: or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES",
+    "content": "This specification was technically approved by the Global Flat Panel Display Mask Committee and is the direct responsibility of the Japanese Flat Panel Display Materials and Mask.  Current edition approved by the Japanese Regional Standards Committee on January 11, 2005.  Initially available at www.semi.org January 2005; to be published March 2005.  Originally published in 1992; previously published November 2001."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 1  Purpose",
+    "content": "1.1  This specification defines standard for substrates used to fabricate liquid crystal display masks."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 2  Scope",
+    "content": "2.1  This specification applies to photomasks that are principally used in fabricating liquid crystal displays. The edge lengths specified range from $2 0 2 . 8 \\times 2 0 2 . 8 ~ \\mathrm { m m }$ to $7 0 0 \\times 8 0 0 \\mathrm { { m m } }$ .  \n2.2  Substrates with an edge length less than $2 0 0 ~ \\mathrm { m m }$ follow the specifications for a semiconductor mask (see SEMI P1).  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 3  Referenced Standards",
+    "content": "3.1  SEMI Standard  \nSEMI P1 — Specification for Hard Surface Photomask Substrates  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 4  Terminology",
+    "content": "4.1  None."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 5  Ordering Information",
+    "content": "5.1  Ordering information shall be discussed between suppliers and users."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 6  Edge Length and Thickness Specification",
+    "content": "6.1  Edge Length — Units are in mm. See Tables 1 and 2, 3 and 4, 5 and 6, and 7 and 8 for a combination of materials, edge length, and thickness.  \n6.2  Edge Length Tolerance — $\\pm 0 . 4 \\ : \\mathrm { m m }$ . Applies to all groups.  \n6.3  Thickness, Tolerance  \n6.3.1  Thickness of substrates shall be specified by the edge length group and materials as shown in Tables 2, 4, and\n6.  \n6.3.2  Tolerance — For Groups A and B: $- 0 . 4 \\sim + 0 . 2 \\ : \\mathrm { m m }$ .  For Group C: See Table 6.  For Group D: See Table 8.  \n6.4  Material — See $\\ S 7$ .  \nTable 1  Edge Length (Group A) in mm  \nTable 2  Plate Thickness and Materials (Group A) in mm  \nTable 3  Edge Length (Group B) in mm  \nTable 4  Plate Thickness and Materials (Group B) in mm  \nTable 5  Edge Length (Group C) in mm  \nTable 6  Plate Thickness and Materials (Group C) in mm  \nTable 6  Plate Thickness and Materials (Group C) in mm  \nTable 7  Edge Length (Group D) in mm  \nTable 8  Plate Thickness and Materials (Group D) in mm"
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 7  Material Specification",
+    "content": "7.1  Substrate material shall be specified as high thermal expansion (HTE), medium thermal expansion (MTE), low thermal expansion (LTE), or ultra low thermal expansion (ULTE). Examples of HTE materials are soda lime glasses; of MTE materials are borosilicate and aluminosilicate glasses; of LTE materials are aluminosilicate glasses; and of ULTE materials are synthetic quartz glasses.  \n7.2  Substrate materials shall conform to thermal expansion and optical transmittance characteristics specified in SEMI P1.  \n7.3  Selected physical properties of HTE, MTE, LTE, and ULTE materials are provided for information in SEMI P1, Appendix 1."
+  },
+  {
+    "title": "SEMI D6-0305 SPECIFICATION FOR LIQUID CRYSTAL DISPLAY (LCD) MASK SUBSTRATES - # 8  Related Document",
+    "content": "8.1  SEMI Standards  \nSEMI D21 — Terminology for Flat Panel Display Masks  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions.  \nNOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer's instructions, product labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein. These standards are subject to change without notice.  \nBy publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD",
+    "content": "This standard was technically reapproved by the Global Flat Panel Display Committee and is the direct responsibility of the Japanese FPD Materials and Components Committee. Current edition approved by the Japanese Regional Standards Committee on April 28, 2003.  Initially available at www.semi.org June 2003; to be published July 2003. Originally published in 1994."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 1  Purpose",
+    "content": "1.1  This document defines the method of FPD glass substrate surface roughness measurement by stylus method surface roughness measurement instrument."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 2  Scope",
+    "content": "2.1  This specification shall be used by vendors and/or buyers of glass substrates for flat panel display and is effective for all glass substrates used.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 3.1  ISO Standards 1",
+    "content": "ISO486-1982 — Surface Roughness — Parameters, Their Values and General Rules for Specifying Requirements  \nISO3274-1975 — Instruments for the Measurement of Surface Roughness by the Profile Method — Contact (Stylus) Instruments of Consecutive Profile Transformation  \nISO4287/1-1984 Surface Roughness Terminology — Part 1: Surface and its Parameters  \n3.2  JIS Standard 2  \nJIS B0601-1982 — Definitions and Designation of Surface Roughness  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 4.1  Definitions",
+    "content": "4.1.1  long wavelength cutoff — wavelength that the attenuation ratio of its amplitude becomes $7 5 \\%$ when the traced profile is passed through the high-pass wavelength filter which eliminates waviness element.  \n4.1.2  short wavelengh cutoff — wavelength that the attenuation ratio of its amplitude becomes $7 5 \\%$ when the traced profile is passed through the low-pass wavelength filter which eliminates noise element.  \n4.1.3  stylus method surface roughness measuring instrument — instrument that traces on a section of a surface by a stylus, records irregularity on the surface in a enlarged form, and indicates its amplitude as roughness parameters.  \n4.1.3.1  The type of instrument in this standard is specified to an instrument which is sometimes called as a profiler for very thin films and steps."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 5  Measurement Instrument",
+    "content": "5.1  Method — Stylus method surface roughness measuring instrument defined in Sections 3.1 or 3.2, or an instrument which meets those conditions.  \n5.2  Stylus  \nMaterial — diamond  \nShape — circular cone or rectangular cone  \nTip Radius — $2 \\mu \\mathrm { m }$ or less  \n5.3  Measuring Force — $0 . 1 ~ \\mathrm { m N }$ (0.01 gf) or above, 0.7 mN (0.07 gf) or less.  \n5.4  Sampling Interval — $1 \\mu \\mathrm { m }$ or less.  \n5.5  Vertical noise amplitude p-p value: $3 \\ \\mathrm { n m } \\ ( = 3 0 \\ \\mathrm { \\AA } )$ or less."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 6  Measurement Conditions",
+    "content": "6.1  Long Wavelength Cutoff, λc — 0.08 mm or close.  \n6.1.1  Short Wavelength Cutoff, λs — 0.0025 mm or less.  \n6.1.2  Evaluation length, Le — $0 . 4 \\mathrm { m m }$ .  \n6.1.3  Surface Roughness Parameter — Maximum height of the profile Ry5(ISO4287/1-1984) $\\scriptstyle ( = \\mathbf { R } _ { Z }$ (DIN4768-1990)) or 10 point height of irregularities which is close to Ry5, Rz (JIS B0601-1982)."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 7  Test Specimen",
+    "content": "7.1  A clean FPD glass substrate. No stains or oils should be seen by the naked eye."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 8  Measurement Procedure",
+    "content": "8.1  Contact the specimen on the stage of the instrument and leave for five minutes to condition the specimen to room temperature.  \n8.2  Put the stylus on the specimen, measure roughness by tracing the surface, and calculate the defined roughness parameter. 8.3  Change the measurement location to the location near the previous location and measure again. 8.4  Change the measurement location to the location defined in Section 9 and repeat the above measurement."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 9  Measurement Location",
+    "content": "9.1  Describe the measurement location on the report, for example, measure the following two locations:  \na. The center of the specimen.\nb. The point which is $2 0 ~ \\mathrm { m m }$ inside from both edges of the orientation corner."
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 10  Calculations or Interpretation of Results (Part 1)",
+    "content": "Title: SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 10  Calculations or Interpretation of Results\n\nContent: 10.1 Show the measurement results in nm (nanometers) and round fractions of 0.5 and over to the next highest whole numbers. Table 1 Example: Measurement Results Measurement Conditions Surface — The pattern surface Instrument — (type of instrument and name of maker) Stylus tip radius — $2 \\mu \\mathrm { m }$ Tracing speed — $* * \\mu \\mathrm { m / s e c }$ Measuring force — $0 . ^ { * } \\mathrm { m N }$ Cutoff λc — 0.08 mm NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of"
+  },
+  {
+    "title": "SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 10  Calculations or Interpretation of Results (Part 2)",
+    "content": "Title: SEMI D7-94 (Reapproved 0703) FPD GLASS SUBSTRATE SURFACE ROUGHNESS MEASUREMENT METHOD - # 10  Calculations or Interpretation of Results\n\nContent: copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES",
+    "content": "This terminology was technically approved by the FPD Materials and Components Committee and is the direct responsibility of the Japanese FPD Materials and Components Committee. Current edition approved by the Japanese Regional Standards Committee on January 10, 2003.  Initially available at www.semi.org January 2003; to be published March 2003. This document was originally published in 1994; previously published November 2001."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 1  Purpose",
+    "content": "1.1  This document provides terms and definitions of materials and defects within and on the surface of flat panel display (FPD) substrates and of dimensional, thermal, chemical, optical and mechanical properties of FPD substrates."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 2  Scope",
+    "content": "2.1  These terms and definitions are applicable to both front and back substrates used in FPD fabrication.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 3.1  SEMI Standards",
+    "content": "SEMI D3  Quality Area Specification for Flat Panel Display Substrates  \nSEMI D5  Standard Size for Flat Panel Display Substrates  \nSEMI D7  FPD Glass Substrate Surface Roughness Measurement Method  \nSEMI D11  Specification for Flat Panel Display Glass Substrate Cassettes  \nSEMI D12  Specification for Edge Conditions of Flat Panel Display (FPD) Substrates  \nSEMI D15  FPD Glass Substrate Surface Waviness Measurement Method  \nSEMI D24  Specification for Glass Substrates Used to Manufacture Flat Panel Displays"
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 3.2  ASTM Standards1",
+    "content": "ASTM C336 — Standard Test Method for Annealing Point and Strain Point of Glass by Fiber Elongation Test Method (Elongation of Glass Fibers)  \nASTM C338 — Standard Test Method for Softening Point of Glass  \nASTM C598 — Standards Test method for Annealing Point and Strain Point by Beam Bending  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4  Terminology",
+    "content": "NOTE 1: SEAJ Liquid Crystal Display Manufacturing Equipment Dictionay is referred as to every term in Section 4.  \n4.1  Internal Defects  \n4.1.1  bubble  a gaseous inclusion.  \n4.1.2  open bubble  a gaseous inclusion which is so close to the surface that it is obviously open and/or one so close to the surface that it may be broken open with the point of a soft lead pencil.  \n4.1.3  inclusion  opaque or partially melted particle of refractory or batch material embedded in glass. Its size is usually determined by the size of the distorted area.  \n4.1.4  devitrification  a crystalline area within the glass.  \n4.1.5  knot  an embedded glassy, transparent, lump having an irregular or tangled appearance. Its size is usually determined by the size of the distorted area."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.2  Material on the Surface",
+    "content": "4.2.1  cullet  small transparent glass particles that are adhered or fused to the glass substrate surface.  \n4.2.2  particle  a micron-size piece of foreign material on the glass surface.  \n4.2.3  stain  organic or inorganic material on the surface.  \n4.2.4  blur — any erosion of the surface; generally cloudy in appearance, it sometimes exhibits an apparent color."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.3  Surface Defects",
+    "content": "4.3.1  scratch  a surface fissure generally caused during handling.  \n4.3.2  sleek — a very shallow type of scratch on the polished surface that is sometimes invisible when the viewing angle is changed.  \n4.3.3  latent scratch — a scratch which is usually invisible but when subjected to an etching action by dipping into a detergent or a corrosive solution, such as an acid, the previously invisible scratch becomes visible due to the minor removal of surface glass.  \n4.3.4  chip — a region of material missing from the edge of the glass substrate, which is sometimes caused by processing or handling.  \n4.3.5  pit/dig — small indentation on the glass substrate surface.  \n4.3.6  bump  a small protuberance on the glass substrate.  \n4.3.7  crack — a fissure located at the sheet edge area or central area.  \n4.3.8  streak — a defect with a very small undulation on the glass substrate surface."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties (Part 1)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties\n\nContent: 4.4.1 outsize dimension vertical and horizontal dimensions of the glass substrate. 4.4.2 thickness the distance between the front surface and the back surface of a glass substrate at same single point. 4.4.3 thickness variation — any differences between maximum and minimum values within the thickness of a glass substrate. 4.4.4 warp defined as the maximum distance from a reference plane to the guaranteed surface; this includes twists, partial rises or declines in the glass compared with the reference plane. Warp expression a condition of the whole glass (substrate). 4.4.5 waviness the residual unevenness after the long wavelength component (warp) and the short wavelength component (surface roughness) have been eliminated. This is also called “FPD Waviness” when referring specifically to FPD substrates, as in SEMI D15. 4.4.6 surface roughness — the criterion for the smoothness of the sheet surface. Usually the randomly selected areas on the sheet surface are measured by a surface analyzer. Details are defined in SEMI D7. 4.4.7 beveling"
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties (Part 2)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties\n\nContent: grinding out or shaping substrate edges by lapping or grinding. 4.4.7.1 chamfered edge a beveled angle of approximately $4 5 ^ { \\circ }$ in respect to the surface and cut edge surface. One characteristic is that part of the cut edge surface remains. For this reason, R-beveled edges have come to be used in conjunction with chamfered edges in liquid crystal applications. Chamfered edges with particularly small widths are also referred to as “string bevels”. (See Figure 1.) 4.4.7.2 R beveled edge — a beveled shape of an arc in respect to the surface and cut edge surface. One characteristic is that the complete cut edge surface is ground with a wheel and processed into a frosted glass state. Generally, in TFT liquid crystals, R-beveled edges are used more often. (See Figure 1.) 4.4.8 orientation corner — the corner of a substrate which identifies the pattern surface and the rotational orientation. It is defined by the X and Y dimensions in the following figure. It is also commonly known as “orientation flat” or “orifra”. 4.4.9 corner cut —"
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties (Part 3)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties\n\nContent: removal of the corners of the substrate by either lapping or grinding. As with the orientation corner, this is defined by the X and $\\mathrm { \\Delta Y }$ dimensions, but generally, most corner cuts have a $\\mathrm { \\Delta X }$ and Y of the same length. 4.5.3 strain point temperature of the glass when its viscosity is approximately $1 0 ^ { 1 4 \\ldots 5 }$ dPa·s. Strain point is defined by two methods in ASTM: Test Method C336 (Elongation of Glass Fibers) and Test Method C598 (Bending in Glass Beams). In practice, the strain point of glass is the maximum temperature at which glass can be processed without triggering unnecessary strain. Internal strain can be relieved by keeping (the glass) at this temperature for 4 hours. 4.5.4 annealing point temperature of the glass when its viscosity is approximately $\\mathrm { \\dot { 1 } 0 ^ { 1 3 } d P a \\cdot s }$ . The annealing point is the temperature at which internal strain can be relieved in 15 minutes. 4.4.10 squareness deviation of the outline of the substrate from a true square or rectangle."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties (Part 4)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.4  Dimensional Properties\n\nContent: Using the drawing below, it is defined as PS or PL, but must be recorded with a or b dimensions. Dimensions a and b can be decided voluntarily, but generally, most applications use $\\mathtt { a } = \\mathtt { S }$ and ${ \\bf b } = { \\bf L }$ . (See Figure 3.) 4.5.5 softening point temperature of the glass when its viscosity is approximately $1 0 ^ { 7 . 6 }$ dPa·s. Softening point is defined in ASTM C338."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.6  Chemical Properties",
+    "content": "4.6.1  chemical durability  a measure of corrosion or attack of a glass surface when subjected to a specific reagent, such as acid, base, or water at a specific concentration for a specific time and temperature."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.7  Optical Properties",
+    "content": "4.7.1  transmittance — percentage of incident light which permeates the glass.  It is defined as I/Io, where Io is the strength of the incident light, and I is strength of the permeated light.  Transmittance is effected by material composition, temperature, thickness and light wavelength."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.5  Thermal Properties (Part 1)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.5  Thermal Properties\n\nContent: 4.5.1 coefficient of thermal expansion expansion is the change in length per initial length caused by a thermal change. Concretely, it is shown as $\\Delta \\mathrm { L } / \\mathrm { L } 0$ , where $\\Delta \\mathrm { L } = \\mathrm { L } 2 - \\mathrm { L } 1$ and L0, L1, and L2 are the lengths of the material at the temperature T0, T1, T2 respectively. Usually, the coefficient of expansion (A), means the average coefficient of expansion over the temperature range T1 to T2. This is shown in the following equation. $$ \\alpha = ( \\Delta \\mathrm { L } / \\Delta \\mathrm { T } ) / \\mathrm { L } _ { 0 } = [ ( \\mathrm { L } _ { 2 } - \\mathrm { L } _ { 1 } ) / ( \\mathrm { T } _ { 2 } - \\mathrm { T } _ { 1 } ) ] / \\mathrm { L } _ { 0 } $$ 4.5.2 thermal shrinkage when the substrate is heat treated along a specific thermal profile, the relaxation of thermal stress and the structure change occur in material, and create the shrinkage of the substrate. Usually it is described with $\\Delta \\mathrm { L } / \\mathrm { L } 0$ , where, $\\Delta \\mathrm { L }$ is the amount"
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.5  Thermal Properties (Part 2)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.5  Thermal Properties\n\nContent: of change and shown as $\\Delta \\mathrm { L } = \\mathrm { L } 0 - \\mathrm { L }$ . L0 is the length of material before heat treatment, and $\\mathrm { ~ L ~ }$ is after heat treatment. 4.7.2 refractive index — ratio of the speed of light in the material and in a vacuum at a specific wavelength. The refractive index of substrate glass is between approximately 1.50 and 1.53."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.8  Mechanical Properties (Part 1)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.8  Mechanical Properties\n\nContent: 4.8.1 density mass per unit volume. Decided by the mass of the material’s atomic composition and the volume (comparative capacity, mol capacity) which it occupies. 4.8.2 Young’s modulus a type of elasticity ratio, which shows the stretch (or compression) elasticity. When stretch (or compression) deformation stress $\\sigma$ and the strain ε resulting from the stress are proportionate, the proportionate constant $\\operatorname { E } = \\sigma /$ ε is called Young’s modulus, a material characteristic. 4.8.3 shear modulus a type of elasticity ratio which shows divergence elasticity. When divergent deformation stress $\\tau$ and the strain $\\Phi$ resulting from the stress are proportionate, the proportionate constant $\\mathrm { ~ { ~ G ~ } ~ } = \\mathrm { ~ } \\tau / \\Phi$ is called Shear Modulus, a material characteristic. 4.8.4 Poisson’s ratio the ratio between Young’s modulus and shear modulus. 4.8.5 Vickers hardness — a type of pressure test. A diamond pyramid indentator with a face angle of $1 3 6 ^ { \\circ }$ is pressed into the glass surface"
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.8  Mechanical Properties (Part 2)",
+    "content": "Title: SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.8  Mechanical Properties\n\nContent: to find the degree of hardness by measuring trace indentation on the overall squareness."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 4.9  Electrical Properties",
+    "content": "4.9.1  dielectric constant  the proportionate dielectric constant which is the ratio between a vacuum dielectric constant and the material dielectric constant.  \n4.9.2  dielectric loss — the phenomenon, or volume, of (electricity) loss through heat when a dielectric is introduced to an alternating current.  \n4.9.3  resistivity the reciprocal of electric conductivity.  \n4.10  pattern surface — the main area where device patterns can be formed, determined by the orientation corner, etc.  \n4.11  quality area — the center area to the substrate where specified substrate quality criteria (primarily internal defects, surface contamination, surface defects, waviness, and surface roughness) are applicable."
+  },
+  {
+    "title": "SEMI D9-0303 TERMINOLOGY FOR FPD SUBSTRATES - # 5  Referenced Documents",
+    "content": "SEAJ(Semiconductor Equipment Association of Japan) Liquid Crystal Display Manufacturing Equipment Dictionary  \nNOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice.  \nThe user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES",
+    "content": "This test method was technically reapproved by the Global Flat Panel Display Committee and is the direct responsibility of the Japanese FPD Materials and Components Committee. Current edition approved by the Japanese Regional Standards Committee on April 28, 2003.  Initially available at www.semi.org June 2003; to be published July 2003. Originally published in 1995."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 1  Purpose",
+    "content": "1.1  This test procedure evaluates quantitatively the durability of flat panel display (FPD) glass substrates using reagents employed in FPD production processes."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 2  Scope",
+    "content": "2.1  This standard may be used by vendors and/or buyers of glass substrates for FPD.  \n2.2  This standard defines three methods for testing chemical durability of various flat panel display substrates: (Method A) Weight Loss, (Method B) Step Measurement Using Profilometry, and (Method C) Surface Haze. Each method provides a measure of the amount of material that is removed from a substrate during a controlled chemical reaction sequence. This sequence is nominally identical for each method.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 3  Limitations",
+    "content": "3.1  These tests are not applicable to calculating variations in chemical durability in local areas within a substrate.  \n3.2  The calculations assume that all edges are nominally straight. They do not include adjustments for corner cuts.  \n3.3  The chemicals used in these practices are potentially harmful and should be handled in a fume hood with the utmost care at all times. Warning - Hydro- fluoric acid solutions are particularly hazardous.  \nPrecaution: They should not be used by anyone who is not familiar with the specific preventive measures and first aid treatments given in the appropriate Material Safety Data Sheet."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 4.1  SEMI Standard",
+    "content": "SEMI D5 — Standard Size for Flat Panel Display Substrates  \n4.2  ASTM Document1  \nC729 — Test Method for Density of Glass by Sink Float Comparator"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 4.3  ISO Document",
+    "content": "ISO 3274 — Instruments for the Measurement of Surface Roughness by the Profile Method Contact (Stylus) Instruments of Consecutive Profile Transformation Contact Profile Meters, System M"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 4.4  JIS Documents3",
+    "content": "JIS B0651 — Instruments for the Measurement of Surface Roughness by the Stylus Method  \nJIS B7507 — Vernier, Dial, and Digital Callipers  \nJIS B7601 — Trip Balances  \nJIS K7105 — Testing Methods for Optical Properties of Plastics  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 5.1  Definitions",
+    "content": "5.1.1  haze — a method to measure the degree of haze created on the FPD glass substrate surface by a chemical etch sequence.  \n5.1.2  step measurement using profilometry — a method to measure depths of etching by comparing the differences in heights between etched and non-etched parts of a specimen measured by profilometry or an equivalent method.  \n5.1.3  weight loss method — a method to calculate depths of etching by comparing differences in specimen weights before and after the etch sequence."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 6  Apparatus",
+    "content": "6.1  For all chemical reactions, the following apparatus shall be used."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 6.1.1  Reaction Vessel (Part 1)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 6.1.1  Reaction Vessel\n\nContent: 6.1.1.1 Material — Teflon or other suitably etchresistant material. 6.1.1.2 Shape and Capacity — Cylindrical widemouthed sealable vessel, suitable for the size and quantity of samples to be tested. 6.1.2 Thermostatically Controlled Shaker Bath or Equipment 6.1.2.1 Shaking Stroke — 10 to $6 0 \\mathrm { m m }$ . 6.1.2.2 Shaking Frequency — $3 0 { \\ - } 9 0 / \\mathrm { m i n } .$ ., controllable $\\mathrm { { t o } \\pm \\ 1 0 / \\mathrm { { m i n } } }$ . 6.1.2.3 Operating Temperature Range — 20 to $1 5 0 ^ { \\circ } \\mathrm { ~ C ~ }$ , controllable to $\\pm \\nobreakspace 1 ^ { \\circ } \\mathrm { ~ C ~ }$ . 6.1.3 Oven — Controllable to $\\pm \\nobreakspace 1 0 ^ { \\circ } \\nobreakspace$ over an operating range of 50 to $2 0 0 ^ { \\circ }$ C. 6.1.4 Desiccator — Room temperature, with sufficient capacity and size for all samples to be tested. 6.1.5 Caliper — Per JIS B7507, or equivalent. 6.2 For the measurements, one of the following shall be used. 6.2.1 Method A — Balance per JIS B7601, or"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 6.1.1  Reaction Vessel (Part 2)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 6.1.1  Reaction Vessel\n\nContent: equivalent. 6.2.2 Method B — Profilometer per ISO 3274, JIS B0651, or equivalent. 6.2.3 Method C — Haze measurement equipment with integrating sphere per JIS K7105, or equivalent. NOTE 1: It is ideal to use haze measurement equipment which automatically measures total transmittance, diffuse transmittance, and haze values."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 7  Reagents and Materials",
+    "content": "$7 . 1 ~ \\mathrm { N o }$ specific requirement is defined for the reagents and materials. As long as the test conditions are reported with the result, any combination of chemical reagents with any concentration can be used for the test.  \nThe test conditions should reflect actual process conditions which are specific for the Flat Panel Display manufacturers. Some reagents suggested for the test are provided in Related Information 1 as a reference.  \n7.2  This standard may involve hazardous materials, operations, and equipment. This standard does not purport to address all of the safety problems associated with its use. It is the responsibility of the user of this standard to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 8  Sample Preparation (Part 1)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 8  Sample Preparation\n\nContent: 8.1 Prepare at least a specimen from a lot of the substrates to be tested. The specimen is a rectangular plate about $2 5 \\times 5 0 ~ \\mathrm { m m }$ edge length for Methods A and B, or $4 0 \\times 4 0 \\mathrm { m m }$ edge length for Method C. 8.1.1 If they are not already chamfered, specimen edges and corners should be chamfered slightly to remove chips and prevent cracking. If repeated tests are expected, prepare an appropriate quantity of test specimens. 8.2 Measure edge lengths of the test specimens, and calculate total surface area, A: $$ A = ( L \\times W \\times 2 ) + \\{ \\ L + W ) \\times T \\times 2 ) \\} $$ where $\\mathrm { L } =$ one edge length of test specimen in cm, $\\mathbf { W } =$ adjacent edge length of test specimen in cm, ${ \\mathrm { ~ T ~ } } =$ thickness of test specimen in cm, and $\\mathbf { A } =$ total surface area of test specimen in $\\mathrm { c m } ^ { 2 }$ . 8.3 Clean all test specimens by a method appropriate for the history of the material. The cleaning"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 8  Sample Preparation (Part 2)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 8  Sample Preparation\n\nContent: method should not cause any corrosion. Clean the specimens by an appropriate neutral or alkali detergent for approximately 10 minutes using an ultrasonic bath. 8.3.1 Rinse them continuously in a stream of deionized water, having a conductivity of less than $1 \\mu \\ \\mathrm { S } / \\mathrm { c m }$ , for 1 minute using the ultrasonic bath. Finally, dry them. 8.4 Place all specimens on a clean heat resistant sample holder. Dry the specimens at $1 4 0 \\ \\pm \\mathrm { 1 0 ^ { \\circ } ~ C }$ for 30 minutes. 8.5 Place all specimens in a desiccator containing silica gel or calcium sulfate and cool them, for a minimum of 1 hour, to room temperature. 8.6 If Method A will be used, weigh the test specimen to $0 . 1 \\mathrm { m g }$ or $0 . 0 1 \\mathrm { { m g } }$ as required using the balance. 8.7 If Method B will be used, coat about a half portion of each test specimen by an appropriate coating material durable to the test media and conditions. (Wax, varnish, epoxy resins, adhesive tape, etc.,"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 8  Sample Preparation (Part 3)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 8  Sample Preparation\n\nContent: may be used.)"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing (Part 1)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing\n\nContent: 9.1.1 Prepare cylindrical wide-mouthed sealable vessels, sample holders, etc., made of materials which do not react with the test medium under the test conditions. Use a reaction vessel in which the test specimen, while on the sample holder, is sufficiently immersed in the required volume of test reagent. 9.1.2 Place the test specimen on the sample holder with spacing of 1 to $2 \\ \\mathrm { c m }$ between the test specimen and bottom of the empty vessel. When a part of the specimen is coated by protective material, position the sample so that its coated portion faces down. The test specimen may be leaned against the vessel wall if the test is to be done in relatively brief or slightly corrosive conditions, or in concentrated, extremely corrosive media. 9.1.3 Pour the test reagents into the reaction vessel. Volume of the test medium shall be 5 to $1 0 ~ \\mathrm { m l }$ per $\\mathrm { c m } ^ { 2 }$ of specimen surface area. Preheat the test medium to the specified test"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing (Part 2)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing\n\nContent: temperature. 9.1.4 Place the reaction vessel in the preheated shaker bath with specified shaking stroke and frequency. Close the reaction vessel loosely, and expose the specimen at specified temperature for specified time. 9.1.5 At the completion of specified test time, immediately remove the reaction vessel from the shaker bath. Remove the test specimens from the reaction vessel using soft forceps, and rinse the specimens immediately by deionized water at appropriate temperature. When the specimen temperature is high following this process, rinse the specimens completely with water of gradually decreasing temperature. Finish it by deionized water at room temperature. Less caution is required when the reaction temperature is low. A synthetic rubber or plastic glove may be used instead of forceps if sufficient care is taken. In all cases, the surface of the test specimen shall not be scrubbed. Never dry the test specimen during this operation. Generation of cracks or chips due to"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing (Part 3)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing\n\nContent: thermal or mechanical shocks should be avoided. 9.1.6 For Method B samples, remove coating by appropriate non-corrosive method, and clean samples again. In this case, residue from the coating material should not contaminate the overall test specimen. 9.1.7 Place the test specimens on a clean heat-resistant sample holder, and dry them at $1 4 0 \\pm 1 0 ^ { \\circ } \\mathrm { ~ C ~ }$ for 30 minutes. 9.1.8 Place the specimens in the desiccator and allow them to cool to room temperature. 9.2 Measurement Method 9.2.1 Method A (Weight Change) 9.2.1.1 Weigh the test specimen to $0 . 1 ~ \\mathrm { m g }$ or $0 . 0 1 ~ \\mathrm { m g }$ as required, using the balance. 9.2.1.2 Calculate the areal weight change with the following equation. $W _ { A } = \\frac { W _ { 2 } - W _ { 1 } } { A }$ (2) where $\\mathbf { W } _ { 1 } =$ the initial weight of the test specimen in mg, $\\mathbf { W } _ { 2 } = \\mathbf { \\Phi }$ weight of the test specimen in mg after the test, $\\mathbf { A } =$ is surface"
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing (Part 4)",
+    "content": "Title: SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.1  Test Specimen Processing\n\nContent: area of test specimen in $\\mathrm { c m } ^ { 2 }$ , as calculated in 8.2, and ${ \\sf W } _ { \\mathrm { A } } =$ the areal weight change, i $\\mathrm { n } \\mathrm { m g } \\bullet \\mathrm { c m } ^ { - 2 }$ . NOTE 2: A negative result indicates a real weight loss, and a positive result indicates a real weight gain. 9.2.1.3 Calculate penetration depth of corrosion, P, of the test sample by the following equation. $P = { \\frac { 1 0 W _ { A } } { D } }$ (3) where ${ \\sf W } _ { \\mathrm { A } } =$ the areal weight change in $\\mathrm { { m g } \\bullet \\mathrm { { c m } ^ { - 2 } } }$ ${ \\bf D } = { \\bf \\partial }$ the density of the substrate material in $\\mathrm { m g } \\bullet \\mathrm { c m } ^ { - 3 }$ (see 9.2.1.4) and ${ \\bf P } =$ penetration depth in $\\mu \\mathrm { m }$ NOTE 3: A negative result indicates loss of material, and a positive result indicates material gain. 9.2.1.4 When density of the materials is unknown, use the value measured by the method described in ASTM C729."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.2.2  Method B (Profilometry)",
+    "content": "9.2.2.1  Measure the height, H, in $\\mu \\textrm { m }$ , of the step between the unetched (coated) section and the etched (uncoated) section by a calibrated surface profilometer. Trace length shall be between 2 and $4 \\ \\mathrm { m m }$ , with the boundary between the two sections located near the center of the trace.  \nRepeat this measurement at least 3 times.  \n9.2.2.2  Calculate the average penetration depth P:  \n$$\nP = { \\frac { H _ { 1 } + H _ { 2 } + \\bullet \\bullet \\bullet \\bullet + H _ { N } } { N } }\n$$  \nNOTE 4:  A negative result indicates loss of material, and positive result indicates material gain."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 9.2.3  Method C (Surface Haze)",
+    "content": "9.2.3.1  Measure total transmittance, Tt, and diffuse transmittance, Td, and calculate the haze value from the following expression:  \n$H = \\frac { T d } { T t } \\times 1 0 0 \\$ (5) where $\\mathrm { T t } =$ total transmittance, $\\mathrm { T d } =$ diffuse transmittance,  and $\\mathrm { H } =$ haze value in $\\%$ ."
+  },
+  {
+    "title": "SEMI D10-95 (Reapproved 0703) TEST METHOD FOR CHEMICAL DURABILITY OF FLAT PANEL DISPLAY GLASS SUBSTRATES - # 10  Reporting Results",
+    "content": "10.1  Report date and time of test, ambient temperature, test operator, test conditions (reagent and concentration, volume of the test medium, test temperature, test time, stroke length, and frequency of shaking), specimen size and total surface area, specimen cleaning method, and the following:  \n10.1.1  Method A — The areal weight change $( \\mathsf { W } _ { \\mathrm { A } } )$ , the initial weight of the specimen $( \\mathsf { W } _ { 1 } )$ , the density of the substrate material (D), and calculated depth of corrosion (P)."
+  }
+]

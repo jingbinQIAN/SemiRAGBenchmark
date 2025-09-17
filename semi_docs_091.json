@@ -1,0 +1,802 @@
+[
+  {
+    "title": "SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # 12.1.7  Die shear strength in $\\mathbf { N }$ (kgf)/die unit (complete data or an average)",
+    "content": "12.1.8  Temperature in hot die shear testing.  \n12.1.7.1  Standard deviation when number of specimens tested is adequate."
+  },
+  {
+    "title": "SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # APPENDIX 1",
+    "content": "NOTE:  The material in this appendix is an official part of SEMI G63 and was approved by full letter ballot procedures in 1995."
+  },
+  {
+    "title": "SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # A1-1  Purpose",
+    "content": "The purpose of this appendix is to indicate that speed and height of the die contact tool affect die shear strength results."
+  },
+  {
+    "title": "SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # A1-2  Test Results",
+    "content": "Figure A1-1 Tool Velocity Test Results  \nFigure A1-2 Tool Height Test Results\nCopyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # A1-2.1.1  Shear Speed",
+    "content": "a. Some adhesive might yield variable results due to the relationship of the shear speed and failure speed.  \nb. Some equipment with high shear speed could yield low strength due to poor sensitivity at the peak of the load."
+  },
+  {
+    "title": "SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # A1-2.1.2  Height of the Die Contact Tool (Part 1)",
+    "content": "Title: SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # A1-2.1.2  Height of the Die Contact Tool\n\nContent: a. In case of low height, fillet level might affect the strength. b. In case of high height, a variable result might be obtained since the tool pulls the die and it tears the adhesive. NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this"
+  },
+  {
+    "title": "SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # A1-2.1.2  Height of the Die Contact Tool (Part 2)",
+    "content": "Title: SEMI G63-95 (Reapproved 0302) TEST METHOD FOR MEASUREMENT OF DIE SHEAR STRENGTH - # A1-2.1.2  Height of the Die Contact Tool\n\nContent: standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their responsibility."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd)",
+    "content": "This specification was technically reapproved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1996."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 1  Purpose",
+    "content": "1.1  This specification is intended as a guideline for evaluating plating layer characteristics required by users of full-plated leadframes for plastic semiconductor packages.  \n1.2  Background — Full-plated leadframes have received attention in recent years as a possible solution to challenges and restrictions resulting from the effects of Pb on the environment, package reliability improvement due to the P.P.F. process, lead coplanarity on fine-pitched leadframes, and lead bridges with solder plating."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 2  Scope",
+    "content": "2.1   The specification and test procedures detailed in this document apply to full-plated leadframes.  \n2.2   Units — SI units are used in this document.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 3.1  SEMI Standards (Part 1)",
+    "content": "Title: SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 3.1  SEMI Standards\n\nContent: SEMI G4 — Specification for Integrated Circuit Leadframe Materials Used in the Production of Stamped Leadframes SEMI G18 Specification Integrated Circuit Leadframe Material Used in the Production of Etched Leadframes SEMI G21 — Specification for Plating Integrated Circuit Leadframes SEMI G52 — Standard Test Method for Measurement of Ionic Contamination on Semiconductor Leadframes (Proposed) SEMI G55 — Test Method for Measurement of Silver Plating Brightness SEMI G56 — Test Method forMeasurement of Silver Plating Thickness 3.2 ISO Standards1 ISO-3497 — Metallic Coating Measurement of Coating Thicknesses, X-Ray Spectrometer Method ISO-9227 — Corrosion Tests in Artifical Atmospheres - Salt Spray Tests 3.3 JIS Standard2 JIS-C-0053 — Solderability Testing by the Wetting Balance Method 3.4 Military and Federal Standards3 MIL-C-14550 — Copper Plating-Electrodeposited MIL-F-14256 — Flux, Soldering, Liquid, Paste Flux, Solder Paste, and Solder Paste Flux MIL-G-45204 — Gold"
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 3.1  SEMI Standards (Part 2)",
+    "content": "Title: SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 3.1  SEMI Standards\n\nContent: Plating-Electrodeposited MIL-STD-883D — Method 2003.7, Solderability QQ-N-290 — Nickel Plating-Electrodeposited QQ-S-365 General Requirements for Electrodeposited Silver Plating QQ-S-571 — Solder Composition NOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 4.1  Definitions",
+    "content": "4.1.1  finish plating — final plating layer whose electrodeposits fulfill the main purpose of the required characteristic.  \n4.1.2  solderability — an index of the wettability and coverage with solder of lead surface.  \n4.1.3  underplating — plating layers that complete the required characteristics of the final plating layer and lies between the base material and final plating layer."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 5.1  Priority",
+    "content": "5.1.1  To avoid confusion, the order of precedence when ordering leadframes shall be as follows:  \n1. Purchase Order (agreed between user and supplier)\n2. This Specification\n3. Referenced Documents"
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 6  Materials",
+    "content": "6.1  Base Material — Cu alloys or Fe/Ni alloys.  \n6.2  Plating Material — Underplating and Finish plating are shown in Table 1.  \nTable 1  Table 1  Underplating and Finish Plating"
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 7  Plating Specification (Part 1)",
+    "content": "Title: SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 7  Plating Specification\n\nContent: 7.1 Plating Thickness — For full-plated leadframes, the designed thickness including under plating is restricted as follows to limit the effects of thickness variation on coplanarity and outer lead width. Designed thickness including under plating-1 / Agplating: ${ 5 \\mu \\mathrm { m } }$ MAX Designed thickness including under plating-2 / Au, Cu, Ni, Pd/Ni-Alloy, Pd plating: $2 \\mu \\mathrm { m }$ MAX 7.2 Visual Inspection — Rejectable conditions are as follows: 1. Any bare spots, or missing plating in critical area as defined the coined areas or minimum flat wire bond area in the appropriate leadframe specification. 2. Any peeling or blistered plating. 3. Any nodules in critical area as defined the coined areas or minimum flat wire bond area in the appropriate leadframe specification. NOTE 1: Nodules not exceeding $0 . 0 3 8 1 ~ \\mathrm { { m m } }$ in a surface dimension and $0 . 0 1 2 7 ~ \\mathrm { { m m } }$ in height, in non-critical areas are allowed providing there"
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 7  Plating Specification (Part 2)",
+    "content": "Title: SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 7  Plating Specification\n\nContent: are no more than one per internal lead finger or six (6) per leadframe. 4. Any pits which exceed $0 . 0 0 8 \\mathrm { m m }$ in depth or 0.0127 mm in a surface dimension in critical areas or $0 . 0 2 5 4 \\ \\mathrm { \\ m m }$ in depth or $0 . 0 5 1 ~ \\mathrm { \\ m m }$ in a surface dimension in non-critical areas. 5. Any scratches or scrapes in the metallization plating which expose underplating or base material. 6. Any scratches or scrapes in critical area which cause a build up of material in excess of $0 . 0 1 2 7 \\ \\mathrm { m m }$ in height. 7. Any foreign material, contamination, or tarnish. 8. Non-uniformity or rough-plated surface. 7.3 Visual Inspection after Baking — The test procedure is described in Section 9.3. Visual inspection after baking shall be performed according to the procedure in Section 9.2.1. 7.4 Corrosion Resistance (not applicable to Cu plating) — In the test result, allowable corrosion specification shall be agreed upon between user and supplier."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 7  Plating Specification (Part 3)",
+    "content": "Title: SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 7  Plating Specification\n\nContent: 7.5 Surface Ion Contamination — Allowable ion species and ion concentration shall be agreed upon between user and supplier. 7.6 Adhesion — If there is any plating film on the test tape, the component shall be rejected. Adhesive test should be performed according to the procedure in Section 9.6."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 7.7  Functional Tests",
+    "content": "7.7.1  Die Attach — Agreed upon between user and supplier.  \n7.7.2  Wire Bond — Agreed upon between user and supplier.  \n7.7.3  Solderability — The criteria for acceptable solderability are as follows:  \n1. The dipped portion of the samples is at least $9 5 \\%$ covered by a continuous solder coating.\n2. Pinholes, voids, porosity, non-wetting, or dewetting do not exceed $5 \\%$ of total area.  \nNOTE 2:  Solderability criteria for $\\mathrm { N i }$ and $\\mathtt { C u }$ plating are established by the user and supplier and are excluded here."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 8  Equipment",
+    "content": "8.1  Fluorescent X-ray spectremeter\n8.2  Binocular-microscope, $1 0 { - } 3 0 \\times$ magnification\n8.3  Neutral salt spray test equipment\n8.4  Ion chromatography (Anion, Cation)\n8.5  Hot plate or Heater block\n8.6  Solder pot\n8.7  Meniscograph"
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 9  Sampling",
+    "content": "9.1  Sampling plan shall be agreed upon between user and supplier."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 10  Test Methods",
+    "content": "10.1  Thickness — Plating thickness shall be measured by fluorescent X-ray spectrometer."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 10.2  Visual Inspection",
+    "content": "10.2.1  Magnification — Unless otherwise specified, visually inspect the plating surface under a microscope at $1 0 \\times$ magnification. $3 0 \\times$ magnification shall be used for confirmation."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 10.3  Baking Test",
+    "content": "10.3.1  Baking Conditions — Samples are heated in air on hot plates or heater block.  \nTable 2  \n\\* May be changed by agreement between user and supplier to $4 0 0 ^ { \\circ } \\mathrm { C }$ $\\times 1$ min or $4 5 0 ^ { \\circ } \\mathrm { C } \\times 2$ min or less, to account for changes in plating thickness, base material, or other plating parameters. $^ { * * }$ Surface oxidation and discoloration detected by visual inspection are acceptable. Furthermore, parameter of solderbility evaluation for flux, dipping method, etc. are to be determined by agreement between user and supplier.  \n10.3.2  Visual inspection after baking shall be performed according to the procedure in Section 9.2.1.  \n10.4  Corrosion Test — Atomize the test sample in a test container using a $5 \\%$ neutral sodium chloride solution of $8 . 8 \\mathrm { - } 7 . 2 \\mathrm { p H }$ at $3 5 \\pm 1 ^ { \\circ } \\mathrm { C }$ for 24 hours. This test follows ISO-9227."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 10.5  Surface Ion Contamination — The measurement follows SEMI G52.",
+    "content": "10.6  Adhesion Test — Place the strip of tape (SCOTCHª #540, #610, #810, or equivalent) across the plated area. Press firmly with fingertips or other smooth object. Peel the tape quickly off the plated surface. The plating surface may be scored before the tape test in accordance with the joint agreement between user and supplier."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # 10.7  Functional Tests",
+    "content": "10.7.1  Die Attach — Agreed upon between user and supplier.  \n10.7.2  Wire Bond — Agreed upon between user and supplier.  \n10.7.3  Solderability — The procedure for accelated aging test shall be agreed upon between user and supplier (see Appendix 1)."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # APPENDIX 1 SOLDERABILITY TEST",
+    "content": "NOTICE:  The material in this appendix is an official part of SEMI G64 and was approved by full letter ballot procedures."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # A1-1  Accelerated Environment Simulation",
+    "content": "A1-1.1  Determination, due to the environment, may be simulated by exposure to a hot plate that reproduces the heat characteristics of assembly (a), and by steam aging to simulate the storage environment. The following are methods for accelerated environment simulations (b):  \na. Place samples in air on a hot plate or a heat block. Temperature and duration are detailed in Section 9.3, and represent the heat characteristics of assembly.\nb. Steam aging test is based on MIL-STD-883D, Method 2003.7, and simulates environmental conditions."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # A1-2  Soldering Parameter",
+    "content": "A1-1.2  Baked test specimens shall be dipped into flux conforming to MIL-P-14256, type-R, for 5 to 10 seconds, and then dipped in a solder bath conforming to QQ-S-571 for $1 0 ~ \\pm ~ 1$ seconds at a solder pot temperature of $2 3 0 \\pm 5 ^ { \\circ } \\mathrm { C }$ ."
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # A1-3  Evaluation of Solderability (Part 1)",
+    "content": "Title: SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # A1-3  Evaluation of Solderability\n\nContent: A1-3.1 Wetting Area — After cleaning solder dipped specimen with alcohol to remove flux, visually inspect under a microscope at $1 0 \\times$ magnification. Solder must cover $9 5 \\%$ or more of surface area, based on MIL-STD883D, Method 2003.7. A1-3.2 Wetting Time (zero-cross-time) — Solder that conforms to conditions below is evaluated according to JIS-C-0053, or may be evaluated by a method determined by user and supplier for certain leadframe shapes. 1. Temperature: $2 3 0 \\pm 5 ^ { \\circ } \\mathrm { C }$ 2. Dipping speed: 2 mm/second 3. Dipping depth: $2 \\mathrm { m m }$ 4. Flux: Rosin flux (MIL-F-14256, type-R) 5. Solder composition: 63 Sn / 37 Pb (QQ-S-57 NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer's instructions, product"
+  },
+  {
+    "title": "SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # A1-3  Evaluation of Solderability (Part 2)",
+    "content": "Title: SEMI G64-96 (Reapproved 1104) SPECIFICATION FOR FULL-PLATED INTEGRATED CIRCUIT LEADFRAMES (Au, Ag, Cu, Ni, Pd/Ni, Pd) - # A1-3  Evaluation of Solderability\n\nContent: labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES",
+    "content": "This test method was technically approved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1996."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 1  Purpose",
+    "content": "1.1  This test method describes an evaluation method for bending characteristics of leadframe materials used for L-leaded packages.  \nNOTE 1:  The lead fatigue test described in MIL-STD883/2004 is not suitable for evaluating the bending characteristics of fine pitch leadframes or leadframes used for L-leaded packages because the method is based on reforming the leads."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 2  Scope",
+    "content": "2.1  This test method may be applied to leadframes for L-leaded packages such as QFP, SOP, TSOP, etc.  \n2.2  This test method may also be applied to any leadframe materials with thickness $\\leq 0 . 1 5 \\mathrm { m m }$ .  \n2.3  The test method may be used in trim and form tool suppliers, leadframe material suppliers, leadframe manufacturers, and package engineers.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 3.1  Military Standard1",
+    "content": "MIL-STD-983 — Method 2004, Lead Integrity  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 4.1  Definitions",
+    "content": "4.1.1  crack (of leadframe) — Micro cleavage or fracture on surface of outside of lead which is caused by bending (see Figure 1).  \n4.1.2  orange peel (of leadframe) — Micro roughness on surface of outside of lead caused by bending (see Figure 2).  \n4.1.3  spring back — Difference between designed angle of forming tool and actual lead form angle.  \nNOTE 2:  In this method, the angle of forming tool is $9 0 ^ { \\circ }$ .\nThe value is defined by:   Actual lead bend angle $9 0 ^ { \\circ }$ ."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 5  Summary of Method",
+    "content": "5.1  The leadframe samples (etched using a standard mask agreed between user and supplier) will be formed using a “W” forming tool. The resulting form angle is to be measured and surface characteristics such as cracking and orange peel are to be visible for compliance to the agreed upon specification."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 6  Interference",
+    "content": "6.1  If the forming tool does not meet the specification, lead movement during forming may result in poor repeatability."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 7  Significance",
+    "content": "7.1  Devices manufactured with leadframes of different spring back characteristics may cause board assembly problems, due to lead positional differences.  \n7.2  Crack in the leadframe may cause poor contact reliability with board."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 8  Equipment",
+    "content": "8.1  Tensile Tester — With minimum 9800N force and $1 \\%$ accuracy.  \n8.2  “W” Forming Tool — With ${ \\sf R } = 0$ , 0.1 and 0.2 and form angle of $9 0 ^ { \\circ }$ . The dimension and configuration are shown in Figures 3–7.  \n8.3  Micrometer  \n8.4  Microscope — $7 5 \\times$ used to inspect lead surface characteristics.  \n8.5  Protractor — $1 0 \\times$ and accuracy $0 . 1 ^ { \\circ }$ used to measure the leadform spring back  \n8.6  Projector — $1 0 \\times$ ."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 9  Sampling Plan",
+    "content": "9.1  The sampling plan shall be agreed between user and supplier. It is suggested that a minimum of five (5) samples (2 leads per sample) of $0 . 3 ~ \\mathrm { m m }$ width on $0 . 6 5 \\mathrm { m m }$ pitch, be used for these tests.  \nNOTE 3:  If the leadframe is four-sided, take samples from both orthogonal directions."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 10  Sample Preparation",
+    "content": "10.1  The samples are prepared by etching a leadframe pattern into a blank piece of the leadframe material using a standard mask. An example of the recommended configuration is shown in Figure 8."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # Figure 8 Standard Sample Configuration",
+    "content": "10.2  Measure the sample thickness at three (3) points on the siderail using micrometer."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 11  Setup and Procedure (Part 1)",
+    "content": "Title: SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 11  Setup and Procedure\n\nContent: 11.1 Setup 11.1.1 Warm up and calibrate the tensile tester according to the operation manual. 11.1.2 Set the “W” forming tool in the tensile tester. 11.1.3 Set the tensile tester in the push mode and adjust the force to 9800N. 11.2 Procedure 11.2.1 Place the sample on the lower section of the “W” forming tool. 11.2.2 Lower the upper section of the “W” forming tool at the speed of 1 to $5 \\mathrm { { m m } / \\mathrm { { m i n } } }$ . 11.2.3 Raise up the upper section of the “W” forming tool and remove the sample carefully. 11.2.4 Repeat the test for the other samples. 11.3 Measurement 11.3.1 Remove the leads from the bent sample by cutting at the cutting position. NOTE 4: Perform this operation carefully to avoid reforming the leads. 11.3.2 Select two (2) leads from one sample. 11.3.3 Observe the outside surface of the lead and take a photograph with a microscope set at $7 5 \\times$ magnification. 11.3.4 Set the lead sample in a projector. 11.3.5 Project the picture"
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 11  Setup and Procedure (Part 2)",
+    "content": "Title: SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 11  Setup and Procedure\n\nContent: of the sample on the screen. 11.3.6 Adjust the protractor to the picture and read the form angle."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 12 Calculation",
+    "content": "12.1  Calculate the spring back value as follows:  \n12.1.1  Spring back $\\mathbf { \\Sigma } =$ actual angle of sample - designed form angle  \n12.2  Calculate the average spring back value.  \n12.3  Round the result to one significant figure."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 13   Report",
+    "content": "13.1  The report shall contain the following information:  \n13.1.1  Leadframe material name, lot number, and vendor  \n13.1.2  Average thickness (per Section 10.2)  \n13.1.3  Photograph taken using $7 5 \\times$ magnification (per\n11.3.3)  \n13.1.4  List of observations (per Section 11.3.3)  \nNOTE 5:  Classify observation results as crack, orange peel, and good according to their definition in Section 4. If required, further classification should be agreed between customer and vendor.  \n13.1.5  Spring Back Value (per Sections 11.3.4 to\n11.3.6) — Average, minimum, maximum  \n13.1.6  Rejection — The limit shall be agreed between user and supplier."
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 14.1  SEMI Specification",
+    "content": "SEMI G4 — Specification for Integrated Circuit Leadframe Materials Used in the Production of Stamped Leadframes"
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 14.2  JIS Specifications",
+    "content": "JIS-Z-2248 — Method of Bend Test for Metallic Materials  \nCopyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI.  \nJIS-H-3130 — Copper Beryllium Alloy, Phosphor Bronze and Nickel Silver Sheets, Plates, and Strips for Springs"
+  },
+  {
+    "title": "SEMI G65-96 (Reapproved 1104) TEST METHOD FOR EVALUATION OF LEADFRAME MATERIALS USED FOR L-LEADED (GULL WING TYPE) PACKAGES - # 14.3  CES Specification",
+    "content": "M0002-6 — Test Method of W Bend for Metallic Materials  \nNOTICE: SEMI makes no warranties or representations as to the suitability of the standard set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user.  Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials or equipment mentioned herein.  These standards are subject to change without notice.  \nBy publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard.  Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS",
+    "content": "This test method was technically approved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1996."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 1  Purpose",
+    "content": "1.1  This method describes a procedure for measuring the water absorption rate for plastic molding compounds and provides a method to calculate the diffusion and solubility coefficients, which are required to simulate the water absorption characteristics."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 2  Scope",
+    "content": "2.1  This method may be applied to all semiconductor plastic molding compounds.  \n2.2  This method may be used to characterize molding compounds in development.  \n2.3  Packaging engineers may simulate the water absorption characteristics and their significance in relation to package cracks at soldering by using calculated diffusion and solubility coefficients.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 3  Referenced Standards",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 4.1  Definitions",
+    "content": "4.1.1  diffusion coefficient, $D -$ the diffusion rate of water into a molding compound (see Appendix 1 and Figure 1).  \n4.1.2  solubility coefficients, $s -$ ratio of saturated moisture concentration in molding compounds to partial pressure of moisture in environment (see Appendix 1 and Figure 1)."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 5  Summary of Method",
+    "content": "5.1  This method is based on the measurement of the increase in weight, due to water absorption, after exposing the molding compound to a high-temperature, high-humidity environment."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 6  Equipment",
+    "content": "6.1  Balance — An analytical balance capable of reading $0 . 0 0 0 1 \\mathrm { g }$ .\n6.2  High-Temperature Chamber Capable of maintaining a uniform temperature of $1 2 5 \\pm 3 ^ { \\circ } \\mathrm { C }$ .\n6.3  Temperature/Humidity Chamber — Capable of maintaining a uniform temperature of $8 5 \\pm 2 ^ { \\circ } \\mathrm { C }$ and 85 $\\pm 5 \\%$ relative humidity.\n6.4  Desiccator (1) — To hold specimens during cooldown from high-temperature conditioning.\n6.5  Desiccator (2) — This desiccator, with water in the bottom rather than drying compound, is to hold the specimens after exposure to heat and humidity.\n6.6  Mold for specimen preparation."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 7  Reagents and Materials",
+    "content": "7.1  Deionized Water — Resistivity $\\ge 1 5 \\mathrm { M }$ ohm-cm at $2 5 ^ { \\circ } \\mathrm { C }$"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 8  Sampling Plan",
+    "content": "8.1  At least three samples shall be chosen for each molding type for each test."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 9  Test Specimens",
+    "content": "9.1  Test specimens are required as follows:\n9.1.1  Specimens for diffusion area.\n9.1.1.1  Diameter — $5 0 \\pm 1 ~ \\mathrm { m m }$\n9.1.1.2  Thickness — 3 ± 0.2 mm\n9.1.2  Specimens for saturated area.\n9.1.2.1  Diameter — 50 ± 1 mm\n9.1.2.2  Thickness — 1 ± 0.2 mm"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 10  Equipment Set-Up",
+    "content": "10.1  Refer to manufacturer’s operation manuals."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 11  Procedure",
+    "content": "11.1  Specimen Preparation  \n11.1.1  Prepare the specimens by molding samples using the specimen mold and conditions recommended by the molding compound manufacturer.  \n11.1.2  Post-mold cure the specimens to recommended conditions using the high-temperature chamber."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 11.2  Specimen Conditioning (Part 1)",
+    "content": "Title: SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 11.2  Specimen Conditioning\n\nContent: 11.2.1 Dry the specimens at $1 2 5 ^ { \\circ } \\mathrm { C }$ in the hightemperature chamber for 24 hours minimum. NOTE 1: If the samples are already dry (e.g., samples directly from post-mold cure), additional conditioning is not required. 11.2.2 Place the specimens in the desiccator (1) and allow to cool to room temperature. 11.2.3 Weigh the specimens to the nearest $0 . 0 0 0 1 \\mathrm { g }$ 11.3 Water Absorption Exposure and Reconditioning 11.3.1 Diffusion Area 11.3.1.1 Place the conditioned specimens $( 3 \\mathrm { ~ \\ m m }$ thickness) in the high-temperature/humidity chamber set at $8 5 ^ { \\circ } \\mathrm { C }$ and $8 5 \\%$ relative humidity for $2 4 \\pm 1$ hours. NOTE 2: The specimens should be placed to avoid any contact with each other and with the walls of the chamber, e.g. to use a holder or to place on a wire net. 11.3.1.2 Remove the specimens from the chamber and wipe off any excess water from the surfaces with a clean cloth or"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 11.2  Specimen Conditioning (Part 2)",
+    "content": "Title: SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 11.2  Specimen Conditioning\n\nContent: absorbant paper. 11.3.1.3 Place the specimens in desiccator (2) and allow to cool to room temperature. NOTE 3: The specimens should be placed to avoid any contact with each other and with the walls of the chamber (e.g., to use a holder or to place on a wire net). 11.3.1.4 Re-weigh the specimens to the nearest 0.0001 g."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 11.3.2  Saturated Area",
+    "content": "11.3.2.1  Place the conditioned specimens $\\mathrm { ~  ~ { ~ \\mathrm { ~ 1 ~ } ~ } ~ }  { \\mathrm { m m } }$ thickness) in the high-temperature/humidity chamber set at $8 5 ^ { \\circ } \\mathrm { C }$ and $8 5 \\%$ relative humidity for $1 6 8 ~ \\pm ~ 4$ hours.  \nNOTE 4:  The specimens should be placed to avoid any contact with each other and with the walls of the chamber (e.g., to use a holder or to place on a wire net).  \n11.3.2.2  Remove the specimens from the chamber and wipe off any excess water from the surfaces with a clean cloth or absorbant paper.  \n11.3.2.3  Place the specimens in desiccator (2) and allow to cool to room temperature.  \nNOTE 5:  The specimens should be placed to avoid any contact with each other and with the walls of the chamber, e.g. to use a holder or to place on a wire net.  \n11.3.2.4  Re-weigh the specimens to the nearest\n0.0001g."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 12  Calculations",
+    "content": "12.1  Water Absorption Rate — The rate is calculated as follows:  \n12.1.1  Water absorption rate $\\left( \\mathrm { w t ^ { 0 } } \\right) = \\left( \\ \\left( \\mathrm { M } 2 \\ \\mathrm { M } 1 \\right) / \\mathrm { M } 1 \\right)$ $\\times 1 0 0$ (1)  \nWhere:  \nM1 is the initial conditioned weight, and  \nM2 is the reconditioned weight after exposure to  \ntemperature/humidity  \n12.2  Diffusion and Solubility Coefficients  \n12.2.1  There are various methods to calculate diffusion and solubility coefficients. See Appendix 1 for one of these methods."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 13  Report",
+    "content": "13.1  The following information shall be reported:  \n13.1.1  Manufacturer and identification of molding compound  \n13.1.2  Specimen sizes  \n13.1.3  Test conditions  \n13.1.4  Water absorption rate"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # 14  Related Documents",
+    "content": "14.1  ASTM Specification  \nASTM D 570 — Standard Test Method for Water Absorption of Plastic"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # APPENDIX 1 APPLICATION NOTES — METHOD OF CALCULATION FOR DIFFUSION AND SOLUBILITY COEFFICIENT",
+    "content": "NOTICE:  The material in this appendix is an official part of SEMI G66 and was approved by full letter ballot procedures."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-1  Purpose",
+    "content": "A1-1.1  This application note describes a method for calculating diffusion and solubility coefficients."
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-2  Solubility Coefficient, S",
+    "content": "A1-1.2  The solubility coefficient is given from the data of saturated area as follows:  \nA1-1.2.1 $\\mathrm { S } { = } \\mathrm { M } _ { \\mathrm { s } } \\times \\mathrm { d } / \\mathrm { P } \\times 1 0 0 0$ (2)  \nWhere:  \n$\\mathrm { \\Delta S = }$ Solubility coefficient $( ( \\mathrm { m g / c m } ^ { 3 } / ( \\mathrm { k g / m m } ^ { 2 } ) )$  \n${ \\bf M } = { \\bf \\Phi }$ Saturated moisture absorption rate $( \\mathrm { w t \\% } )$ (data from saturated area test)  \n$\\mathbf { D } =$ Density of specimen $( \\mathrm { g } / \\mathrm { c m } ^ { 3 } )$  \n${ \\boldsymbol { \\mathrm { ~ P ~ } } } =$ Partial pressure of moisture in environment $\\mathrm { ( P a ) }$ (value at $8 5 \\mathrm { C }$ in this test)"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-3  Diffusion Coefficient, D (Part 1)",
+    "content": "Title: SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-3  Diffusion Coefficient, D\n\nContent: A1-1.3 The moisture absorption rate in resin exposed for relatively short term is calculated using the following equation based on Fick’s formula: $$ \\mathrm { M _ { t } / M _ { s } } = 4 \\times \\{ \\mathrm { \\Phi ( D \\times t ) / \\left( 1 \\times \\pi \\right) } \\} ^ { 1 / 2 } \\left( 3 \\right) $$ Then: $$ \\mathrm { D } { } = 1 ^ { 2 } { \\times } \\mathrm { M } _ { \\mathrm { t } } ^ { 2 } { \\times } \\pi / ( \\mathrm { t } { \\times } 4 ^ { 2 } { \\times } \\mathrm { M } _ { \\mathrm { s } } ^ { 2 } ) $$ Where: $\\mathbf { D } =$ Diffusion coefficient $( \\mathrm { c m } ^ { 2 } / \\mathrm { h } )$ ] $\\mathbf { t } =$ Time of moisture absorption (h) (data from diffusion area test — 24 hours) $\\mathbf { M } _ { \\mathrm { t } } = { \\mathbf { \\Omega } }$ Moisture absorption rate at the time \"t\" $( \\mathrm { w t \\% } )$ ) (data from diffusion area test) $\\textbf { 1 } =$ Thickness of the specimen (cm) (data from diffusion area test $= 0 . 3 ~ \\mathrm { c m } ^"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-3  Diffusion Coefficient, D (Part 2)",
+    "content": "Title: SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-3  Diffusion Coefficient, D\n\nContent: { \\cdot }$ ) $\\scriptstyle \\mathbf { M } _ { 5 } =$ Saturated moisture absorption rate $( \\mathrm { w t \\% } )$ (data of saturated area test) NOTICE: SEMI makes no warranties or representations as to the suitability of the standard set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely"
+  },
+  {
+    "title": "SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-3  Diffusion Coefficient, D (Part 3)",
+    "content": "Title: SEMI G66-96 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF WATER ABSORPTION CHARACTERISTICS FOR SEMICONDUCTOR PLASTIC MOLDING COMPOUNDS - # A1-3  Diffusion Coefficient, D\n\nContent: their own responsibility."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS",
+    "content": "This test method was technically reapproved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published September 1996."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 1  Purpose",
+    "content": "1.1  This test method describes a procedure to measure particles on sheet materials."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 2  Scope",
+    "content": "2.1  The method described may be used for the measurement of particles on items such as:  \nLeadframe Interleaves, Cleanroom Paper, and Packing Material.  \n2.2  The procedures may be used by the material manufacturer for quality control or by a customer at incoming inspection.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 3  Referenced Standards",
+    "content": "3.1  None.  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 4  Terminology",
+    "content": "4.1  None."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 5  Summary of Method",
+    "content": "5.1  The method is based on measuring a background particle count in a clean enclosure and then measuring the increased particle count when items under test are submitted to handling operations likely to generate particles."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 6  Interference",
+    "content": "6.1  Care must be taken to avoid contaminating the clean bench when sheet materials are placed inside. All external packaging material shall be removed and the  \ninternal packaging shall be cleaned by appropriate means prior to placing inside the bench.  \n6.2  A method of cutting the specimens to size, if performed, must not add to, or detract from, the contamination levels on the sheet materials.  \n6.3  Care must be taken to avoid contaminating the specimens from the human body and clothes when the sheet materials are prepared for the test method."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 7  Equipment",
+    "content": "7.1  Particle Counter and Recorder  \n7.2  Clean Bench with Full Gloves and a Dust Particle Measurement Port — See Figure 1.  \n7.2.1  Air flow speed in the clean bench should be 0.6 m/sec."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 8  Sampling",
+    "content": "8.1  Sampling plans shall be agreed between user and supplier."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 9  Test Specimen",
+    "content": "9.1  Specimen size shall be agreed between user and supplier. It is recommended that a $1 5 2 . 4 \\ \\mathrm { m m } \\times 2 0 3 . 2$ mm ( $( 6 \\times 8$ inches) test piece be used."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 10  Equipment Set-Up",
+    "content": "10.1  The particle counter shall be set up with the probe in the clean bench. Calibrate the counter in accordance with the equipment manufacturer's instructions.  \n10.2  Allow the clean bench to come to equilibrium and perform a background particle count.  \nNOTE 1:  Between each test, allow the clean bench to return to a stable background particle count before proceeding with the next test.  \nNOTE 2:  After several thousand particles have been measured, the clean bench must be cleaned before making the next measurement."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 11  Test Procedure",
+    "content": "11.1  Place the items to be tested in the clean bench and allow the clean bench to return to a stable background level for particle count."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 11.2  Crumpling Test",
+    "content": "11.2.1  Crumple a test specimen in gloved hands at the rate of one (1) crumple every fifteen (15) seconds and record the maximum particle count.  \n11.2.2  Record the maximum particle count and the initial background count."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 11.3  Friction Test",
+    "content": "11.3.1  Place two sheets of the material to be tested face to face and rub together three (3) times in ten (10) seconds.  \n11.3.2  Record the maximum particle count and the initial background count."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 11.4  Tearing and Crumpling Test",
+    "content": "11.4.1  Tear a sheet into five (5) pieces at the rate of one (1) tear every five (5) seconds. Crumple the pieces in gloved hands at the rate of one (1) crumple every fifteen (15) seconds.  \n11.4.2  Record the maximum particle count and the initial background count."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 12  Calculations and Reporting Results",
+    "content": "12.1  For each measurement and test method type, calculate the particle count on the material under test as follows:  \nParticle Count $( \\mathrm { n o . / m ^ { 3 } } ) =$ (Measured Count from each test) - (Background Count)  \n12.2  Average the results for each test type."
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 13  Report (Part 1)",
+    "content": "Title: SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 13  Report\n\nContent: The test report shall include the following items: Test Date, Test Conditions — temperature, humidity in the clean bench, Particle Counter Sensitivity, Test Time, and Results for Each Test Type in particles/m3. NOTE 3: If the test is performed by the manufacturer, some of these items may be replaced by in-house requirements such as manufacturer lot number. Material Designation under Test, Manufacturer, Shipping Lot Number, NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer's instructions, product labels, product data sheets, and other relevant literature, respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, Semiconductor Equipment and Materials International (SEMI) takes no position"
+  },
+  {
+    "title": "SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 13  Report (Part 2)",
+    "content": "Title: SEMI G67-0996 (Reapproved 1104) TEST METHOD FOR THE MEASUREMENT OF PARTICLE GENERATION FROM SHEET MATERIALS - # 13  Report\n\nContent: respecting the validity of any patent rights or copyrights asserted in connection with any items mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES",
+    "content": "This test method was technically approved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1996."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 1  Purpose",
+    "content": "1.1  The purpose of this test is to determine the thermal resistance of semiconductor packages using thermal test chips. This test method deals with junction-to-case measurements of thermal resistance in air environment."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 2  Scope",
+    "content": "2.1  The results of this test method are used to obtain the junction temperature.  \n2.2  The measurement results are usually different from the results obtained by testing in the fluid bath environment described in SEMI G30 and SEMI G43.  \n2.3  This test method uses SI units.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 3  Limitation",
+    "content": "3.1  This method applies only to packages whose surface is wide enough to place a thermocouple."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 4.1  SEMI Standards",
+    "content": "SEMI G30 — Test Method for Junction-to-Case Thermal Resistance Measurements of Ceramic Packages\nSEMI G32 — Guideline for Unencapsulated Thermal Test Chip\nSEMI G38 — Test Method for Still- and Forced-Air Junction-to-Ambient Thermal Resistance Measurements of Integrated Circuit Packages\nSEMI G42 — Specification for Thermal Test Board Standardization for Measuring Junction-to-Ambient Thermal Resistance of Semiconductor Packages  \nSEMI G43 — Test Method for Junction-to-Case Thermal Resistance Measurements of Molded Plastic Packages  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 5.1  Definitions (Part 1)",
+    "content": "Title: SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 5.1  Definitions\n\nContent: 5.1.1 The following definitions and symbols shall apply to this test: 5.1.2 case top temperature measured in air environment, $T _ { t } ~ -$ in $^ { \\circ } \\mathrm { C }$ , is the temperature at the specified accessible reference point on the package in measured in air environment. NOTE 1: $\\mathrm { T _ { C } }$ defined in SEMI G43 is different from $\\mathrm { T _ { t } }$ . 5.1.3 junction temperature, $T _ { j }$ — in $^ { \\circ } \\mathrm { C }$ , is the temperature of the semiconductor junction on the microcircuit in which the major part of the heat is generated. 5.1.4 power dissipation $P _ { H }$ — in watt, is the heating power applied to the device causing a junction-to reference point temperature difference. 5.1.5 thermal resistance measured in air environment, junction to package surface, $\\boldsymbol { \\varPsi } _ { j t }$ — in $^ { \\circ } \\mathrm { C } /$ watt, is the temperature difference from the junction to the center point on the package"
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 5.1  Definitions (Part 2)",
+    "content": "Title: SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 5.1  Definitions\n\nContent: divided by the power dissipation PH."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 6  Summary of Method",
+    "content": "6.1  A thermocouple is attached on the surface of the package on the test board.  \n6.2  After the chip is heated, the junction temperature is measured by the diode in the test chip. The surface temperature is measured in an air environment by the thermocouple.  \n6.3  The junction-to-case thermal resistance is calculated using the case temperature, junction temperature and power dissipation."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 7  Interference",
+    "content": "7.1  It is recommended that an operator who is familiar with the measuring system and test method conduct the actual measurement in order to obtain the best result.  \n7.2  The procedure for attaching the thermocouple described in Section 12.3 on the test package should be followed in order to obtain the accurate measurement result."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 8  Apparatus",
+    "content": "8.1  Thermocouple  \n8.1.1  Material — Copper-constantan or equivalent.  \n8.1.2  Temperature Range — -100 to $+ 3 0 0 ^ { \\circ } \\mathrm { C }$ .  \n8.1.3  Wire Size — No larger than AWG size 36.  \n8.1.4  The Junction — Shall be welded to form a bead rather than soldered or twisted.  \n8.1.5   Accuracy — $\\pm 0 . 5 \\%$ .  \n8.2  Suitable Electrical Equipment — As required to provide controlled levels of conditioning power and to make the specified measurements.  \n8.2.1  Resolution — $5 0 ~ \\mu \\mathrm { V }$ and $5 ~ { \\mu \\mathrm { A } }$ .  \n8.3  Wind Tunnel (as necessary) — See SEMI G38 or equivalent."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 9  Materials",
+    "content": "9.1  Test Chip — Referred to in SEMI G32, or equivalent.  \n9.2  Test Board — Referred to in SEMI G42, or equivalent.  \n9.3  Adhesive — Alpha Cyano-Acrylate.  \n9.4  Aluminum Foil — 4 mm × 4 mm."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 10  Setup",
+    "content": "10.1  Warm up the test equipment before measurements."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 11  Calibration",
+    "content": "11.1  Calibrate the equipment in accordance with the operation manual as necessary."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 12  Procedure",
+    "content": "12.1  Preparation of Test Package  \n12.1.1  Prepare the semiconductor package in which the test chip is mounted.  \n12.2  Assemble the package on the test board using solder."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 12.3  Attach the Thermocouple (Part 1)",
+    "content": "Title: SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 12.3  Attach the Thermocouple\n\nContent: 12.3.1 Apply adhesive on the center point of the package. 12.3.2 Place the thermocouple and aluminum foil on the adhesive and press the aluminum foil using a finger in order to attach the thermocouple on the package surface as close as possible. 12.4 Measure the thermal characteristic of the diode of the test chip. NOTE 2: It is recommended that the ambient temperature $\\mathrm { { T _ { a } } }$ is measured using the thermocouple. 12.5 Mount the test board in a test socket in a still-air enclosure or wind tunnel as necessary. 12.6 Heating Chip 12.6.1 Supply power to the chip. 12.6.2 Adjust the measurement equipment to the measured case temperature $\\mathrm { T _ { t } }$ or the measured power PH (package). NOTE 3: The thermal resistance usually depends on the power dissipation (see Figure 1). The thermal resistance is variable within a power and stable beyond the power. 12.7 Wait until the thermal characteristic of the diode is stable. 12.8"
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 12.3  Attach the Thermocouple (Part 2)",
+    "content": "Title: SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 12.3  Attach the Thermocouple\n\nContent: Calculate the junction temperature $\\mathrm { T _ { j } }$ by the diode thermal characteristics. 12.9 Measure the case temperature $\\mathrm { T _ { t } }$ using the thermocouple and record the case temperature. 12.10 Record the voltage and the current in order to obtain the PH (package)."
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 13  Calculation",
+    "content": "13.1  The thermal resistance of the package can be calculated as follows:  \n$$\n\\begin{array} { l } { \\Psi _ { \\mathrm { j t } } \\left( ^ { \\circ } \\mathrm { C } / \\mathrm { w a t t } \\right) = } \\\\ { \\left( \\mathrm { T } _ { \\mathrm { j } } - \\mathrm { T } _ { \\mathrm { t } } \\right) / \\mathrm { P } _ { \\mathrm { H ( p a c k a g e ) } } } \\end{array}\n$$"
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 14  Report (Part 1)",
+    "content": "Title: SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 14  Report\n\nContent: 14.1 The following details shall be reported: a. Description of package. b. Description of test board. c. Power dissipation of test chip. d. Thermal resistance $\\mathbb { R } _ { \\Psi \\mathrm { j t } }$ for test condition. NOTICE: SEMI makes no warranties or representations as to the suitability of the standard set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or"
+  },
+  {
+    "title": "SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 14  Report (Part 2)",
+    "content": "Title: SEMI G68-0996 (Reapproved 1104) TEST METHOD FOR JUNCTION-TO-CASE THERMAL RESISTANCE MEASUREMENTS IN AIR ENVIRONMENT FOR SEMICONDUCTOR PACKAGES - # 14  Report\n\nContent: copyrights, and the risk of infringement of such rights, are entirely their own responsibility. Copyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS",
+    "content": "This test method was technically approved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1996."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 1  Purpose",
+    "content": "1.1  This document describes procedures for measuring adhesive strength between leadframes and molding compounds for semiconductor packages.  \n1.2  The procedures include shear test, pull test, and three-point bending techniques."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 2  Scope",
+    "content": "2.1  This document may be used on all types of semiconductor leadframe and molding compound.  \n2.2  The methods help leadframe manufacturers, molding compound manufacturers and their customers in evaluating leadframes, and molding compounds as a guideline.  \n2.3  The methods in this document use SI units.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 3  Terminology",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 4  Summary of Method",
+    "content": "4.1  Shear Method — A frustum-shaped button of molding compound on the surface of a leadframe sample is sheared off the leadframe surface using a tensile tester (see Figure 1).  \n4.2  Pull Method — A sample of leadframe material molded into the side of a block of a molding compound is pulled out using a tensile tester (see Figure 2).  \n4.3  Three-Point Bending Method1 — Molding compound is molded onto the surface of a leadframe sample such that part of the leadframe is free of molding compound adherence to the surface. Using a bending technique, the adherent molding compound is cracked away from the surface. This process is repeated from both sides of the sample in order to calculate the true adhesive strength (see Figure 3)."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 5.1  Tensile Tester",
+    "content": "5.1.1  Measurement Range — Maximum 980 N (100 kgf)  \n5.1.2  Accuracy — $\\pm 1 \\%$  \n5.1.3  Crosshead Speed 2–10 mm/min (recommended), constant speed.  \n5.1.4  Fixtures suitable for holding the samples, shearing the molding compound, pulling the leadframe, and applying bending load."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 5.2  Chart Recorder",
+    "content": "5.3  Transfer molding machine or suitable replacement that can encapsulate individual samples with required pressure and temperature.  \n5.4  Pre-Heater — High frequency heater for molding compounds.  \n5.5  Molds — Suitable to mold the samples as shown in Figures 1, 2, and 3.  \n5.6  Recirculating Air Oven — With controller in range of $1 7 0 { - } 1 8 0 ^ { \\circ } \\mathrm { C }$ .  \n5.7  Equipment to pre-treat the leadframe sample, as required.  \n5.8  Ultrasonic inspection apparatus for three-point bending method."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 6  Configuration and Dimension of Sample",
+    "content": "6.1  The sample configuration and dimensions for measurement are shown in Figures 1, 2, and 3.  \nFigure 1 Sample for Shear Method  \nFigure 2 Sample for Pull Method"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 7  Sampling Plan",
+    "content": "7.1  The sampling plan shall be in agreement between customer and vendor. It is recommended that the following minimum sample sizes are used:  \nShear Method — Four (4) samples\nPull Method — Four (4) samples\nThree-Point Bending Method — Three (3) samples in each direction  \nNOTE 1:  Three-point bending method needs at least 2 samples to obtain adhesive strength."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 8  Materials",
+    "content": "8.1  Leadframe or appropriated sample from strip meeting dimensions for test.\n8.2  Molding compound"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 9  Sample Preparation",
+    "content": "9.1  Leadframe Sample Preparation  \n9.1.1  Process the leadframe samples through the various cleaning and heat cycles that would be normal for the leadframe under consideration as required.  \nNOTE 2:  When this method is applied to copper leadframes, copper oxide on the surface shall be considered when results are interpreted.\n9.2  Clean and condition the molds to provide well formed samples as required.\n9.3  Set the molds to the specified temperature and record the temperature.  \n9.4  Set the transfer molding pressure, transfer time and cure time to the following recommended molding conditions. If the condition is not suitable for the material, the condition should be agreed between customer and vendor.  \n9.5  Mold all the required samples.  \n9.6  Remove the samples from the molds.  \nNOTE 3:  After removing the samples from the molds, natural cooling of the samples is recommended.  \n9.7  Post mold cure the samples at the following recommended conditions.  \n9.8  Store the samples and record the storage conditions."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 9.9  Three-Point Bending Samples",
+    "content": "9.9.1  In addition to the treatment mentioned in Section 10.1.1, and to facilitate cracking during the three point bending method, apply a thin layer of mold release to on end of the leadframe sample in order to form a “precrack” condition (i.e., the molding compound will not adhere to this section of the sample, see Figure 3).  \nNOTE 4:  It is recommended that toluen-based thermosetting silicone be used as a mold release agent to prevent molding process contamination."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 10.1  Tensile Tester Calibration",
+    "content": "10.1.1  Calibrate the tensile tester in accordance with the manufacturer’s instructions."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 11.1  Shear Method",
+    "content": "11.1.1  Attach the sample to the tensile test such that shear may be applied.  \n11.1.2  Place the shear tool against the molding compound formation and initiate a load at a constant speed between $2 { \\mathrm { - } } 1 0 \\ \\mathrm { m m / m i n }$ while recording the load and displacement.  \n11.1.3  Record the peak load before the sudden drop in applied load as the sample shears off the leadframe or the molding compound breaks.  \nNOTE 5:  Disregard any results which have the appearance of sample slipping or shear tool riding over the molding compound."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 11.2  Pull Method",
+    "content": "11.2.1  Attach the sample to the tensile tester such that the leadframe may be pulled out of the molding compound with a vertical pull action.  \n11.2.2  Attach the pulling grips to the leadframe and initiate a load at a constant speed between 2–10 $\\mathrm { { m m } } / \\mathrm { { m i n } }$ . while recording the load and displacement.  \n11.2.3  Record the peak load before the sudden drop in applied load as the sample is pulled from the molding compound samples.  \nNOTE 6:  Disregard any results which have the appearance of slippage of the sample or pulling grips."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 11.3  Three-Point Bending Method",
+    "content": "11.3.1  Measurement of the pre-crack length  \n11.3.1.1  Measure the pre-crack length using an ultrasonic inspection technique (see Figure 4).  \nNOTE 7:  The sample, in this case, is placed in the vessel with the leadframe side up, and then secured with an adhesive tape so that the water cannot penetrate into the interface area created by the mold release."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 11.3.2  Test Procedure",
+    "content": "11.3.2.1  Attach support fixture and load wedge to the tensile tester.\n11.3.2.2  Place the sample on the support fixture with the molded side up (see Figure 5).\nNOTE 8:  The support fixture tool should be located at a constant distance from the tip of pre-crack for every measurement.  \nFigure 5 Sample Setup  \n11.3.2.3  Place the load wedge in contact with the molded surface and initiate the loading at a constant speed between $2 { \\mathrm { - } } 1 0 \\ \\mathrm { m m / m i n }$ while recording the load and displacement.  \n11.3.2.4  Record the peak load before the sudden drop in applied load.  \n11.3.2.5  Repeat the test with another sample which has the leadframe side up."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation (Part 1)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation\n\nContent: 12.1 Shear and Pull Method 12.1.1 The adhesive strength is calculated as follows: 12.1.1.1 Adhesive Strength $( \\mathrm { N } / \\mathrm { m m } ^ { 2 } ) =$ Peak Load (N)/Nominal Adhesive Area $( \\mathrm { m } \\mathrm { m } ^ { 2 } )$ 12.2 Three-Point Bending Method 12.2.1 Apparent Adhesive Strength — Apparent adhesive strength including residual stress, is calculated using the stress intensity factor $\\mathrm { K _ { i } }$ as follows: $$ \\mathrm { K _ { i } } = 4 \\times 1 0 ^ { - 6 } \\mathrm { c o s h } ( \\varepsilon \\pi ) \\sqrt { \\frac { \\mathrm { G } } { \\displaystyle \\frac { \\kappa _ { \\mathrm { p } } + 1 } { \\mu _ { \\mathrm { p } } } + \\frac { \\kappa _ { \\mathrm { a } } + 1 } { \\mu _ { \\mathrm { a } } } } } $$ where $$ \\begin{array} { r l } & { \\mathbf { G } = 3 \\Bigg \\{ \\displaystyle \\frac { 1 } { \\mathbf { t } _ { \\mathrm { p } } ^ { 3 } \\mathbf { E } _ { \\mathrm { p } } + \\mathbf { t } _ { \\mathrm { p } } ^ { 3 } \\mathbf { E } _ { \\mathrm { a } } } - \\displaystyle"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation (Part 2)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation\n\nContent: \\frac { \\mathbf { t } _ { \\mathrm { p } } \\mathbf { E } _ { \\mathrm { p } } + \\mathbf { t } _ { \\mathrm { a } } \\mathbf { E } _ { \\mathrm { a } } } { \\mathbf { k } } \\Bigg \\} \\displaystyle \\frac { \\mathrm { P } ^ { 2 } { \\mathbf { a } } ^ { 2 } } { 2 { \\mathbf { b } } ^ { 2 } } } \\\\ & { \\mathbf { k } = 4 \\mathbf { t } _ { \\mathrm { p } } \\mathbf { t } _ { \\mathrm { a } } \\mathbf { E } _ { \\mathrm { p } } \\mathbf { E } _ { \\mathrm { a } } \\big ( \\mathbf { t } _ { \\mathrm { p } } + \\mathbf { t } _ { \\mathrm { a } } \\big ) ^ { 2 } + \\left( \\mathbf { t } _ { \\mathrm { p } } ^ { 2 } \\mathbf { E } _ { \\mathrm { p } } + \\mathbf { t } _ { \\mathrm { a } } ^ { 2 } \\mathbf { E } _ { \\mathrm { a } } \\right) ^ { 2 } } \\\\ & { \\varepsilon = \\displaystyle \\frac { 1 } { 2 \\pi } \\mathbf { l } \\displaystyle \\mathrm { m } \\cdot \\frac { \\left[ \\frac { \\kappa _ { \\mathrm { p } } } { \\mu _ { \\mathrm { p } } } + \\frac { 1 } { \\mu _ { \\mathrm { a } } } \\right] } { \\left[ \\frac { \\kappa _ { \\mathrm { a"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation (Part 3)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation\n\nContent: } } } { \\mu _ { \\mathrm { a } } } + \\frac { 1 } { \\mu _ { \\mathrm { p } } } \\right] } } \\end{array} $$ $$ \\kappa _ { \\mathrm { j } } = 3 - 4 \\nu _ { \\mathrm { j } } $$ P : Peak load (N) a : Pre - crack length (m) b : Sample width (m) $\\mathfrak { t } _ { \\mathfrak { p } }$ : Thickness of molding compound (m) $\\mathbf { t _ { a } }$ : Thickness of leadframe (m) $\\mathrm { E _ { \\mathfrak { p } } }$ : Young' s modulus of molding compound (Pa) $\\mathrm { E _ { a } }$ : Young' s modulus of leadframe (Pa) $\\mu _ { \\mathrm { p } }$ : Shear modulus of molding compound (Pa) $\\mu _ { \\mathrm { a } }$ : Shear modulus of leadframe $\\mathrm { ( P a ) }$ $\\nu _ { \\mathrm { p } }$ : Poisson' s ratio of molding compound $\\nu _ { \\mathrm { a } }$ : Poisson' s ratio of leadframe 12.2.2 True Adhesive Strength — The true adhesive strength (CKic) excluding residual stress, is calculated as follows: $$ \\mathrm { K _ { i c } ( M P a \\sqrt { m } ) = \\frac { K _ { i b 1 } + K _ { i b 2 } } { 2 } } $$"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation (Part 4)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 12  Calculation\n\nContent: where : $\\mathrm { K _ { i b l } }$ : Apparent adhesive strength when testing is performed with molded side up $\\left( \\mathrm { { M P a } } { \\sqrt { \\mathrm { { m } } } } \\right)$ ) $\\mathrm { K } _ { \\mathrm { i b } 2 }$ : Apparent adhesive strength when testing is performed with leadframe side up $( \\mathrm { M P a } \\sqrt { \\mathrm { m } } )$"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 13  Report (Part 1)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 13  Report\n\nContent: 13.1 The following items should be reported: 13.1.1 Leadframe 13.1.1.1 Material Designation 13.1.1.2 Thickness 13.1.1.3 Production Method (etching or stamping) 13.2 Pre-Treatment — In case that surface pre-treatment is necessary, the process and their condition should be reported as follows: 13.2.1 Pre-treatment by plating 13.2.1.1 Plating type 13.2.1.2 Plating thickness 13.2.2 Post treatment after plating 13.2.2.1 Corrosion prevention treatment 13.2.2.2 Cleaning treatment 13.2.2.3 Coupling material 13.2.3 Pre-treatment by heating 13.2.3.1 Temperature 13.2.3.2 Atmosphere 13.2.3.3 Oven or Hot Plate 13.3 Molding Compound 13.3.1 Material Designation 13.4 Molding Compound Configuration and Dimension 13.5 Molding Condition 13.5.1 Pre-heat condition (Temperature, Time) 13.5.2 Molding condition (Cure temperature, Cure time, Injection speed, Injection pressure) 13.5.3 Post-cure condition (Temperature, Time) 13.5.4 Sample storage conditions 13.6 Measurement Method (Shear, Pull, or"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 13  Report (Part 2)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # 13  Report\n\nContent: Three-point bending method) 13.7 Measurement Equipment 13.8 Adhesive Strength (maximum, minimum, average, and where possible, standard deviation, σ)"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # APPENDIX 1 SAMPLE OF MOLD FOR SHEAR METHOD",
+    "content": "NOTICE:  The material in this appendix is an official part of SEMI G69 and was approved by full letter ballot procedures."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # A1-1",
+    "content": "A1-1.1  A mold to prepare samples for shear method is shown in Figure A1-1 as a sample.  \nFigure A1-1 Mold Sample"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # APPENDIX 2 SAMPLE SIZE",
+    "content": "NOTICE:  The material in this appendix is an official part of SEMI G69 and was approved by full letter ballot procedures."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # A1-2",
+    "content": "A1-2.1  Results of adhesive strength measurement made by some companies using the same leadframe material and molding compound are shown in Figure A2-1. The figures show that apparent adhesive strength decreases with an increase in adhesive area due to residual stress.  \nA1-2.2  Sample size in this document was determined in consideration of the effect of residual stress and easiness of handling for samples.  \nA1-2.3  \nFigure A1-2 Dependence of Measurement Results on Sample Size"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # APPENDIX 3 EFFECTIVENESS OF RESIDUAL STRESS SEPARATION IN THREEPOINT BENDING METHOD",
+    "content": "NOTICE:  The material in this appendix is an official part of SEMI G69 and was approved by full letter ballot procedures."
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # A1-3",
+    "content": "A1-3.1  Since the three-point bending method can eliminate the effect of residual stress and also that of stress distribution on the interface (stress singularity at the adhering edges), the measurement results are almost independent of sample dimensions (Figure $| \\mathrm { A } 3 - 1 ^ { 2 ^ { \\circ } } |$ ). This method can evaluate both the true adhesive strength and the magnitude of residual stress; mainly due to the thermal expansion mismatch between materials, simultaneously (Figures A3-2 and ${ \\mathrm { A } } 3 { - } 3 ^ { 3 }$ ).  \nFigure A3-1 Dependence of Measurement Results on Specimen Dimensions  \nFigure A3-2 Dependence of Adhesion Strengths on Adherend Material  \nFigure A3-3 Temperature Dependence of Adhesion Strength"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # APPENDIX 4 LEADFRAME DESIGN FOR PULL METHOD (Part 1)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # APPENDIX 4 LEADFRAME DESIGN FOR PULL METHOD\n\nContent: NOTICE: The material in this appendix is an official part of SEMI G69 and was approved by full letter ballot procedures. Figure A1-4 NOTICE: SEMI makes no warranties or representations as to the suitability of the standard set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own"
+  },
+  {
+    "title": "SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # APPENDIX 4 LEADFRAME DESIGN FOR PULL METHOD (Part 2)",
+    "content": "Title: SEMI G69-0996 (Reapproved 1104) TEST METHOD FOR MEASUREMENT OF ADHESIVE STRENGTH BETWEEN LEADFRAMES AND MOLDING COMPOUNDS - # APPENDIX 4 LEADFRAME DESIGN FOR PULL METHOD\n\nContent: responsibility. 16 Copyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES",
+    "content": "This standard was technically approved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1996."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 1  Purpose",
+    "content": "1.1  This standard describes the equipment and leadframe fixtures used for measurement of $Z$ -axis dimensions of plastic package leadframes."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 2  Scope",
+    "content": "2.1  This standard mainly describes the equipment and leadframe fixture for measurement of leadframes that are $\\leq 0 . 1 5 \\mathrm { m m }$ in thickness as used for TSOP and TQFP packages listed in group II in Table 1.  \n2.2  This standard also may be applied for leadframe of conventional packages which are $\\ge ~ 0 . 2 ~ \\mathrm { ~ m m }$ in thickness.  \nTable 1  Package Classification  \nNOTE 1:  Packages should be classified by EIAJ and JEDEC specifications.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 3.2  EIAJ Standard1",
+    "content": "ED-7411 — General Rules for the Preparation of Outline Drawings of Integrated Circuits, Packages Name and Code  \n3.3  JEDEC Specifications2  \nPub. No. 95 — Registered and Standard Outlines for Semiconductor Devices  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 4  Terminology",
+    "content": "4.1  Definitions  \nNOTE 2:  See SEMI G57 for leadframe features terminology.  \n4.1.1  burr height — maximum height of burr above the plane which it protrudes, (see Figure 1)."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 3.1  SEMI Standard",
+    "content": "SEMI G57 Guideline for Standardization of Leadframe Terminology  \n4.1.2  coil set — longitudinal bowing of the leadframe strip length (see Figure 2)."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # Figure 4 Crossbow (Part 1)",
+    "content": "Title: SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # Figure 4 Crossbow\n\nContent: 4.1.3 coined depth — the difference in height between the top surface of the coined area of an inner lead and the top surface of the coined area at the tip of the lead. Inner lead coining produces a flattened section of the lead that is suitable for wire bonding (see Figure 3). 4.1.4 crossbow — transverse bowing of the leadframe (see Figure 4). 4.1.5 die pad dimple — a hollow formed in a die pad using a half-etching technique or stamping to improve the adhesive strength with the die or molding compound and to reduce the stress between the die pad and the die. 4.1.6 die pad dimple depth — the maximum depth of the dimple (see Figure 5). 4.1.7 die pad flatness — deviation of the center point of die pad surface from a plane established by the four corner points of die pad (see Figure 6). 4.1.8 die pad location — deviation of the center point of die pad surface from a plane established by the dam bars (see Figure 7). 4.1.9 die pad tilt — deviation of the plane of die pad from a"
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # Figure 4 Crossbow (Part 2)",
+    "content": "Title: SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # Figure 4 Crossbow\n\nContent: condition parallel to the plane formed by the dam bars (see Figure 8). 4.1.10 downset depth — (see Figure 9). NOTE 3: The measurement points P1 and P2 should be agreed between user and supplier. 4.1.11 half-etch — some designed part or area of leadframe where the thickness is reduced by one side etching. 4.1.12 half-etch depth — the maximum depth of the half-etch (see Figure 10). 4.1.14 lead planarity — total indicator reading of the lead tips in the $Z$ direction relative to the datum formed by the dam bars (see Figure 12). 4.1.15 lead lock groove — a groove formed in leads using the half-etching technique or stamping to increase the adhesive strength of plastic molding compound to the leads and improve resistance to water intrusion into the package (see Figure 13). 4.1.13 lead coplanarity — total indicator reading difference of the lead tips in the Z direction (see Figure 11). 4.1.16 lead lock groove depth — the maximum depth of the groove. 4.1.17 lead tilt — deviation"
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # Figure 4 Crossbow (Part 3)",
+    "content": "Title: SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # Figure 4 Crossbow\n\nContent: of the plane of coined area from a condition parallel to the plane formed by the dam bars (see Figure 14). 4.1.18 leadframe twist — angular rotation of one end of the leadframe or strip with reference to the other end (see Figure 15)."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 5  Equipment",
+    "content": "5.1  Measurement Equipment — The equipment and required accuracy used for the measurements are shown in Table 2.  \nTable 2  Measurement Equipment  \n5.2  Leadframe Fixtures — Leadframe fixtures are shown in Figures 16–20. The materials, dimensions, and accuracy shall be agreed between the vendor and customer."
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 6  Measurement",
+    "content": "6.1  Leadframe fixtures and measurement equipment for each measurement item are shown in Tables 3 and 4.  \nTable 3  Leadframe Fixtures and Measurement Equipment (Independent of Package Type)  \nTable 4  Leadframe Fixtures and Measurement Equipment (Dependent on Package Type)"
+  },
+  {
+    "title": "SEMI G70-0996 (Reapproved 1104) STANDARD FOR EQUIPMENT AND LEADFRAME FIXTURES FOR MEASUREMENT OF PLASTIC PACKAGE LEADFRAMES - # 7.1  SEMI Standard",
+    "content": "SEMI G10 — Standard Method for Mechanical Measurement for Plastic Package Leadframes  \nNOTICE: SEMI makes no warranties or representations as to the suitability of the standard set forth herein for any particular application.  The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials or equipment mentioned herein.  These standards are subject to change without notice.  \nBy publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard.  Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS",
+    "content": "This standard was technically approved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1996."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 1  Purpose",
+    "content": "1.1  This specification describes a common format, content, size, and location for printed, machinereadable labels on an intermediate container of materials used for semiconductor packaging.  \n1.2  This specification provides for a smooth transition from existing traceability and labeling procedures to a comprehensive, unified system envisioned for the future."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 2  Scope (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 2  Scope\n\nContent: 2.1 This document applies to the following packaging materials: 2.1.1 Leadframe 2.1.2 Molding compound 2.1.3 Bonding wire 2.1.4 Die attach materials 2.2 This document applies to only the intermediate container. Barcode specification for shipping pack is referred to EIA 556A or EIAJ barcode specification. 2.3 This document does not apply to product package label. NOTE 1: There are requests for labeling on product packages from the customers. However, task force concluded that the product package label was not included in scope of the specification because of limitation of area to be labeled on the package. For further activity, two-dimensional barcode symbol may be needed to standardize the barcode marking specification for product packages. NOTICE: This standard does not purport to address safety issues, if any, associated with its use. It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 2  Scope (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 2  Scope\n\nContent: or other limitations prior to use."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 3  Referenced Standards",
+    "content": "3.1  AIM Specification  \nUSS-39 — Universal Symbol Specification Code 39  \n3.2  ANSI Specifications2  \nANSI X3.182 — Barcode Print Quality - Guideline  \nANSI/FACT-1 — Data Application Identifier Standard  \n3.3  EIA Specification  \nEIA 556A — Outer Shipping Container Bar Code Label System  \n3.4  EIAJ Specification4  \nEIAJ — Standard, Bar Code Label System  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 4.1  Definitions",
+    "content": "4.1.1  Many items relating to barcode technology are defined in EIA 556, Appendix Definitions, and EIAJ Bar Code Label Systems, Appendix A.  \n4.1.2  intermediate container — a container housing one or more product packages for the purpose of product/ order segregation in a shipping container.  \n4.1.3  product package — the first tie, wrap, or container to a single item or quantity thereof that constitutes a complete identifiable pack. Product package may be packaged together or a group of the parts packaged together. Product package is also called unit pack.  \n4.1.4  shipping pack — a package or shipping container/ final container that is of sufficient strength to be used in commerce for packing, storing, and transporting products (see Figure 1).  \n4.1.5  Package forms for each material type are defined in Table 1."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 5  Ordering Information",
+    "content": "5.1  Purchase orders for the materials furnished in an intermediate package to the specification shall be include the following:  \n5.1.1  Content of message characters for customer product ID.  \n5.1.2  User-specified data, if required.  \n5.2  In addition, the following optional items may be specified.  \n5.2.1  Label location on the intermediate container.  \n5.2.2  Label size, if a label larger than the specified size in this specification."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  Content of Data Field (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  Content of Data Field\n\nContent: 6.1 The label shall include vendor field and customer field. 6.2 The customer field shall contain three data fields for barcode symbols. Each data field shall contain a maximum 17 message in addition to the start and stop characters. The content of the barcode symbol is shown in Table 2. 6.2.1 The upper data field shall contain a barcode symbol with customer product ID which consists of maximum 15 characters, preceded by a “P”, the data identifier for this item as specified in ANSI/FACT-1. 6.2.2 The middle data field shall contain a barcode symbol with lot number which consists of maximum 12 characters, preceded by a “1T”, the data identifier for this item as specified in ANSI/FACT-1. 6.2.3 The lower data field shall contain quantity and the production date concatenated into a single barcode symbol. Quantity is indicated by maximum 7 characters, preceded by a “7Q”, the data identifier for this item as specified in ANSI/FACT-1. The production date is indicated by 6"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  Content of Data Field (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  Content of Data Field\n\nContent: characters, preceded by a “D”, the data identifier for this item as specified in ANSI/FACT-1. The quantity and the production date are separated by a space. 6.2.3.1 Quantity indicated in this field shall be quantity in the intermediate container. The unit of measure should follow the quantity data to indicate what unit of measure is being used in the quantity count. The Unit uses 2 characters listed in Appendix D of ANSI/FACT-1. 6.2.3.2 Quantity that are not filled by a message characters shall contain hyphen (-) as a place saver to that the symbol always has exactly 7 characters. 6.3 Vendor company name and its logo mark; supplier’s ID may be included in the supplier’s field. Table 1"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7  Barcode Character",
+    "content": "7.1  The barcode characters specified in AIM USS-39 shall be used.  \n7.2  Character Set — The Code 39 character set consists of 43 characters: 0–9, A–Z, ., $\\$ 1,4$ , and space. In addition, an asterisk $( ^ { * } )$ is used only for both the stop and stop characters.  \n7.3  Print Quality — The Code 39 print quality shall be B/03/630 or better in accordance with ANSI X3.182. To assure reading efficiency, the minimum reflectance of the quiet zones shall be $60 \\%$ , the minimum reflectance of spaces shall be $51 \\%$ , and the maximum reflectance of bars shall be $10 \\%$ .  \n7.4  Symbol Dimensions — Barcode symbol dimensions shall be as listed in Table 2.  \nTable 2  Symbol Dimensions"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 8  Human-Readable Interpretation (HRI) Symbols",
+    "content": "8.1  Each barcode symbol data field on the customer field shall have an associated human-readable data field either immediately above or below it.  \n8.1.1  Start and stop characters shall not be included, but the data field identifier shall be included.  \n8.2  The height of human-readable characters shall be $3 . 0 \\mathrm { m m }$ .  \n8.3  The spaces above and below the human-readable characters shall be $1 . 0 \\mathrm { m m }$ ."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 9  Dimensions and Placement of Data Field on Label",
+    "content": "9.1  The size of barcode label shall be $4 2 \\mathrm { m m }$ in height and $1 2 0 \\mathrm { m m }$ in width.  \n9.2  The dimensions and placement of data field on label are shown in Figure 3.  \n9.3  The barcode and human-readable characters shall be placed within this area of the label as indicated in Figure 3."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 10  Barcode Label Location",
+    "content": "10.1  The barcode label shall be located on the end of the packages for easy identification when the packages are temporarily stored in the storage shelf."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 11  Label Material and Adhesive (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 11  Label Material and Adhesive\n\nContent: 11.1 Label material should not generate particles. 11.2 Label adhesive should not prohibit recyclability of the shipping packages. Definition of Packaging Forms for Leadframe, Molding Compound, Die Attach Material, and Bonding Wire NOTICE: SEMI makes no warranties or representations as to the suitability of the standard set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials or equipment mentioned herein. These standards are subject to change without notice. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 11  Label Material and Adhesive (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 11  Label Material and Adhesive\n\nContent: copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 1  Purpose",
+    "content": "The purpose of this specification is to promote industry use of common BGA designs that may be distinguished by their form, fit, function, and reliability requirements and to record designs by category that meet these requirements."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 2  Scope",
+    "content": "2.1  This document provides a libra ry of companysponsored BGA designs for the purpose of promoting the use of these common designs and to minimize the unnecessary proliferation of new designs. New designs will be added as they become sponsored by and approved by member companies.  \n2.2  This library shall include ceram ic, plastic, tape, metal and other (as new categories of designs are identified and added to this specification) BGA designs that are fully compliant with existing JEDEC-registered or standard mechanical outlines. Proposals for new designs may be balloted in parallel with congruent JEDEC registrations or standards, but will not be published in this library until such registration and/or standard is an approved JEDEC outline.  \n2.3  Controlling dimensions are me tric (Systems International units)."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 3 Referenced Documents",
+    "content": "3.1  SEMI Documents  \nSEMI International Standards Compilation of Terms  \nRegulations Governing SEMI Standards Committees  \n3.2  ASME 1  \nASME Y14.5M-94 — Dimensioning and Tolerancing 3.3  EIA/JEDEC 2  \nEIA JEDEC Publication 95 — Registered and Standard Outlines for Semiconductor Devices  \nJEDEC BGA Design Guide 95-1 — Section 14 J-STD-020 —  \nJESD 22-A113 — Preconditioning of Plastic Surface Mount Devices Prior to Reliability Testing"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 4  Terminology",
+    "content": "4.1  ball grid array (BGA) package — A square or rectangular substrate package with an array of metallic balls on one surface of the package. The metallic balls form the electrical and mechanical connection between the package and the PC board or socket.  \n4.2  column grid array — Same as ball grid array except that metallic columns are used in place of the metallic balls for the electrical and mechanical interconnection between the package and the PC board.  \nNOTE 1: In the text of this specification, whenever ball grids are mentioned, a reference to column grids is also implied.  \n4.3  wire bond ring — Metalized area in the shape of a complete or partial ring surrounding the die mounting area intended for group electrical interconnections."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 5  Ordering Information",
+    "content": "5.1  Order of Precedence — To avoid conflicts, the order of precedence when ordering ball grid array substrates or assembled packages when using BGA Library Designs from this specification shall be as follows:  \na. Purchase Order\nb. Customer BGA Drawing\nc. BGA Library Design from this specification\nd. Referenced Documents from Section 3.0\ne. Other related documents"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format\n\nContent: 6.1 Each design addition to this lib rary shall include a general design characteristics description which shall be listed in Appendix 1 of this specification and also be formatted on top of the title block for each design drawing. 6.1.1 Description listings in the Gen eral Design Characteristics, Appendix 1 shall be organized into category sections: Plastic, Ceramic, Tape, Metal, or Other. 6.1.2 These descriptions shall be list ed across a row of characteristics classification columns and may determine the uniqueness of each design. 6.2 The characteristics classificati on columns may be used in a data base format to sort the design listings sequentially, top to bottom according to their sequential listing by column, left to right, in the following order. These listings and their descriptive designations are as follows: 6.2.1 Ball Count — List the actual n umber of balls on the package. 6.2.2 Signal I/O — List the availabl e balls for individual"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format\n\nContent: signal I/O. This does not include balls that are interconnected with other balls, bond rings, power or ground planes or other electrically interconnected features, such as die attach pads. 6.2.3 Body Size — List ##×## (i.e., $2 7 { \\times } 2 7 ,$ ) to represent JEDEC Publication 95 registration values in millimeters for “D” & “E” nominal body dimensions. 6.2.4 Pitch — List number represen ting JEDEC Publication 95 registration values in millimeters for the “e” pitch dimension. 6.2.5 Matrix — List ##×## (i.e., $2 0 \\times 2 0$ ) to represent JEDEC Publication 95 matrix values determined by the number of balls on the outside row and column. 6.2.6 Array — List either Full, Stag gered, Peripheral, or Depopulated: Full — Completely filled matrix, as defined by the JEDEC Publication 95 registration and variation shown for each design. Staggered — A full matrix which has been depopulated by every other ball in each row and column. Peripheral — Balls"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format (Part 3)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format\n\nContent: missing in the center of the BGA package. Outer rows of the matrix are fully populated. Depopulated — Any variation not described by full, staggered, or peripheral as described above. NOTE 2: Any of the above matrix designs may have one ball missing from its defined matrix description above, for purposes of package orientation, and still be classified according to that description. 6.2.7 Thermal Enhancement — List $\\# \\times \\#$ (i.e., $6 { \\times } 6$ ) or “Cu Slug,” to designate either a specific matrix of balls for thermal enhancement purposes or copper heat slug for the same. Other metal slugs may be listed by their appropriate metal constituent. List “N/A” if the design has no thermal enhancement. 6.2.8 Profile Height — List the dim ension of the nominal profile height in millimeters. 6.2.9 Package Cavity Orientation — List either up or down with reference to the board to which the package design would be surfaced mounted (a cavity facing the"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format (Part 4)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format\n\nContent: board would be cavity, down). 6.2.10 Wire bond Rings — List the nu mber of wirebond rings. If the design has no rings, list “N/A.” 6.2.11 Substrate Materials — Generi c description of the materials the substrate is made from, excepting the electrical trace and solder mask materials. 6.2.12 Metal Layers — The number o f metal interconnect layers in the BGA substrate. List a(bscpdg) where: $\\mathrm { a } =$ total number of metal layers $\\scriptstyle \\mathbf { b } =$ number of signal layers $s =$ signal layer designator $c =$ number of power layers $\\mathrm { { \\tt p } } =$ power layer designator $\\mathrm { d } \\mathbf { = }$ number of ground layers $\\mathrm { g } =$ ground layer designator e.g., 4(2slplg) would have 4 total layers made up of 2 signal layers and 1 power and ground layer each. 6.2.13 Die Interconnect — Interconnect method for electrically connecting the die to the package. Normal methods include wire bond, flip chip and TAB. 6.2.14"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format (Part 5)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format\n\nContent: Encapsulation Design — Desi gn description. Normal categories are over-molded, liquid encapsulant or lid. 6.2.15 Encapsulation Material — Ge neral description of the material used to mechanically cover or encapsulate the chip or die. The materials normally used are epoxy for over-molding or liquid encapsulant designs, metal, ceramic or laminate for lid designs. 6.2.16 Ball Composition — Description of the material and composition of the ball. Should include a percentage of tin/lead or other metals, if solder ball (i.e., $6 3 / 3 7 \\mathrm { S n / P b }$ , alloy coated, copper or plastic). 6.2.17 JEDEC Designation List JEDEC designation from its Publication 95. This should include registration or standard number, the specific variation and revision designations (i.e., MO-151, BAE-1, B) (this indicates Issue, Revision B). 6.2.18 Preconditioning Level — The specified JEDEC, J-STD-020 moisture sensitivity performance level requirement. This should also"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format (Part 6)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format\n\nContent: include a reference to the revision of the J-STD-020 specification (e.g., Level 4, Revision A). NOTE 3: JEDEC, JESD 22 - A113 specifies the moisture preconditioning requirement for the moisture test to J-STD020. 6.2.19 Design Number — SEMI assig ned design number for this design. The numbers will be assigned by SEMI (upon ballot approval) and will be an alphanumeric designation in sequential order as follows: Plastic BGA Designs will be assigned PBDxxxx designations, where xxxx numbers are sequentially assigned beginning with 0001. • Ceramic BGA Designs will be assigned CBDxxxx designations, where xxxx numbers are sequentially assigned beginning with 0001. Tape BGA Designs will be assigned TBDxxxx designations, where xxxx numbers are sequentially assigned beginning with 0001. Metal BGA Designs will be assigned MBDxxxx designations, where xxxx numbers are sequentially assigned beginning with 0001. NOTE 4: The second letter designator may be assigned"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format (Part 7)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 6  General Design Character istics Listing Format\n\nContent: as either a B or C to designate whether the design is a ball grid or column grid array. 6.3 Appendix 1 is an example of a general design characteristics listing for a plastic BGA."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7  Drawing Format",
+    "content": "7.1  Appendix 2 is an example of t he drawing format."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.2  Dimensions (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.2  Dimensions\n\nContent: 7.2.1 All dimensions, and tolerances shown or not shown shall be in conformance with the JEDEC Publication 95 registration or standard outline referenced by the designation shown in the general design characteristics listing for each design. 7.2.2 Nominal and basic dimensions shown in the drawing may have minimum and maximum values and associated tolerances that may be referenced in JEDEC Publication 95 according to the registration designation shown in the general design characteristics listing for each design. 7.2.3 Dimension values will be shown on the drawing, not in a table. 7.2.4 Basic dimensions only will be used for package length and width dimensions (JEDEC “D” and “E” dimensions), the ball pitch (JEDEC “e” dimension), and the JEDEC “s” dimension. 7.2.5 The JEDEC “s” dimension wil l be shown only for even row matrix designs. Odd row matrix designs will only reference a centerline coincident with the center of the center row of balls. 7.2.6 A nominal and maximum dimension"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.2  Dimensions (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.2  Dimensions\n\nContent: for the overall profile height (JEDEC dimension A) will be shown. The maximum dimension shown may be less than but may not exceed that maximum dimension designated by the JEDEC Publication 95 registration reference for this design. 7.2.7 Reference or nominal dimensi ons may be shown for the package body thickness, substrate thickness, encapsulation layer or lid thickness, and the standoff height dimensions."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.3  Ball Configurations (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.3  Ball Configurations\n\nContent: 7.3.1 Retain and show the JEDEC method for numbering the ball columns and rows. 7.3.2 The ball configuration drawing will show the exact number and location of balls for each design. 7.3.3 The following symbols are to b e used for designating the electrical interconnections or lack thereof for the balls shown on the design drawing: - Signal I/O - 1st Electrical Group - 2nd Electrical Group - 3rd Electrical Group - No Electrical Connections 7.3.4 Notes on the drawing will show the above symbols and designations for each of the electrical groups used with each specific design. 7.4 The orientation of the internal bond finger peripheral pad locations to the external package will be illustrated by a top view of the package which indicates the Pad 1 and A1 ball locations relative to the package sides, 1–4, for all designs using wire bond or peripheral die interconnection layout schemes. 7.4.1 For peripherally bonded layou ts, the Pad 1 bond finger will always be located in the"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.3  Ball Configurations (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 7.3  Ball Configurations\n\nContent: same corner as the A1 ball, and the pads will be sequentially numbered, for purposes of the net list, in a counterclockwise rotation as viewed from the die side of the substrate. This applies to all cavity orientations (cavity up or down). 7.5 The design drawing must have a BGA design title, a BGA design number, a revision number, the date of issue and a design page number shown at the bottom of each page. 7.6 The design drawing shall inclu de a general design characteristics description which will also be listed in Appendix 1 of this specification. This description should be re-formatted on top of the title block for each design drawing and may exclude the BGA design number, which will be shown in the title block at the bottom of the page."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 8  Net List Format (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 8  Net List Format\n\nContent: 8.1 Appendix 3 is an example of t he net list format including all reference notes. 8.2 The net list shall follow the dr awing as part of the BGA design and shall be formatted in columns as follows: Column 1: Lists BGA wire bond pad and wire bond ring numbers. Column 2: Lists solder ball connections. Column 3: Open column for later use in listing die wire bond pad numbers. Column 4: Open column for later use in listing die I/O name. Column 5: Lists package side location number of bond pad connection. Column 6: Lists note reference numbers. 8.2.1 The listing of ball numbers sho uld begin with A1, and continue in sequential order (i.e., A1, A2...An, B1, B2...Bn, C1, C2...Cn). 8.2.2 Wire bond ring numbers in the first column should be designated in sequential order from inner most to outermost (i.e., w/b ring 1, w/b ring 2, and w/b ring 3) if there are three separate rings. The innermost ring being w/b ring 1 and the outermost ring being w/b ring 3. 8.3 Notes in the net list will"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 8  Net List Format (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 8  Net List Format\n\nContent: refere nce each of the electrical groups used with that specific design and will list all additional associated interconnections for those groups, if any. 8.4 Notes may consist of explanat ion of bond finger orientation relative to top view illustration on drawing for reference (independent of general specification explanations) of net list to BGA design drawing. 8.5 Notes may also consist of appl ications warnings or guidelines to insure correct use of the net list with the design drawing. 8.6 All pages of net list must have a BGA design title, a BGA design number, a revision number, the date of issue and a design page number shown at the top of each page."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 9  Addition of Registrations (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 9  Addition of Registrations\n\nContent: 9.1 This specification will be publ ished initially in a loose leaf notebook and as package design registrations are approved, they will be individually published in a loose leaf format for easy access into the original notebook by the publication owner. 9.2 Each new registration must be added to the specification using the SEMI standard balloting procedures. Refer to the “Regulations Governing SEMI Standards Committees” publication. NOTICE: These standards do not purport to address safety issues, if any, associated with their use. It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use. SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 9  Addition of Registrations (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 9  Addition of Registrations\n\nContent: manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility. Copyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES: (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES:\n\nContent: 1.RefertoJEDEC-15ssueBVariationBL-forallimensiosndtolerancesntshon.Thisesignmusbeinfulforanceiththe referenced JEDEC outline drawing 2.All dimensions are in millimeters unless otherwise noted. TopViewilstratestheatiohipteeextealpcagfeturestaliebddumber1ndsid1nd4fa wirebondpads.Please see SEMI Standard BGADesign Netlistforspecific electrical connectionsand moredetailed notes SolderBalswtthisymbolhavecommonectricalconnectiosandmayeconectedtooteritealpackageatures.PlseseSM Standard BGA Design Netlist for other specific electrical connections. TermalehactofoelsoSardistfosier Table 2 292 Pin Plastic Ball Grid Array 27x27 mm Body Design NOTES: $^ { * 1 }$ . Please refer to Notes column for explanations of wirebond (w/b) rings. PBGA Wirebond Pads are numbered counter clockwise, starting with Pad #1 in the upper left hand corner. Please refer to Top View of package for package side #1, 2, 3, or 4 (Figure 1). $^ { * 2 }$ . Metallized wirebond (w/b) ring 2 surrounds die attach area for wirebonding to"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES: (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES:\n\nContent: electrically common die pads and electrical connection with solder balls designated by 2nd Electrical Group symbol on BGA Design Library Drawing (Figure 1). $^ { * 3 }$ . Metallized wirebond (w/b) ring 1 surrounds die attach area for wirebonding to electrically common die pads and electrical connection with both die attach pad and solder balls designated by 1st Electrical Group symbol on BGA Design Library Drawing (Figure 1). $^ { * } 4$ . If the number of signal Die Wirebond Pads (not including Electrical Groups) total less than 231, the total number may be divided by 4 and wirebond placement centered on each package side. $^ { * 5 , }$ . Thermal enhancement of $6 \\mathrm { x } 6$ solder balls. NOTICE: These standards do not purport to address safety issues, if any, associated with their use. It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use. SEMI makes no"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES: (Part 3)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES:\n\nContent: warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES: (Part 4)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # NOTES:\n\nContent: 1.RefertoJEDECMO-151lssueBVariationBAR-2foralldimensionsandtolerancesnotshow.Thisdsignmustbeinfullconformance with the referenced JEDEC outline drawing 2.All dimensionsare inmillimeters unless otherwise noted TopViewiltratesthelatiosiptweeteapaatusteaioddbrndidndfal wirebond pads.Please see SEMI Standard BGA Design Netlistforspecific electrical connections and more detailed notes. SolderBalswithtissbolhvecommoetricaloectiosndaeonectedtorintealpckagefature.aseM Standard BGA Design Netlist for other specific electrical connections. Thermalehancementof6×6solderballshow.PleaseseSEMStandardGDesignNetistforotherspecific elecrcalcoections."
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 388 Pin Plastic Ball Grid Array $3 5 \\times 3 5 \\mathrm { m m }$ Body Design (Part 1)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 388 Pin Plastic Ball Grid Array $3 5 \\times 3 5 \\mathrm { m m }$ Body Design\n\nContent: Table 2 388 Pin Plastic Ball Grid Array 35×35 mm Body Design NOTES: $^ { * 1 }$ . Please refer to Notes column for explanations of wirebond (w/b) rings. PBGA Wirebond Pads are numbered counter clockwise, starting with Pad #1 in the upper left hand corner. Please refer to Top View of package for package side #1, 2, 3, or 4 (Figure 1). $^ { * 2 }$ . Metallized wirebond (w/b) ring 2 surrounds die attach area for wirebonding to electrically common die pads and electrical connection with solder balls designated by 2nd Electrical Group symbol on BGA Design Library Drawing (Figure 1). $^ { * 3 }$ . Metallized wirebond (w/b) ring 1 surrounds die attach area for wirebonding to electrically common die pads and electrical connection with both die attach pad and solder balls designated by 1st Electrical Group symbol on BGA Design Library Drawing (Figure 1). $^ { * } 4$ . If the number of signal Die Wirebond Pads (not including"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 388 Pin Plastic Ball Grid Array $3 5 \\times 3 5 \\mathrm { m m }$ Body Design (Part 2)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 388 Pin Plastic Ball Grid Array $3 5 \\times 3 5 \\mathrm { m m }$ Body Design\n\nContent: Electrical Groups) total less than 304, the total number may be divided by 4 and wirebond placement centered on each package side. \\*5. Thermal enhancement of $6 \\mathrm { ~ x ~ } 6$ solder balls. NOTICE: These standards do not purport to address safety issues, if any, associated with their use. It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use. SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The"
+  },
+  {
+    "title": "SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 388 Pin Plastic Ball Grid Array $3 5 \\times 3 5 \\mathrm { m m }$ Body Design (Part 3)",
+    "content": "Title: SEMI G71-0996 (Reapproved 1104) SPECIFICATION FOR BARCODE MARKING OF INTERMEDIATE CONTAINERS FOR PACKAGING MATERIALS - # 388 Pin Plastic Ball Grid Array $3 5 \\times 3 5 \\mathrm { m m }$ Body Design\n\nContent: user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility. Copyright by SEMI® (Semiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI G73-0997 (Reapproved 1104) TEST METHOD FOR PULL STRENGTH FOR WIRE BONDING",
+    "content": "This test method was technically approved by the Global Assembly & Packaging Committee and is the direct responsibility of the Japanese Packaging Committee. Current edition approved by the Japanese Regional Standards Committee on July 23, 2004.  Initially available at www.semi.org September 2004; to be published November 2004. Originally published in 1997."
+  },
+  {
+    "title": "SEMI G73-0997 (Reapproved 1104) TEST METHOD FOR PULL STRENGTH FOR WIRE BONDING - # 1  Purpose",
+    "content": "1.1  This standard defines the pull strength test method for wire bonding."
+  },
+  {
+    "title": "SEMI G73-0997 (Reapproved 1104) TEST METHOD FOR PULL STRENGTH FOR WIRE BONDING - # 2  Scope",
+    "content": "2.1  This standard defines the destructive pull strength test method and its criterion for evaluating pull strength of wire bonds connecting two points, connected by using ball bonding technique.  \n2.2  This standard can be applied to measure wires whose diameter is less than 100 microns.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 10.2.4  Analysis",
+    "content": "10.2.4.1  Using the prepared solutions and blanks, analyze chloride, nitrate, phosphate, and sulfate by ion chromatography. Run a reagent blank. Samples and reagent blanks should be prepared and analyzed in triplicate.  \n10.2.4.2  Columns — Precolumn should be AG4-A (Dionex) or equivalent, and separation column should be AS4-A (Dionex) or equivalent."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 10.3  Trace Metals Analysis",
+    "content": "10.3.1  The following method has giv en satisfactory results in determining metal ion impurities at the values specified for each of the following metals: aluminum (Al), antimony (Sb), arsenic (As), boron (B), calcium $\\mathrm { ( C a ) }$ , chromium $( \\mathrm { C r } )$ , copper $\\mathbf { \\Pi } ( \\mathbf { C u } )$ , gold (Au), iron (Fe), lead $( \\mathrm { P b } )$ , magnesium $( \\mathbf { M } \\mathbf { g } )$ , manganese (Mn), nickel (Ni), potassium (K), sodium (Na), tin $( \\mathsf { S } \\mathsf { n } )$ , titanium $\\mathrm { ( T i ) }$ , and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate methods may be used as long as appropriate studies demonstrate a recovery between $7 5 \\mathrm { - } 1 2 5 \\%$ of a known sample spike for half of the value of each specified element."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 10.3.2  Special Reagents",
+    "content": "10.3.2.1  Nitric Acid, Ultra Pure — Use nitric acid specified for low metal ion content.  \n$1 0 . 3 . 2 . 2 4 \\%$ Nitric Acid Solution — Di lute $4 0 ~ \\mathrm { m L }$ of ultra pure nitric acid to $^ \\mathrm { ~ 1 ~ L ~ }$ using water meeting the criteria for Type E1.1 in ASTM D5127.  \n10.3.2.3  Water — The water used for a ll the dilution, calibration, and standards should meet, at a minimum, the criteria for Type E1.1 in ASTM D5127 in regard to cation analysis.  \n10.3.2.4  Indium Internal Standard — Make up an indium internal standard solution to a concentration of $2 0 \\mathrm { \\mu \\mathrm { g / m L } }$ (ppm) from an appropriate concentrated indium standard solution."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 10.3.3  Sample Preparation",
+    "content": "10.3.3.1  In a clean environment, evapo rate a $5 0 . 0 \\ \\mathrm { g }$ sample at low heat until approximately $2 0 \\textrm { g }$ of the sample remains. Carefully add $1 ~ \\mathrm { m L }$ of the ultra pure nitric acid and gently warm for several minutes. Cool to room temperature, add $2 5 ~ \\mu \\mathrm { L }$ of the indium internal standard, and dilute with Type E1.1 water to a final weight of $2 5 . 0 ~ \\mathrm { g }$ ."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 10.3.4  Analysis",
+    "content": "10.3.4.1  Using the prepared solutions and blanks, analyze sodium, potassium, calcium, and iron by graphite furnace atomic absorption (GFAA) and the remaining elements by inductively coupled plasma mass spectrometry (ICP/MS). For calibration, the standards are made up in $4 \\%$ nitric acid solution with final concentration of $2 0 ~ \\mathrm { n g / g }$ of the indium internal standard. Run a reagent blank."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11  Grade 4 Procedures",
+    "content": "NOTE 7: The analytical procedures associated with this standard are not intended to be the only acceptable procedure or the best procedure available. The published procedures have been found to meet the required criteria for acceptance of an analytical procedure. Alternate procedures may be used if they meet the same criteria as the published procedures.  \nNOTE 8: Each laboratory is responsible for verifying the validity of each method within its own operation."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.1  Non-Metal Impurities",
+    "content": "11.1.1  See Section 8, which contains procedures for the following tests:  \nAssay\nColor (APHA)\nCarbon Dioxide\nSubstances Reducing Permanganate"
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.2  Anions",
+    "content": "11.2.1  The following method has giv en satisfactory results in determining anion impurities at the values specified for each of the following anions: chloride (Cl), phosphate $\\left( \\mathrm { P O } _ { 4 } \\right)$ , nitrate $( \\mathsf { N O } _ { 3 } )$ , and sulfate $\\mathrm { ( S O _ { 4 } ) }$ . Alternate methods may be used as long as appropriate studies demonstrate a recovery between $7 5 \\mathrm { - } 1 2 5 \\%$ of a known sample spike for half of the value of each specified anion."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.2.2  Reagents",
+    "content": "11.2.2.1  Eluent — Prepare an eluent so lution that is $2 . 2 ~ \\mathrm { m M }$ sodium carbonate $\\left( \\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 } \\right)$ and $0 . 7 5 ~ \\mathrm { m M }$ sodium bicarbonate $\\mathrm { ( N a H C O _ { 3 } ) }$ ) in deionized water meeting the criteria for Type E1.1 in ASTM D5127. Store eluent under a helium gas blanket.  \n11.2.2.2  Regenerant — Prepare a $0 . 0 2 5 \\mathrm { ~ N ~ }$ sulfuric acid $\\mathrm { ( H } _ { 2 } \\mathrm { S O } _ { 4 } )$ in deionized water meeting the criteria for Type E1.1 in ASTM D5127.  \n11.2.2.3  Potassium Carbonate Solution — Prepare a solution containing $5 0 0 ~ \\mathrm { m g }$ of reagent grade potassium carbonate $\\left( \\mathrm { K } _ { 2 } \\mathrm { C O } _ { 3 } \\right)$ in $1 0 0 ~ \\mathrm { { m L } }$ of water meeting the criteria for Type E1.1 in ASTM D5127."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.2.3  Sample Preparation",
+    "content": "11.2.3.1  In a clean environment, place $2 0 0 ~ \\mathrm { g }$ of sample into a clean beaker. Add $1 ~ \\mathrm { m L }$ of a $5 ~ \\mathrm { m g / m L }$ potassium carbonate solution and evaporate carefully (at $1 0 0 ^ { \\circ } \\mathrm { C } )$ to a volume of $0 . 5 ~ \\mathrm { m L }$ . Dilute with water meeting the criteria for Type E1.1 in ASTM D5127 to a final volume of $2 0 ~ \\mathrm { m L }$ ."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.2.4  Analysis",
+    "content": "11.2.4.1  Using the prepared solutions and blanks, analyze chloride, nitrate, phosphate, and sulfate by ion chromatography. Run a reagent blank. Samples and reagent blanks should be prepared and analyzed in triplicate.  \n11.2.4.2  Columns — Precolumn should be AG4-A (Dionex) or equivalent, and separation column should be AS4-A (Dionex) or equivalent."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.3  Trace Metals Analysis",
+    "content": "11.3.1  The following method has giv en satisfactory results in determining metal ion impurities at the values specified for each of the following metals: aluminum (Al), antimony (Sb), arsenic (As), boron (B), calcium $\\mathrm { ( C a ) }$ , chromium $( \\mathrm { C r } )$ , copper $\\mathbf { \\Pi } ( \\mathbf { C u } )$ , gold (Au), iron (Fe), lead $( { \\mathrm { P b } } )$ , magnesium $( \\mathbf { M } \\mathbf { g } )$ , manganese (Mn), nickel (Ni), potassium (K), sodium (Na), tin $( \\mathsf { S } \\mathsf { n } )$ , titanium $\\mathrm { ( T i ) }$ , and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate methods may be used as long as appropriate studies demonstrate a recovery between $7 5 \\mathrm { - } 1 2 5 \\%$ of a known sample spike for half of the value of each specified element."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.3.2  Special Reagents",
+    "content": "11.3.2.1  Nitric Acid, Ultrapure — Use nitric acid of low metal ion content.  \n11.3.2.2 $2 \\%$ Nitric Acid Solution — Di lute ultrapure nitric acid with water meeting the criteria for Type E1.1 in ASTM D5127.  \n11.3.2.3  Water — The water used for d ilution, calibration, and standards should meet, at a minimum, the criteria for Type E1.1 in ASTM D5127 in regard to cation analysis.  \n11.3.2.4  Internal Standard Solution — Make up an internal standard solution to a concentration of 1000 $\\mu \\mathrm { g / m L }$ from appropriate concentrated scandium, yttrium, indium, thulium, and thorium standard solutions."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.3.3  Sample Preparation",
+    "content": "11.3.3.1  In a clean environment, in a te flon bottle, evaporate a $5 0 . 0 \\ \\mathrm { ~ g ~ }$ sample at low heat until approximately $\\mathfrak { s } _ { \\mathrm { g } }$ of the sample remains. Cool to room temperature, add $1 0 0 ~ \\mu \\mathrm { L }$ of the internal standard solution, and dilute with $2 \\%$ nitric acid to a final weight of $1 0 . 0 \\ \\mathrm { g }$ ."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 11.3.4  Analysis",
+    "content": "11.3.4.1  Using the prepared solutions and blanks, calibrate the instrument and analyze calcium, iron, sodium, and potassium by cool plasma inductively coupled plasma mass spectrometry (ICP-MS) and the remaining elements by normal plasma ICP-MS.  \n11.3.4.2  Calculations — All data were r eported relative to an appropriate $1 . 0 ~ \\mu \\mathrm { g / L }$ standard and corresponding blank solution. Internal standard corrections were applied to the data."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 12 Grade 5 Procedures",
+    "content": "12.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 13  VLSI Grade Procedures",
+    "content": "13.1  Specific procedures for this gr ade do not exist.\nRefer to Sections 8 and 9 for available procedures."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 14  Tier A Procedures",
+    "content": "14.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 15  Tier B Procedures",
+    "content": "15.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 16  Tier C Procedures",
+    "content": "16.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 17  Tier D Procedures (Part 1)",
+    "content": "Title: SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 17  Tier D Procedures\n\nContent: 17.1 Standardized test methods are being developed for all parameters at the purity levels indicated. The Process Chemicals Committee considers a test method to be valid if there is a documented recovery study showing a recovery of $7 5 \\mathrm { - } 1 2 5 \\%$ . Recovery is for a known sample spike at $50 \\%$ of the specified level. Table 1 Impurity Limits and Other Requirements for Ammonium Hydroxide NOTE 1: Care must be taken in analyzing particles because of the potential formation of microbubbles. NOTE 2: Due to the limitations of current particle counters, particle size and number are to be agreed upon between supplier and user. See SEMI C1, Section 3.9 for particle counting methodology. NOTICE: These standards do not purport to address safety issues, if any, associated with their use. It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use. SEMI makes no warranties or representations as to the"
+  },
+  {
+    "title": "SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 17  Tier D Procedures (Part 2)",
+    "content": "Title: SEMI C21-0301SPECIFICATIONS AND GUIDELINES FOR AMMONIUM HYDROXIDE - # 17  Tier D Procedures\n\nContent: suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE",
+    "content": "This guideline was technically approved by the Global Process Chemicals Committee and is the direct responsibility of the North American Process Chemicals Committee.  Current edition approved by the North American Regional Standards Committee on April 23, 1999.  Initially available on SEMI OnLine May 1999; to be published June 1999.  This document replaces SEMI C7.17 in its entirety. Originally published in 1994."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 1  Purpose",
+    "content": "1.1  The purpose of this document is to standardize requirements for boron tribromide used in the semiconductor industry and testing procedures to support those standards. Test methods have been shown to give statistically valid results. This document also provides guidelines for grades of boron tribromide for which a need has been identified. In the case of the guidelines, the test methods may not have been statistically validated yet."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 2  Scope",
+    "content": "2.1  The scope of this document is all grades of boron tribromide used in the semiconductor industry."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 3  Limitations",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 4  Referenced Documents",
+    "content": "4.1  None."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 5  Terminology",
+    "content": "5.1  None."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 7  Requirements",
+    "content": "7.1  The requirements for boron tri bromide for Tier A are listed in Table 1."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 8  Grade 1 Procedures",
+    "content": "8.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 9  Grade 2 Procedures",
+    "content": "9.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 10  Grade 3 Procedures",
+    "content": "10.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 11  Grade 4 Procedures",
+    "content": "11.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 12  Grade 5 Procedures",
+    "content": "12.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 13  VLSI Grade Procedures",
+    "content": "13.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 14  Tier A Procedures",
+    "content": "14.1  Standardized test methods are being developed for all parameters at the purity levels indicated. Until standardized test methods are published, test methodology shall be determined by user and producer. The Process Chemicals Committee considers a test method to be valid only if there is a documented recovery study showing a recovery of $7 5 \\ \\cdot \\ 1 2 5 \\%$ . Recovery is for a known sample spike at $50 \\%$ of the specified level."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 15  Tier B Procedures",
+    "content": "15.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 16  Tier C Procedures",
+    "content": "16.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 17  Tier D Procedures (Part 1)",
+    "content": "Title: SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 17  Tier D Procedures\n\nContent: 17.1 This section does not apply to this chemical. Table 1 Impurity Limits and Other Requirements for Boron Tribromide NOTICE: These standards do not purport to address safety issues, if any, associated with their use. It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use. SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI"
+  },
+  {
+    "title": "SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 17  Tier D Procedures (Part 2)",
+    "content": "Title: SEMI C22-0699GUIDELINE FOR BORON TRIBROMIDE - # 17  Tier D Procedures\n\nContent: takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS",
+    "content": "These specifications were technically approved by the Global Process Chemicals Committee and are the direct responsibility of the North American Process Chemicals Committee.  Current edition approved by the North American Regional Standards Committee on October 17, 1999.  Initially available at www.semi.org February 2001; to be published March 2001.  This document replaces SEMI C2.2 and C7.23 in their entirety. Originally published in 1981 and 1997 respectively; previously published June 1999."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 1  Purpose",
+    "content": "1.1  The purpose of this document is to standardize requirements for buffered oxide etchants used in the semiconductor industry and testing procedures to support those standards. Test methods have been shown to give statistically valid results. This document also provides guidelines for grades of buffered oxide etchants for which a need has been identified. In the case of the guidelines, the test methods may not have been statistically validated yet."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 2  Scope",
+    "content": "2.1  The scope of this document is all grades of buffered oxide etchants used in the semiconductor industry.  \n2.2  These standards do not purpor t to address safety issues, if any, associated with their use.  It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 3  Limitations",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 4  Referenced Documents",
+    "content": "4.1  SEMI Standards  \nSEMI C1 — Specifications for Reagents  \n4.2  ASTM Standards1  \nASTM D5127 — Standard Guide for Ultra Pure Water Used in the Electronics and Semiconductor Industry  \nNOTE 1: As listed or revised, all documents cited shall be the latest publications of adopted standards."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 5  Terminology",
+    "content": "5.1  buffered oxide etchant — any combination of ammonium fluoride and hydrofluoric acid in which the concentrations are expressed in terms of the equivalent relative volumes of $40 \\%$ ammonium fluoride solution and $49 \\%$ hydrofluoric acid. In the expression, the relative volumes shall be reduced to a ratio of the smallest whole numbers which properly describes the composition. For example, a 7:1 buffered oxide etchant contains the equivalent of 7 volumes of $4 0 . 0 \\%$ ammonium fluoride and 1 volume of $49 \\%$ hydrofluoric acid.  \nNOTE 2: Density at temperature."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 6  Composition (Part 1)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 6  Composition\n\nContent: 6.1 For analytical purposes, the ab solute concentrations of ammonium fluoride and hydrofluoric acid corresponding to the above definition shall be calculated according to the following equations. Weight % $\\mathrm { { N H } } _ { 4 } \\mathrm { { F } } =$ $$ \\begin{array} { r l } & { \\frac { \\mathrm { ( v o l u m e \\times \\ d e n s i t y \\times \\ c o n c e n t r a t i o n ) N H } _ { 4 } \\mathrm { F } } { \\mathrm { ( v o l u m e \\times \\ d e n s i t y ) } _ { \\mathrm { N H } _ { 4 } \\mathrm { F } ^ { + } } \\mathrm { ( v o l u m e \\times \\ d e n s i t y ) } _ { \\mathrm { H F } } } } \\end{array} $$ Weig $$ \\begin{array} { r l } & { \\mathrm { h t } \\mathcal { U } \\mathrm { H F } = } \\\\ & { \\frac { \\mathrm { ( v o l u m e \\times \\ d e n s i t y \\times \\ c o n c e n t r a t i o n ) H F } } { \\mathrm { ( v o l u m e \\times \\ d e n s i t y ) N H _ { 4 } F + \\ ( v o l u m e \\times \\ d e n s i t y ) H F } } } \\end{array} $$ where volume and density are expressed in consistent units and concentration is in weight percent to three significant figures."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 6  Composition (Part 2)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 6  Composition\n\nContent: 6.2 Sample calculation for 7:1 buf fered oxide etchant using $4 0 . 0 \\%$ ammonium fluoride, density $1 . 1 1 1 \\ \\mathrm { g / m L }$ , and $4 9 . 0 \\%$ hydrofluoric acid, density $1 . 1 5 3 ~ \\mathrm { g / m L }$ . The absolute percentage concentration of each component follows: $$ \\mathcal { I } _ { o } \\mathrm { N H _ { 4 } F } = \\frac { 7 \\times 1 . 1 1 1 \\times 4 0 . 0 } { 7 \\times 1 . 1 1 1 + 1 \\times 1 . 1 5 3 } = 3 4 . 8 \\% $$ $$ { \\mathrm { W e i g h t } } \\ \\% \\ { \\mathrm { ~ H F } } = { \\frac { 1 { \\times } 1 . 1 5 3 { \\times } 4 9 . 0 } { 7 { \\times } 1 . 1 1 1 + 1 { \\times } 1 . 1 5 3 } } = 6 . 3 3 \\% $$"
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 7  Tolerances",
+    "content": "7.1  The tolerances allowed for the absolute percentage of each of the components of a buffered oxide etchant shall be:  \n7.2  For the example above, the pe rmissible range of concentration for ammonium fluoride shall be $3 4 . 8 ~ \\pm$ $0 . 5 \\%$ and for hydrofluoric acid $6 . 3 3 \\pm 0 . 1 5 \\%$ ."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 8  Requirements",
+    "content": "8.1  The requirements for buffered oxide etchants for Grades 1 and 2 are listed in Table 1."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures (Part 1)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures\n\nContent: 9.1 Hydrofluoric Acid — Weigh a ccurately approximately 4.0 grams of sample, transfer to a polyethylene beaker, and dilute with water to about 100 mL. Titrate with standardized $^ \\mathrm { ~ 1 ~ N ~ }$ sodium hydroxide. The endpoint may be detected colorimetrically by adding 3 drops of methyl red indicator solution and titrating to a definite yellow (no orange) endpoint. As an alternate method, the endpoint may be detected potentiometrically using an HF resistant $\\mathrm { \\ p H }$ electrode previously standardized in $\\mathrm { p H } 4$ and $\\mathrm { p H } ~ 7$ buffers. Titrate to $\\mathsf { p H } ~ 6 . 5$ with continuous stirring. Save the solution for the determination of ammonium fluoride. $\\%$ Hydrofluoric $\\mathrm { \\ A c i d = \\frac { m L \\times \\Delta N \\ o f \\ N a O H \\times 2 . 0 0 1 } { \\Delta W e i g h t \\ o f \\ s a m p l e ( g ) } }$ 9.2 Ammonium Fluoride — Add $4 0 ~ \\mathrm { m L }$ of neutralized formaldehyde solution (see Section 9.2.1) to the solution from the preceding test and stir magnetically for 30 minutes."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures (Part 2)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures\n\nContent: Titrate with standardized $^ \\textrm { \\scriptsize 1 N }$ sodium hydroxide. The endpoint may be detected colorimetrically using 10 drops of phenolphthalein indicator and titrating to a stable pink end point. As an alternative method, the endpoint may be detected potentiometrically using an HF resistant electrode previously standardized in $\\mathrm { p H } \\ 7$ and 9 buffers. Titrate to $\\mathrm { p H } ~ 8 . 5$ with continuous stirring. $\\%$ Ammonium Fluoride $\\mathrm { \\displaystyle \\frac { m L ~ \\times ~ N ~ \\mathrm { o f ~ N a O H } ~ \\times ~ 3 . 7 0 4 ~ } { W e i g h t ~ o f ~ s a m p l e ~ ( g ) ~ } }$ 9.2.1 Neutralized Formaldehyde Solution — Dilute 20 mL of $37 \\%$ formaldehyde solution with $2 0 ~ \\mathrm { m L }$ of water and neutralize with $0 . 1 ~ \\mathrm { N }$ sodium hydroxide solution to the phenolphthalein endpoint. 9.3 Arsenic and Antimony (as As) — To 30 mL $( 3 3 \\ \\mathrm { g } )$ of sample in a polyfluorocarbon dish, add $2 0 ~ \\mathrm { m L }$ of nitric acid and $5 ~ \\mathrm { m L }$ of hydrochloric acid and"
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures (Part 3)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures\n\nContent: evaporate in a sand bath in a hood to dryness. Completely volatilize the ammonium fluoride, but do not bake. Add $1 0 ~ \\mathrm { m L }$ of water and $5 ~ \\mathrm { m L }$ of sulfuric acid and evaporate to dense fumes of sulfur trioxide. Cool, cautiously add $1 0 ~ \\mathrm { m L }$ of water, and reevaporate to dense fumes of sulfur trioxide. Cool, and cautiously wash into a generator flask with water to make a volume of $3 5 ~ \\mathrm { m L }$ . Proceed as described in the General Method for Arsenic (and Antimony) under SEMI C1, Section 3.4.5, starting with the sentence which begins, “Swirl the flask...” Any red color in the silver diethyldithiocarbamate solution of the sample should not exceed that in the standard containing $0 . 0 0 1 \\mathrm { \\ m g }$ of arsenic ion (As). 9.4 Trace Element Contents — De termine the levels of specified trace elements and establish that they do not exceed the specification limits using a suitable emission spectrographic procedure (see SEMI C1, Section 3.5, Guidelines for Determination of Trace"
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures (Part 4)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 9  Grade 1 Procedures\n\nContent: Elements by Emission Spectrography)."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures (Part 1)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures\n\nContent: NOTE 1: Each laboratory is responsible for verifying the validity of the method within its own operation. 10.1 Hydrofluoric Acid — Weigh accurately approximately 4.0 grams of sample, transfer to a polyethylene beaker, and dilute with water to about 100 mL. Titrate with standardized $^ \\mathrm { ~ 1 ~ N ~ }$ sodium hydroxide. The endpoint may be detected colorimetrically by adding 3 drops of methyl red indicator solution and titrating to a definite yellow (no orange) endpoint. As an alternate method, the endpoint may be detected potentiometrically using an HF resistant $\\mathsf { p H }$ electrode previously standardized in $\\mathrm { p H } 4$ and $\\mathrm { p H } ~ 7$ buffers. Titrate to $\\mathsf { p H } ~ 6 . 5$ with continuous stirring. Save the solution for the determination of ammonium fluoride. 10.2 Ammonium Fluoride — Add $4 0 { \\mathrm { ~ \\textrm ~ { ~ ~ } ~ } } { \\mathrm { m L } }$ of neutralized formaldehyde solution (see Section 10.2.1) to the solution from the preceding test and stir magnetically for 30 minutes. Titrate"
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures (Part 2)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures\n\nContent: with standardized 1 N sodium hydroxide. The endpoint may be detected colorimetrically using 10 drops of phenolphthalein indicator and titrating to a stable pink endpoint. As an alternative method, the endpoint may be detected potentiometrically using an HF resistant electrode previously standardized in $\\mathrm { p H } 7$ and 9 buffers. Titrate to $\\mathrm { p H } 8 . 5$ with continuous stirring. mL × N of $\\mathrm { N a O H } \\times 3 . 7 0 4$ $\\%$ Ammonium Fluoride $\\ b =$ Weight of sample (g) 10.2.1 Neutralized Formaldehyde Solution — Dilute $2 0 ~ \\mathrm { m L }$ of $37 \\%$ formaldehyde solution with $2 0 ~ \\mathrm { m L }$ of water and neutralize with $0 . 1 ~ \\mathrm { ~ N ~ }$ sodium hydroxide solution to the phenolphthalein endpoint. 10.3 Chloride — Mix $2 . 2 ~ \\mathrm { m L }$ $( 2 . 5 \\ \\mathrm { g } )$ of sample with $2 0 ~ \\mathrm { m L }$ of water containing $0 . 5 \\mathrm { ~ g ~ }$ of boric acid. Add 1 mL of nitric acid and $1 \\ \\mathrm { m L }$ of silver nitrate reagent solution, and allow to stand for 5 minutes."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures (Part 3)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures\n\nContent: Any turbidity produced should be no greater than that produced when $0 . 0 1 ~ \\mathrm { m g }$ of chloride ion (Cl) is treated as the sample. 10.4 Nitrate — To $2 { \\mathrm { ~ m L ~ } }$ of water in a white plastic beaker, add $0 . 9 { \\mathrm { ~ m L } }$ (1g) of sample, $1 ~ \\mathrm { m L }$ of sulfuric acid, $0 . 0 5 ~ \\mathrm { \\ m L }$ of 0.01 N (0.002 M) potassium permanganate, mix, and decolorize with sodium arsenite reagent solution. Dilute to $5 0 ~ \\mathrm { m L }$ with brucine sulfate reagent solution and mix. Heat the solution in a preheated (boiling water) bath for 10 minutes. Cool rapidly in an ice bath to room temperature. The yellow color of the sample should be no greater than that produced when $0 . 0 1 ~ \\mathrm { m g }$ of nitrate ion $( \\mathsf { N O } _ { 3 } )$ is treated as the sample. 10.5 Phosphate — To a $9 \\ \\mathrm { m L }$ $( 1 0 \\mathrm { ~ g ~ } )$ sample in a platinum dish, add $1 ~ \\mathrm { m L }$ of sodium carbonate reagent solution and $4 0 ~ \\mathrm { m L }$ of nitric acid. Evaporate carefully,"
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures (Part 4)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures\n\nContent: to prevent spattering, to near dryness. Cool, wash down the sides of the dish with $5 \\ \\mathrm { m L }$ of nitric acid, and evaporate to dryness. Repeat the evaporation with nitric acid two times to ensure complete removal of all the fluoride. To the cooled dish, add $2 5 ~ \\mathrm { \\ m L }$ of $0 . 5 \\mathrm { ~ N ~ }$ sulfuric acid to dissolve the residue, warming if necessary. Cool, transfer to a color comparison tube, and add $1 ~ \\mathrm { \\ m L }$ of ammonium molybdate reagent solution, $1 { \\mathrm { ~ \\textrm ~ { ~ ~ } ~ } } { \\mathrm { m L } }$ of p-(methylamino)phenol sulfate reagent solution, and allow to stand at room temperature for 2 hours. Any blue color should be no greater than that produced when $0 . 0 1 ~ \\mathrm { m g }$ of phosphate ion $\\left( \\mathrm { P O } _ { 4 } \\right)$ is treated as the sample. 10.6 Sulfate — To $2 3 ~ \\mathrm { m L }$ $( 2 5 \\ \\mathrm { g } )$ of sample, add $1 0 ~ \\mathrm { m L }$ of sodium carbonate reagent solution and heat gently until sample has been volatilized. To the residue,"
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures (Part 5)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10  Grade 2 Procedures\n\nContent: add 5 mL of hydrochloric acid and evaporate to dryness in a hood. Dissolve the residue in $1 0 ~ \\mathrm { m L }$ of water and $1 ~ \\mathrm { m L }$ of dilute hydrochloric acid $( 1 + 1 9 )$ ; filter if necessary. Add $1 ~ \\mathrm { m L }$ of barium chloride reagent solution, mix, and allow to stand for 10 minutes. Any turbidity developed should be no greater than that produced when $0 . 0 5 ~ \\mathrm { m g }$ of sulfate ion $\\mathrm { ( S O _ { 4 } ) }$ solution is treated as the sample."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10.7  Trace Metals Analysis",
+    "content": "10.7.1  The following method has giv en satisfactory results in determining metal ion impurities at the values specified for each of the following metals: aluminum (Al), antimony (Sb), arsenic (As), boron (B), calcium $\\mathrm { ( C a ) }$ , chromium $( \\mathrm { C r } )$ , copper $\\mathbf { \\Pi } ( \\mathbf { C u } )$ , gold (Au), iron (Fe), lead $( \\mathrm { P b } )$ , magnesium $( \\mathbf { M g } )$ , manganese (Mn), nickel (Ni), potassium (K), silver $( \\operatorname { A g } )$ , sodium (Na), tin $( \\mathsf { S } \\mathsf { n } )$ , titanium (Ti), and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate methods may be used as long as appropriate studies demonstrate a recovery between $7 5 \\mathrm { - } 1 2 5 \\%$ of a known sample spike for half of the value of each specified element."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10.7.2  Special Reagents",
+    "content": "10.7.2.1  Nitric Acid, Ultrapure — Use nitric acid specified for low metal ion content.  \n10.7.2.2 $4 \\%$ Nitric Acid Solution — Dil ute $4 0 ~ \\mathrm { m L }$ of ultrapure nitric acid to $^ \\mathrm { ~ 1 ~ L ~ }$ using water meeting the criteria for Type E1.1 in ASTM D5127.  \n10.7.2.3  Water — The water used for a ll the dilution, calibration, and standards should meet at a minimum the criteria for Type E1.1 in ASTM D5127 in regard to cation analysis.  \n10.7.2.4  Indium Internal Standard — Make up a indium internal standard solution to a concentration of $2 0 \\mathrm { \\mu \\mathrm { g / m L } }$ (ppm) from an appropriate concentrated indium standard solution."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10.7.3  Sample Preparation",
+    "content": "10.7.3.1  In a clean environment, weigh $1 0 . 0 ~ \\mathrm { g }$ sample into a cleaned Teflon beaker and evaporate the sample on a $2 5 0 ^ { \\circ } \\mathrm { C }$ hotplate to near dryness. Carefully add 1 mL of the ultrapure nitric and $3 ~ \\mathrm { m L }$ of water and gently warm for several minutes. Cool to room temperature, add $2 5 ~ \\mu \\mathrm { L }$ of the indium internal standard, and dilute with Type E1.1 water to a final weight of $2 5 . 0 ~ \\mathrm { g }$ ."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 10.7.4  Analysis",
+    "content": "10.7.4.1  Using the prepared solutions and blanks, analyze sodium, potassium, calcium, and iron by graphite furnace atomic absorption (GFAA) and the remaining elements by inductively coupled plasma mass spectrometry (ICP/MS). For calibration, the standards are made up in $4 \\%$ nitric acid solution with final concentration of $2 0 ~ \\mathrm { n g / g }$ of the indium internal standard. Run a reagent blank."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 11  Grade 3 Procedures",
+    "content": "11.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 12  Grade 4 Procedures",
+    "content": "12.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 13  Grade 5 Procedures",
+    "content": "13.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 14  VLSI Grade Procedures",
+    "content": "14.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 15  Tier A Procedures",
+    "content": "15.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 16  Tier B Procedures",
+    "content": "16.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 18  Tier D Procedures (Part 1)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 18  Tier D Procedures\n\nContent: 17.1 This section does not apply to this chemical. 18.1 This section does not apply to this chemical. Table 1 Impurity Limits and Other Requirements for Buffered Oxide Etchants NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination"
+  },
+  {
+    "title": "SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 18  Tier D Procedures (Part 2)",
+    "content": "Title: SEMI C23-0301 SPECIFICATIONS FOR BUFFERED OXIDE ETCHANTS - # 18  Tier D Procedures\n\nContent: of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility. Copyright by SEMI® (SBemUicFoFndEuRctoErDEqOuXipImDeEn EaTndCHMAateNriTalSs International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE",
+    "content": "This specification was technically approved by the Global Process Chemicals Committee and is the direct responsibility of the North American Process Chemicals Committee.  Current edition approved by the North American Regional Standards Committee on October 17, 1999.  Initially available at www.semi.org February 2001; to be published March 2001.  This document replaces SEMI C1.5 in its entirety.  Originally published in 1978; previously published June 1999."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 1  Purpose",
+    "content": "1.1  The purpose of this document is to standardize requirements for n-butyl acetate used in the semiconductor industry and testing procedures to support those standards. Test methods have been shown to give statistically valid results. This document also provides guidelines for grades of n-butyl acetate for which a need has been identified. In the case of the guidelines, the test methods may not have been statistically validated yet."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 2  Scope",
+    "content": "2.1  The scope of this document is all grades of n-butyl acetate used in the semiconductor industry.  \n2.2  These standards do not purpor t to address safety issues, if any, associated with their use.  It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 3  Limitations",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 4  Referenced Standards",
+    "content": "4.1  SEMI Standards  \nSEMI C1 — Specifications for Reagents  \n4.2  ASTM Standards1  \nASTM D5127 — Standard Guide for Ultra Pure Water Used in the Electronics and Semiconductor Industry  \nNOTE 1: As listed or revised, all documents cited shall be the latest publications of adopted standards."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 5  Terminology",
+    "content": "5.1  None.  \n6  Physical Property (for info rmation only)"
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 7  Requirements",
+    "content": "7.1  The requirements for n-butyl a cetate for Grade 1 are listed in Table 1."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures (Part 1)",
+    "content": "Title: SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures\n\nContent: NOTE 2: Each laboratory is responsible for verifying the validity of the method within its own operation. 8.1 Assay Analyze the sample b y gas chromatography (see SEMI C1, Section 3.1, Guidelines for Assay by Wide Bore Column Gas Chromatography). The parameters cited have given satisfactory results. Column: 30 meter $\\times . 5 3 0$ micron I.D. fused silica capillary, coated with 5 micron film of DB-1 or equivalent $100 \\%$ methyl silicone which has been surface bonded and cross linked). Column Temperature: $4 0 ^ { \\circ } \\mathrm { C }$ isothermal for 5 minutes, then programmed to $2 0 0 ^ { \\circ } \\mathrm { C }$ at $1 0 ^ { \\circ } \\mathrm { C / m i n }$ . 8.2 Color — Dilute $3 . 0 ~ \\mathrm { m L }$ of plat inum-cobalt stock solution (APHA No. 500) to $1 0 0 ~ \\mathrm { \\ m L }$ with water. Compare this standard (APHA No. 15) with $1 0 0 ~ \\mathrm { { m L } }$ of sample in Nessler tubes. View vertically over a white background. The sample must be no darker than the standard. 8.3 Acidity — To $5 7 ~ \\mathrm { m L }$ $( 5 0 \\ \\mathrm { g }"
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures (Part 2)",
+    "content": "Title: SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures\n\nContent: )$ of sample in a $2 5 0 ~ \\mathrm { m L }$ conical flask, add $0 . 5 ~ \\mathrm { m L }$ of phenolphthalein indicator solution and titrate with $0 . 1 ~ \\mathrm { ~ N ~ }$ alcoholic potassium hydroxide until a slight pink color persists for at least 15 seconds. Not more than $1 . 0 ~ \\mathrm { m L }$ of the potassium hydroxide solution should be required. 8.4 Residue after Evaporation — Evaporate $9 0 ~ \\mathrm { m L }$ $\\left( 8 0 \\ \\mathrm { \\ g } \\right)$ of sample to dryness. Dry at $1 0 5 ^ { \\circ } \\mathrm { C }$ for 30 minutes, cool in a desiccator, and weigh (see SEMI C1, Section 3.3, Determination of Residue after Evaporation). 8.5 Water — Add $2 5 ~ \\mathrm { m L }$ of metha nol to a dry titration flask and add Karl Fischer (KF) reagent to a visually or electrometrically determined endpoint that persists for 30 seconds. Add $2 5 ~ \\mathrm { m L }$ $( 2 2 { \\mathrm { ~ g } } )$ of sample, taking care to protect the sample and contents of the flask from moisture. Stir vigorously and titrate with Karl Fischer reagent to the same"
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures (Part 3)",
+    "content": "Title: SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures\n\nContent: endpoint. $$ \\left( _ { \\mathrm { H _ { _ 2 } O } } \\right) \\ = \\frac { \\mathrm { m L ~ K F ~ r e a g e n t ~ \\times ~ K F ~ f a c t o r ~ ( g H _ { _ 2 } O / m L ) ~ \\times ~ 1 0 0 } } { \\mathrm { W e i g h t ~ o f ~ s a m p l e ~ ( g ) } } $$ 8.6 Phosphate — To $1 1 ~ \\mathrm { m L }$ $( 1 0 \\ { \\mathrm { g } } )$ of sample, add 10 mL of sodium carbonate reagent solution and evaporate to dryness on a steam bath in a hood. Dissolve the residue in $2 5 ~ \\mathrm { m L }$ of $0 . 5 ~ \\mathrm { N }$ sulfuric acid. Add $1 ~ \\mathrm { m L }$ of ammonium molybdate reagent solution and $1 ~ \\mathrm { m L }$ of p(methylamino)phenol sulfate reagent solution. Allow to stand at room temperature for 2 hours. Any blue color should be no greater than that produced when $0 . 0 1 ~ \\mathrm { m g }$ of phosphate ion $\\left( \\mathrm { P O } _ { 4 } \\right)$ is treated as the sample. 8.7 Arsenic and Antimony (as As) — Evaporate $4 5 ~ \\mathrm { m L }$ $( 4 0 \\ \\mathrm { g } )$ of sample in a $1 5 0 ~ \\mathrm { m L }$ beaker to a small volume in a hood. Add $5 0"
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures (Part 4)",
+    "content": "Title: SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures\n\nContent: ~ \\mathrm { m L }$ of water and again evaporate to a small volume. Repeat the evaporation with water addition. Do not allow to go to dryness. Add $5 ~ \\mathrm { m L }$ of nitric acid and $5 ~ \\mathrm { m L }$ of sulfuric acid and evaporate to dense fumes of sulfur trioxide. Cool, cautiously add 10 mL of water, and again evaporate to dense fumes of sulfur trioxide. Cool, and cautiously wash into a generator flask with water to make a volume of $3 5 ~ \\mathrm { m L }$ . Proceed as described in the General Method for Arsenic (and Antimony) under SEMI C1, Section 3.4.5, starting with the sentence which begins: “Swirl the flask....” Any red color in the silver diethyldithiocarbamate solution of the sample should be no greater than that of the standard containing $0 . 0 0 2 \\mathrm { m g }$ of arsenic (As). 8.8 Trace Metal Analysis — The f ollowing method has given satisfactory results in determining trace metal impurities at the value specified for each of the following trace metals: aluminum (Al), boron (B), calcium (Ca), chromium $( \\mathrm { C r"
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures (Part 5)",
+    "content": "Title: SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8  Grade 1 Procedures\n\nContent: } )$ , copper $\\mathrm { ( C u ) }$ , gold (Au), iron (Fe), lead $( \\mathrm { P b } )$ , magnesium $( \\mathrm { M g } )$ , manganese (Mn), nickel $\\mathrm { ( N i ) }$ , potassium (K), sodium (Na), tin (Sn), titanium (Ti), and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate methods may be used as long as appropriate studies demonstrate recovery between $7 5 \\mathrm { - } 1 2 5 \\%$ of a known sample spike for half of the value of each specified item."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8.8.1  Special Reagents",
+    "content": "8.8.1.1  Solution A — Glycerol (ACS R eagent Grade) $\\mathrm { 1 0 ~ g } ,$ , Adipic Acid $( 9 9 ~ + ~ \\% )$ ${ \\textsc { 1 g } } _ { }$ , EDTA Acid (ACS Reagent Grade) $_ { \\mathrm { ~ 0 . 1 ~ \\mathrm { ~ g ~ } } }$ . Dilute to $1 ~ \\mathrm { ~ L ~ }$ using water meeting the criteria for Type E1.1 in ASTM D5127.  \n8.8.1.2  Nitric Acid, Ultra Pure  — Use $70 \\%$ nitric acid specified for ultra low metal ion content.  \n8.8.1.3 $2 \\%$ Nitric Acid Solution  — Di lute $2 0 ~ \\mathrm { m L }$ of ultra pure nitric acid to $^ \\mathrm { ~ 1 ~ L ~ }$ using water meeting the criteria for Type E1.1 in ASTM D5127."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8.8.2  Sample Preparation",
+    "content": "8.8.2.1  In a clean environment, place $2 5 0 ~ \\mathrm { g }$ of sample in a PTFE dish. Add $5 0 ~ \\mathrm { m L }$ of Solution A. Slowly evaporate in a hot plate avoiding loss of sample by effervescence or spattering until there is no further loss of liquid. Cool. Add $1 \\ \\mathrm { m L }$ of ultra pure, $70 \\%$ nitric acid. While maintaining volume, carefully warm several minutes to dissolve any residue. Cool. Transfer quantitatively to a $5 0 ~ \\mathrm { m L }$ volumetric flask using $2 \\%$ nitric acid for rinsing and dilution to volume. Run a reagent blank."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 8.8.3  Analysis",
+    "content": "8.8.3.1  Using the prepared sample, an alyze group I elements by flame atomic absorption spectroscopy and all other elements by plasma emission spectroscopy. Apply, if necessary, a reagent blank correction to the final determined value of the sample.  \nNOTE 3: Repeat analysis for tin using larger sample size if the instrument sensitivity is insufficient at the specified limit."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 9 Grade 2 Procedures",
+    "content": "9.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 10  Grade 3 Procedures",
+    "content": "10.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 11  Grade 4 Procedures",
+    "content": "11.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 12  Grade 5 Procedures",
+    "content": "12.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 13  VLSI Grade Procedures",
+    "content": "13.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 14  Tier A Procedures",
+    "content": "14.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 17  Tier D Procedures",
+    "content": "15.1  This section does not apply to this chemical.  \n17.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 16  Tier C Procedures (Part 1)",
+    "content": "Title: SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 16  Tier C Procedures\n\nContent: 16.1 This section does not apply to this chemical. Table 1 Impurity Limits and Other Requirements for n-Butyl Acetate NOTICE: SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of"
+  },
+  {
+    "title": "SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 16  Tier C Procedures (Part 2)",
+    "content": "Title: SEMI C24-0301SPECIFICATION FOR n-BUTYL ACETATE - # 16  Tier C Procedures\n\nContent: infringement of such rights, are entirely their own responsibility. Cno-pByrUigThtYLbyASCEMTI®AT(SEemiconductor Equipment and Materials International), 3081 Zanker Road, San Jose, CA 95134. Reproduction of the contents in whole or in part is forbidden without express written consent of SEMI."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE)",
+    "content": "This specification was technically approved by the Global Process Chemicals Committee and is the direct responsibility of the North American Process Chemicals Committee.  Current edition approved by the North American Regional Standards Committee on April 23, 1999.  Initially available on SEMI OnLine May 1999; to be published June 1999.  This document replaces SEMI C1.6 in its entirety.  Originally published in 1978.  \nE This document was editorially modified in March 2000. Changes were made to the note following Table 1."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 1  Purpose",
+    "content": "1.1  The purpose of this document is to standardize requirements for dichloromethane (methylene chloride) used in the semiconductor industry and testing procedures to support those standards. Test methods have been shown to give statistically valid results. This document also provides guidelines for grades of dichloromethane for which a need has been identified. In the case of the guidelines, the test methods may not have been statistically validated yet."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 2  Scope",
+    "content": "2.1  The scope of this document is all grades of dichloromethane used in the semiconductor industry."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 3  Limitations",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 4  Referenced Documents",
+    "content": "SEMI C1 — Specifications for Reagents"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 5  Terminology",
+    "content": "5.1  None."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 7  Requirements",
+    "content": "7.1  The requirements for dichlorom ethane for Grade 1 are listed in Table 1."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures (Part 1)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures\n\nContent: NOTE 1: Each laboratory is responsible for verifying the validity of the method within its own operation. 8.1 Assay Analyze the sample b y gas chromatography (see SEMI C1, Section 3.1, Guidelines for Assay by Wide Bore Column Gas Chromatography). The parameters cited have given satisfactory results. Column: 30 meter $\\times ~ 5 3 0$ micron I.D. fused silica capillary, coated with 5 micron film of DB-1 or equivalent $100 \\%$ methyl silicone which has been surface bonded and cross linked). Column Temperature: $4 0 ^ { \\circ } \\mathrm { C }$ isothermal for 5 minutes, then programmed to $2 0 0 ^ { \\circ } \\mathrm { C }$ at $1 0 ^ { \\circ } \\mathrm { C } / \\mathrm { m i n }$ . 8.2 Color — Dilute $2 . 0 ~ \\mathrm { m L }$ of plat inum-cobalt stock solution (APHA No. 500) to $1 0 0 ~ \\mathrm { \\ m L }$ with water. Compare this standard (APHA No. 10) with $1 0 0 ~ \\mathrm { { m L } }$ of sample in Nessler tubes. View vertically over a white background. The sample must be no darker than the standard. 8.3 Acidity — To $2 5 ~"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures (Part 2)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures\n\nContent: \\mathrm { m L }$ of water in a glass-stoppered flask, add $1 0 ~ \\mathrm { \\ m L }$ of sample and $0 . 1 \\mathrm { \\textrm { ~ } } \\mathrm { m L }$ of phenolphthalein indicator solution. Add $0 . 0 1 ~ \\mathrm { N }$ sodium hydroxide until a slight pink color persists after shaking for one-half minute. Add $3 8 ~ \\mathrm { m L }$ $( 5 0 ~ \\mathrm { g } )$ of the sample, mix well, and titrate with 0.01 N sodium hydroxide until the pink color is reproduced. Not more than 1.0 mL of the sodium hydroxide solution should be required. 8.4 Residue After Evaporation — Evaporate $7 6 ~ \\mathrm { m L }$ $( 1 0 0 \\mathrm { ~ g } )$ of sample to dryness. Dry at $1 0 5 ^ { \\circ } \\mathrm { C }$ for 30 minutes, cool in a desiccator, and weigh (see SEMI C1, Section 3.3, Determination of Residue After Evaporation). 8.5 Water — Add $2 5 ~ \\mathrm { m L }$ of metha nol to a dry titration flask and add Karl Fischer (KF) reagent to a visually or electrometrically determined endpoint that persists for 30 seconds. Add $7 6 ~ \\mathrm { m L }$"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures (Part 3)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures\n\nContent: $( 1 0 0 ~ \\mathrm { g } )$ of sample, taking care to protect the sample and contents of the flask from moisture. Stir vigorously and titrate with Karl Fischer reagent to the same endpoint. $$ \\mathrm { \\% ~ W a t e r } \\left( \\mathrm { \\textmu _ { H _ { 2 } O } } \\right) = \\frac { \\mathrm { m L ~ K F ~ r e a g e n t ~ \\times ~ K F ~ f a c t o r ~ ( g ~ H _ { 2 } O / m L ) ~ \\times ~ 1 0 0 } } { \\mathrm { W e i g h t ~ o f ~ s a m p l e ~ ( g ) } } $$ 8.6 Chloride — To a $1 0 0 ~ \\mathrm { { m L } }$ sepa ratory funnel, add $3 0 ~ \\mathrm { m L }$ $\\left( 4 0 \\mathrm { ~ g } \\right)$ of sample and $4 0 ~ \\mathrm { m L }$ of water. Shake well for 30 seconds and allow the two layers to separate. Discard the sample (lower) layer. To a $2 0 ~ \\mathrm { m L }$ portion of the water layer add $1 ~ \\mathrm { m L }$ of nitric acid and 1 mL of silver nitrate reagent solution. Any turbidity produced should be no greater than that of a standard containing $0 . 0 1 ~ \\mathrm { { m g } }$ of chloride ion (Cl) in an equal volume of"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures (Part 4)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures\n\nContent: solution containing the amounts of reagents used. 8.7 Phosphate — To $7 . 5 ~ \\mathrm { m L }$ $( 1 0 \\ { \\tt g } )$ of sample, add 10 mL of sodium carbonate reagent solution and evaporate to dryness on a steam bath in a hood. Dissolve the residue in $2 5 ~ \\mathrm { m L }$ of $0 . 5 ~ \\mathrm { N }$ sulfuric acid. Add $1 ~ \\mathrm { m L }$ of ammonium molybdate reagent solution and $1 ~ \\mathrm { m L }$ of p(methylamino)phenol sulfate reagent solution. Allow to stand at room temperature for 2 hours. Any blue color produced should be no greater than that produced when $0 . 0 1 \\mathrm { m g }$ of phosphate ion $\\mathrm { ( P O _ { 4 } ) }$ is treated as the sample. 8.8 Heavy Metals (as $P b$ ) — Evap orate $7 5 ~ \\mathrm { m L }$ $( 1 0 0 ~ \\mathrm { g } )$ of sample to dryness on a steam bath in a hood. Dissolve the residue in $3 ~ \\mathrm { m L }$ of diluted hydrochloric acid $\\mathrm { ~ ( 1 ~ + ~ 1 ) ~ }$ and dilute with water to $1 5 ~ \\mathrm { \\ m L }$ . If necessary, filter through a small filter and wash the"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures (Part 5)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures\n\nContent: evaporating dish and the filter with $1 0 ~ \\mathrm { m L }$ of water. Dilute to $2 5 ~ \\mathrm { m L }$ with water. For the standard, dilute a solution containing $0 . 0 2 ~ \\mathrm { m g }$ of lead ion $( \\mathrm { P b } )$ and $3 ~ \\mathrm { m L }$ of diluted hydrochloric acid $( 1 ~ + ~ 1 )$ to $2 5 ~ \\mathrm { { \\ m L } }$ with water. Adjust the $\\mathrm { \\ p H }$ of both solutions to between 3 and 4 with diluted ammonium hydroxide $( 1 0 \\% \\ \\mathrm { N H } _ { 3 } )$ or with acetic acid, and dilute with water to $4 0 ~ \\mathrm { m L }$ . To each solution, add $1 0 ~ \\mathrm { m L }$ of freshly prepared hydrogen sulfide water and compare. The sample solution should be no darker than the standard. 8.9 Arsenic and Antimony (as As) — Evaporate 152 mL $( 2 0 0 ~ \\mathrm { g } )$ of sample in a $4 0 0 ~ \\mathrm { m L }$ beaker to a small volume in a hood. Add $5 0 ~ \\mathrm { \\ m L }$ of water and again evaporate to a small volume. Repeat the evaporation with water addition. Do not allow to go to dryness. Add $5 ~"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures (Part 6)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures\n\nContent: \\mathrm { m L }$ of nitric of sulfur trioxide. Cool, cautiously add $1 0 ~ \\mathrm { m L }$ of water, and again evaporate to dense fumes of sulfur trioxide. Cool, and cautiously wash into a generator flask with water to make a volume of $3 5 ~ \\mathrm { m L }$ . Proceed as described in the General Method for Arsenic (and Antimony) under SEMI C1, Section 3.4.5, starting with the sentence which begins: \"Swirl the flask....\" Any red color in the silver diethyldithiocarbamate solution of the sample should be no greater than that of the standard containing $0 . 0 0 2 \\mathrm { m g }$ of arsenic (As). 8.10 Trace Metal Analysis — The f ollowing method has given satisfactory results in determining trace metal impurities at the value specified for each of the following trace metals: aluminum (Al), boron (B), calcium $\\mathrm { ( C a ) }$ , chromium $( \\mathrm { C r } )$ , copper $\\mathbf { \\Pi } ( \\mathbf { C u } )$ , gold (Au), iron (Fe), lead $( \\mathrm { P b } )$ , magnesium $( \\mathbf { M g } )$ , manganese (Mn), nickel (Ni),"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures (Part 7)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8  Grade 1 Procedures\n\nContent: potassium (K), sodium $\\mathrm { ( N a ) }$ , tin $( \\mathsf { S } \\boldsymbol { \\mathrm { n } } )$ , titanium (Ti), and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate methods may be used as long as appropriate studies demonstrate recovery between $7 5 \\textrm { - } 1 2 5 \\%$ of a known sample spike for half of the value of each specified item."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8.10.1  Special Reagents",
+    "content": "8.10.1.1  Mixed Acid — Mix one volume of ultra pure $70 \\%$ nitric acid with four volumes of ultra pure $37 \\%$ hydrochloric acid.  \n8.10.1.2  Standards — Composite stand ards containing $0 . 5 ~ \\mathrm { \\ p p m }$ of each element in $10 \\%$ v/v mixed acid solution are stable for at least 60 days.  \n8.10.2  Sample Preparation — Place $2 . 5 ~ \\mathrm { m L }$ of mixed acid into a clean $4 0 0 ~ \\mathrm { m L }$ PTFE beaker. Weigh in $2 0 0 ~ \\mathrm { g }$ of sample. Put a PTFE-coated stir bar in the solution and put the beaker in a hood. Evaporate the sample under a current of air, meeting class 100 cleanroom specifications, with stirring to ensure continuous contact of the acid and sample. Do not heat the sample to minimize the loss of volatile organo-metallics. Continue to evaporate until near dryness. Add $2 . 5 ~ \\mathrm { m L }$ of mixed acid, mix carefully, and transfer the solution to a $2 5 ~ \\mathrm { \\ m L }$ volumetric flask. Rinse the beaker and dilute to volume with water."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 8.10.3  Analysis",
+    "content": "8.10.3.1  Analyze the sample by plasma emission spectrometry except sodium and potassium by atomic absorption or flame emission within 24 hours of dilution using matrix matched standards. Run a reagent blank and correct the data as necessary.  \nNOTE 2:  The trace metal analysis procedure is provisional, pending second source verification of recovery data. To be completed."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 9  Grade 2 Procedures",
+    "content": "9.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 10  Grade 3 Procedures",
+    "content": "10.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 11  Grade 4 Procedures",
+    "content": "11.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 12  Grade 5 Procedures",
+    "content": "12.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 13  VLSI Grade Procedures",
+    "content": "13.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 14  Tier A Procedures",
+    "content": "14.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 15  Tier B Procedures",
+    "content": "15.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 16  Tier C Procedures",
+    "content": "16.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 17  Tier D Procedures (Part 1)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 17  Tier D Procedures\n\nContent: 17.1 This section does not apply to this chemical. Table 1 Impurity Limits and Other Requirements for Dichloromethane (Methylene Chloride) NOTE: Dichloromethane contains $0 . 0 0 2 5 \\mathrm { - } 0 . 0 5 \\%$ ethanol, cyclohexane, or mixed pentenes as stabilizer. NOTICE: These standards do not purport to address safety issues, if any, associated with their use. It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use. SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the"
+  },
+  {
+    "title": "SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 17  Tier D Procedures (Part 2)",
+    "content": "Title: SEMI C25-0699E SPECIFICATION FOR DICHLOROMETHANE (METHYLENE CHLORIDE) - # 17  Tier D Procedures\n\nContent: possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS)",
+    "content": "This specification and guideline were technically approved by the Global Process Chemicals Committee and are the direct responsibility of the North American Process Chemicals Committee.  Current edition approved by the North American Regional Standards Committee on April 23, 1999.  Initially available on SEMI OnLine May 1999; to be published June 1999.  This document replaces SEMI C1.23 and C7.10 in their entirety.  Originally published in 1983 and 1991 respectively.  \nE This document was editorially modified in April 2000 to correct a formatting error. Changes were made to Table 1."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 1  Purpose",
+    "content": "1.1  The purpose of this document is to standardize requirements for hexamethyldisilazane used in the semiconductor industry and testing procedures to support those standards. Test methods have been shown to give statistically valid results. This document also provides guidelines for grades of hexamethyldisilazane for which a need has been identified. In the case of the guidelines, the test methods may not have been statistically validated yet."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 2  Scope",
+    "content": "2.1  The scope of this document is all grades of hexamethyldisilazane used in the semiconductor industry."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 3  Limitations",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 4  Referenced Documents",
+    "content": "SEMI C1 — Specifications for Reagents"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 5  Terminology",
+    "content": "5.1  None."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 7  Requirements",
+    "content": "7.1  The requirements for hexamet hyldisilazane for Grade 1 and Tier A are listed in Table 1."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures (Part 1)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures\n\nContent: 8.1 Assay Analyze the sample b y gas chromatography (see SEMI C1, Section 3.1, Guidelines for Assay by Wide Bore Columns Gas Chromatography). The parameters cited have given satisfactory results. Column: 30 meter $\\times ~ 5 3 0$ micon I.D. fused silica capillary, coated with 5 micron film of DB-1 or equivalent ( $100 \\%$ methylsilicone which has been bonded and cross linked). Column Temperature: $4 0 ^ { \\circ } \\mathrm { C }$ isothermal for 2 minutes, then programmed to $2 2 0 ^ { \\circ } \\mathrm { C }$ at $1 0 ^ { \\circ } \\mathrm { C } / \\mathrm { m i n }$ , and isothermal for 10 minutes. 8.2 Trailing Impurities — Use the chromatogram developed in the assay (see Section 8.1). With the relative retention time for hexamethyldisilazane taken as 1.0, establish the integrated area percents for trailing impurities with relative retention times from 1.3 to 4.0. The total of such trailing impurities should not exceed $0 . 1 \\%$ . 8.3 Appearance — Place $1 5 ~ \\mathrm { m L }$ o f the sample in a 20 $\\times 1 5 0 \\mathrm { m"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures (Part 2)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures\n\nContent: m }$ test tube and compare with water in a similar tube. Viewed across the column by means of transmitted light, the two liquids should be equal in clarity and free from suspended matter. 8.4 Color — Dilute $2 . 0 ~ \\mathrm { m L }$ of plat inum-cobalt stock solution (APHA No. 500) to $1 0 0 ~ \\mathrm { \\ m L }$ with water. Compare this standard (APHA No. 10) with $1 0 0 ~ \\mathrm { { m L } }$ of sample in Nessler tubes. View vertically over a white background. The sample should be no darker than the standard. 8.5 Residue After Evaporation — Evaporate $1 3 0 ~ \\mathrm { m L }$ $( 1 0 0 ~ \\mathrm { g } )$ of sample to dryness in a hood. Dry at $1 0 5 ^ { \\circ } \\mathrm { C }$ for one hour, cool in a desiccator, and weigh (see SEMI C1, Section 3.3, Determination of Residue After Evaporation). 8.6 UV Absorbance — A UV scan is obtained on all HMDS electronic grade material to determine if any UV absorbing impurities are present: specifically toluene. 8.6.1 Equipment — Bausch and Lomb Spectronic 2000 Spectrophotometer or"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures (Part 3)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures\n\nContent: other double beam instrument capable of measurements at $2 7 0 ~ \\mathrm { n m }$ . Cells - 1 cm path length. 8.6.2 Reagents — FC-113 and meth anol for UV cell cleaning. 8.6.3 Procedure — Using water as t he reference and sample cells, establish the baseline between 300 and $2 7 0 \\ \\mathrm { n m }$ . Remove the water sample from the sample path and replace it with the HMDS sample. Read the absorbance between 300 and $2 7 0 ~ \\mathrm { n m }$ . The absorbance at $2 7 0 \\mathrm { n m }$ should read 0.07 to 0.25. NOTE 1: Oxygen will contribute to the UV absorbance. NOTE 2: The sample must be at ambient temperature. NOTE 3: The UV absorbance will increase or decrease with time. NOTE 4: HMDS is flammable and corrosive. 8.7 Chloride — To a $5 0 0 ~ \\mathrm { m L }$ sepa ratory funnel, add $2 6 0 ~ \\mathrm { m L }$ $( 2 0 0 ~ \\mathrm { g } )$ of sample, $2 0 ~ \\mathrm { m L }$ of water, and $1 ~ \\mathrm { m L }$ of sodium hydroxide reagent solution. Shake well for 30 seconds and allow the two layers to separate. Carefully"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures (Part 4)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures\n\nContent: draw off the aqueous (lower) layer into a 250 mL beaker. Repeat the extraction five times and combine the six aqueous extracts. Add $2 ~ \\mathrm { m L }$ of nitric acid to acidify the solution and arrange the beaker for magnetic stirring. 8.7.1 Using a pH meter fitted with a silver billet electrode (Beckman $\\# 8 9 2 6 1$ , Corning #476065, or equivalent) and a silver/silver chloride reference electrode, determine the apparent $\\mathsf { p H }$ versus mL readings while titrating the continuously stirred sample solution with $0 . 0 1 \\mathrm { ~ M ~ }$ methanolic silver nitrate solution. Add the silver nitrate solution in $0 . 1 \\mathrm { - } 0 . 2 \\mathrm { m L }$ increments from a $1 0 ~ \\mathrm { m L }$ buret. Run a total blank. Plot the titration data on linear graph paper or use the second-derivative method to establish the endpoint. ppm Chloride Cl)= 8.7.2 Standard Silver Nitrate in Methanol Solution — Dissolve 1.700 grams of silver nitrate in absolute methanol and dilute to $1 0 0 0 ~ \\mathrm { { m L } }$ . Store"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures (Part 5)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures\n\nContent: this solution in an amber bottle and standardize immediately before use against a standard sodium chloride (NaCl) solution using the above second-derivative method. 8.8 Heavy Metals (as $P b$ ) — Evap orate $1 3 0 ~ \\mathrm { m L }$ (100 g) of sample to dryness in a hood. Dissolve the residue in $3 ~ \\mathrm { m L }$ of dilute hydrochloric acid $( 1 + 1 )$ and dilute with water to $1 5 ~ \\mathrm { m L }$ . If necessary, filter through a small filter, washing the evaporating dish and filter with 10 mL of water. Dilute to $2 5 ~ \\mathrm { \\ m L }$ with water. For the standard, dilute a solution containing $0 . 0 1 ~ \\mathrm { m g }$ of lead ion $( \\mathrm { P b } )$ and $3 ~ \\mathrm { m L }$ of dilute hydrochloric acid $( 1 + 1 )$ to $2 5 ~ \\mathrm { m L }$ with water. Adjust the $\\mathrm { \\ p H }$ of both solutions to between 3 and 4 (using a $\\mathrm { p H }$ meter) with dilute ammonium hydroxide $\\left( 1 0 \\% \\ \\mathrm { N H } _ { 3 } \\right)$ or with $^ \\mathrm { ~ 1 ~ N ~ }$ acetic acid, and dilute with water to"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures (Part 6)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures\n\nContent: $4 0 ~ \\mathrm { m L }$ . To each solution, add $1 0 ~ \\mathrm { m L }$ of freshly prepared hydrogen sulfide water and compare. The sample solution should be no darker than the standard. 8.9 Arsenic and Antimony (as As) — To a $5 0 0 ~ \\mathrm { m L }$ separatory funnel, add $2 6 0 ~ \\mathrm { m L }$ $( 2 0 0 ~ \\mathrm { g } )$ of sample, 20 mL of water, and $1 ~ \\mathrm { m L }$ of sodium hydroxide reagent solution. Shake well for 30 seconds and allow the two layers to separate. Carefully draw off the aqueous (lower) layer into a $1 5 0 ~ \\mathrm { \\ m L }$ beaker. Repeat the extraction twice more, combining the three aqueous extracts. 8.9.1 Add $1 5 ~ \\mathrm { m L }$ of nitric acid and $5 \\mathrm { \\ m L }$ of sulfuric acid and evaporate to dense fumes of sulfur trioxide. Cool, cautiously add $1 0 ~ \\mathrm { m L }$ of water, and re-evaporate to dense fumes of sulfur trioxide. Cool and cautiously wash into a generator flask with water to make a volume of $3 5 ~ \\mathrm { m L }$ . Proceed as described in the General"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures (Part 7)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 8  Grade 1 Procedures\n\nContent: Method for Arsenic (and Antimony) under SEMI C1, Section 3.4.5, starting with the sentence which begins \"Swirl the flask....\" Any red color in the silver diethyldithiocarbamate solution of the sample should not exceed that for the standard containing $0 . 0 0 2 ~ \\mathrm { m g }$ of arsenic (As). 8.10 Trace Elements — By a suitab le emission spectrographic procedure, determine for each of the specified trace elements that its content is not greater than the stated specification limit (see SEMI C1, Section 3.5, Guidelines for Determination of Trace Elements by Emission Spectrography)."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 9  Grade 2 Procedures",
+    "content": "9.1  This section does not apply to t his chemical."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 10  Grade 3 Procedures",
+    "content": "10.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 11  Grade 4 Procedures",
+    "content": "11.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 12  Grade 5 Procedures",
+    "content": "12.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 13  VLSI Grade Procedures",
+    "content": "13.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 14  Tier A Procedures",
+    "content": "14.1  Standardized test methods are being developed for all parameters at the purity levels indicated. Until standardized test methods are published, test methodology shall be determined by user and producer. The Process Chemicals Committee considers a test method to be valid only if there is a documented recovery study showing a recovery of $7 5 \\ \\cdot \\ 1 2 5 \\%$ . Recovery is for a known sample spike at $50 \\%$ of the specified level."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 15  Tier B Procedures",
+    "content": "15.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 16  Tier C Procedures",
+    "content": "16.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 17  Tier D Procedures (Part 1)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 17  Tier D Procedures\n\nContent: 17.1 This section does not apply to this chemical. Table 1 Impurity Limits and Other Requirements for Hexamethyldisilazane NOTICE: These standards do not purport to address safety issues, if any, associated with their use. It is the responsibility of the user of these standards to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use. SEMI makes no warranties or representations as to the suitability of the standards set forth herein for any particular application. The determination of the suitability of the standard is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These standards are subject to change without notice. The user’s attention is called to the possibility that compliance with this standard may require use of copyrighted material or of an invention covered by patent rights. By"
+  },
+  {
+    "title": "SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 17  Tier D Procedures (Part 2)",
+    "content": "Title: SEMI C26-0699ESPECIFICATION AND GUIDELINE FOR HEXAMETHYLDISILAZANE(HMDS) - # 17  Tier D Procedures\n\nContent: publication of this standard, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID",
+    "content": "These specifications and guidelines were technically approved by the Global Process Chemicals Committee and are the direct responsibility of the North American Process Chemicals Committee.  Current edition approved by the North American Regional Standards Committee by letter ballot dated October 17, 1999. Initially available at www.semi.org February 2001; to be published March 2001.  This document replaces SEMI C1.7, C7.2, C8.2, C11.6, and C12.2 in their entirety.  Originally published in 1978, 1990, 1992, 1996, and 1995 respectively; previously published June 2000."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 1  Purpose",
+    "content": "1.1  The purpose of this document is to standardize requirements for hydrochloric acid used in the semiconductor industry and testing procedures to support those standards. Test methods have been shown to give statistically valid results. This document also provides guidelines for grades of hydrochloric acid for which a need has been identified. In the case of the guidelines, the test methods may not have been statistically validated yet."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 2  Scope",
+    "content": "2.1  The scope of this document is all grades of hydrochloric acid used in the semiconductor industry.  \n2.2  The VLSI grade purity level is typically required by semiconductor devices with geometries of 0.8–1.2 microns.  \n2.3  These specifications and guide lines do not purport to address safety issues, if any, associated with their use.  It is the responsibility of the users of these specifications and guidelines to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 3  Limitations",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 4  Referenced Standards",
+    "content": "4.1  SEMI Standards  \nSEMI C1 — Specifications for Reagents  \n4.2  ASTM Standards1  \nASTM D5127 — Standard Guide for Ultra Pure Water Used in the Electronics and Semiconductor Industry  \nNOTE 1: As listed or revised, all documents cited shall be the latest publications of adopted standards."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 5  Terminology",
+    "content": "5.1  None."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 7  Requirements",
+    "content": "7.1  The requirements for hydrochl oric acid for Grades 1 and 2, VLSI Grade, and Tiers B and C are listed in Table 1."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures (Part 1)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures\n\nContent: NOTE 2: Each laboratory is responsible for verifying the validity of the method within its own operation. 8.1 Assay — Accurately weigh a g lass-stoppered conical flask containing about $3 0 ~ \\mathrm { m L }$ of water. Deliver from a pipet about $3 \\mathrm { m L }$ of sample near the water surface, stopper immediately, and reweigh. Dilute to about $5 0 ~ \\mathrm { m L }$ with water, add methyl orange indicator solution, and titrate with standardized $1 ~ \\mathrm { ~ N ~ }$ sodium hydroxide to a red-to-yellow color change. $$ \\% \\mathrm { { A s s a y } = \\frac { m L \\times \\Delta N \\ o f \\ N a O H \\times 3 . 6 4 6 } { W e i g h t \\ o f \\ s a m p l e \\ ( g ) } } $$ 8.2 Color — Dilute $2 . 0 ~ \\mathrm { m L }$ of plat inum-cobalt stock solution (APHA No. 500) to $1 0 0 ~ \\mathrm { \\ m L }$ with water. Compare this standard (APHA No. 10) with $1 0 0 ~ \\mathrm { { m L } }$ of sample in Nessler tubes. View vertically over a white background. The sample must be no darker than the standard. 8.3 Extractable Organic Substances — Cool"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures (Part 2)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures\n\nContent: 110 mL of sample in an ice bath. Add $5 ~ \\mathrm { \\ m L }$ of 2,2,4- trimethylpentane and $1 0 0 ~ \\mathrm { { m L } }$ of water to each of two $2 5 0 ~ \\mathrm { m L }$ separatory funnels. To a third funnel add 100 mL of water and $5 ~ \\mathrm { m L }$ of the standard (see below). To the first funnel add $1 0 0 ~ \\mathrm { { m L } }$ of the cooled sample, and $1 0 0 ~ \\mathrm { m L }$ of water to each of the remaining two. Stopper, shake well, and allow the layers to separate. Inject 1.0 $\\mu \\mathrm { L }$ of each of the 2,2,4-trimethylpentane extracts into a gas chromatograph with a flame ionization detector. The following conditions have been found to be satisfactory: Column — $20 \\%$ Carbowax $\\textsuperscript { \\textregistered }$ $2 0 \\textbf { M }$ on Chromosorb P (80/100), $3 \\ \\mathrm { m } \\times 3 \\ \\mathrm { m m }$ stainless steel or glass; injection port at $2 8 0 ^ { \\circ } \\mathrm { C }$ with glass insert; column temperature initially $6 5 ^ { \\circ } \\mathrm { C }$ , programmed at $6 ^ { \\circ } \\mathrm { C"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures (Part 3)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures\n\nContent: } / \\mathrm { m i n }$ up to $1 4 0 ^ { \\circ } \\mathrm { C }$ ; carrier gas — nitrogen at $4 0 ~ \\mathrm { m L / m i n }$ ; signal adjusted to give an $80 \\%$ full-scale deflection; and preferably, electronic integration of peak areas. For DDT: Column — $5 \\%$ silicone gum SESE-30 on Chromosorb $\\textsuperscript { \\textregistered }$ W (60/80), $1 . 5 \\times 3 ~ \\mathrm { m m }$ , injection port — as above; column temperature — isothermal at $2 0 5 ^ { \\circ } \\mathrm { C }$ ; carrier gas — nitrogen at $7 5 \\mathrm { \\ m L / m i n }$ , and preferably, electronic integration of peak areas. The order of elution is 2,2,4-trimethylpentane, carbon tetrachloride, benzene, chloroform, 2,2,4-trimethylpentane impurity, 1,2-dichloroethane, chlorobenzene, and dichlorobenzene. The total area under the impurity peaks from the sample should be no greater than that from the blank (extract from second funnel) by more than onehalf the total area under the peaks from the standard (third funnel), also corrected for the blank. 8.3.1 Standard —"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures (Part 4)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures\n\nContent: Use a syringe to add the volumes of liquid listed in Table 2 into $3 0 0 ~ \\mathrm { \\ m L }$ of 2,2,4- trimethylpentane. Add $2 5 ~ \\mathrm { m g }$ of DDT to the solution. Dilute to $5 0 0 ~ \\mathrm { \\ m L }$ with 2,2,4-trimethylpentane. The 2,2,4-trimethylpentane used for both the standard and the analysis should be free from impurities that interfere with the chromatographic analysis. 8.4 Free Halogen (as $C l _ { 2 } ^ { \\setminus }$ ) — Mix $1 0 0 ~ \\mathrm { m L }$ of sample and $1 0 0 ~ \\mathrm { { m L } }$ of freshly boiled water and cool. Add 0.1 mL of $2 \\%$ potassium iodide reagent solution and $1 ~ \\mathrm { m L }$ of carbon disulfide, and mix. The carbon disulfide should not acquire a pink color in one-half minute. 8.5 Phosphate — To $1 7 0 ~ \\mathrm { m L }$ $( 2 0 0 \\ \\mathrm { \\ g } )$ of sample, add $1 0 ~ \\mathrm { \\ m L }$ of sodium carbonate reagent solution and evaporate to dryness on a steam bath in a hood. Dissolve the residue in $2 5 ~ \\mathrm { m L }$ of $0 . 5 ~ \\mathrm { N }$ sulfuric acid. Add $1"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures (Part 5)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures\n\nContent: ~ \\mathrm { m L }$ of ammonium molybdate reagent solution and $1 ~ \\mathrm { m L }$ of p-(methylamino)phenol solution. Allow to stand at room temperature for 2 hours. Any blue color produced should be no greater than that produced when $0 . 0 1 ~ \\mathrm { { \\ m g } }$ of phosphate ion $\\left( \\mathrm { P O } _ { 4 } \\right)$ is treated like the sample. 8.6 Sulfate — To $8 4 ~ \\mathrm { m L }$ $( 1 0 0 ~ \\mathrm { g } )$ o f sample, add $1 0 ~ \\mathrm { m L }$ of sodium carbonate reagent solution and evaporate to dryness in a hood. Dissolve the residue in $1 0 ~ \\mathrm { m L }$ of water and $1 ~ \\mathrm { m L }$ of dilute hydrochloric acid $( 1 + 1 9 )$ ; filter, if necessary. Add $1 ~ \\mathrm { m L }$ of barium chloride reagent solution, mix, and allow to stand 10 minutes. Any turbidity should be no greater than that produced when $0 . 0 5 ~ \\mathrm { { m g } }$ of sulfate ion $\\left( \\mathrm { S O } _ { 4 } \\right)$ is treated as the sample. 8.7 Sulfite — Add $1 \\ \\mathrm { m L }$ of 10 percent potassium iodide reagent"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures (Part 6)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures\n\nContent: solution, $5 ~ \\mathrm { m L }$ of hydrochloric acid, and $2 { \\mathrm { ~ m L } }$ of starch indicator solution to $4 0 0 ~ \\mathrm { { m L } }$ of oxygenfree water. Add $0 . 0 1 ~ \\mathrm { N }$ iodine until a faint permanent blue color is produced. Add $8 5 ~ \\mathrm { m L }$ of the sample and titrate with $0 . 0 1 \\mathrm { ~ N ~ }$ iodine to the same endpoint. Not more than $0 . 2 0 \\mathrm { m L }$ should be required. 8.8 Arsenic and Antimony (as As) — To $1 6 8 ~ \\mathrm { m L }$ (200 g) of sample in a $4 0 0 ~ \\mathrm { m L }$ beaker, add $1 0 ~ \\mathrm { m L }$ of nitric acid and $5 ~ \\mathrm { m L }$ of sulfuric acid, and evaporate to dense fumes of sulfur trioxide in a hood. Cool, cautiously add $1 0 ~ \\mathrm { m L }$ of water, and again evaporate to dense fumes of sulfur trioxide. Cool and cautiously wash into a generator flask with water to make a volume of $3 5 ~ \\mathrm { m L }$ . Proceed as described in the General Method for Arsenic (and Antimony) under SEMI C1, Section 3.4.5, starting with tile sentence"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures (Part 7)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8  Grade 1 Procedures\n\nContent: which begins: “Swirl the flask....” Any red color in the silver diethyldithiocarbamate solution from the sample should be no greater than that of the standard containing $0 . 0 0 1 \\mathrm { \\ m g }$ of arsenic (As). 8.9 Trace Metal Analysis — The f ollowing method has given satisfactory results in determing trace metal impurities at the value specified for each of the following trace metals: aluminum (Al), boron (B), calcium $\\mathrm { ( C a ) }$ , chromium $( \\mathrm { C r } )$ , copper $\\mathbf { \\Pi } ( \\mathbf { C u } )$ , gold (Au), iron $\\mathrm { ( F e ) }$ , lead $( \\mathrm { P b } )$ , magnesium $( \\mathbf { M g } )$ , manganese (Mn), nickel (Ni), potassium (K), sodium (Na), tin $( \\mathsf { S } \\boldsymbol { \\mathrm { n } } )$ , titanium (Ti), and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate methods may be used as long as appropriate studies demonstrate recovery between $7 5 - 1 2 5 \\%$ of a known sample spike for half of the value of each specified item."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8.9.1  Special Reagents",
+    "content": "8.9.1.1  Nitric Acid, Ultra Pure — Use nitric acid specified for ultra low metal ion content.  \n8.9.1.2 $2 \\%$ Nitric Acid Solution — Di lute $2 0 ~ \\mathrm { m L }$ of ultra pure nitric acid to $^ \\mathrm { ~ 1 ~ L ~ }$ using water meeting the criteria for Type E1.1 in ASTM D5127."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8.9.2  Sample Preparation",
+    "content": "8.9.2.1  In a clean environment, place $2 5 0 ~ \\mathrm { \\ m L }$ of sample in a PTFE evaporating dish. Slowly evaporate on a hot plate, avoiding loss of sample by effervescence or spattering until approximately $2 \\ \\mathrm { \\ m L }$ of liquid remains. Note: Evaporation typically requires $2 ~ 1 / 2$ to 4 hours. Cool. Transfer quantitatively to a $5 0 ~ \\mathrm { \\ m L }$ volumetric flask using $2 \\%$ nitric acid for rinsing and dilution to volume. Run a reagent blank."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 8.9.3  Analysis",
+    "content": "8.9.3.1  Using the acid sample and reag ent blank, analyze group 1 elements by flame atomic absorption spectroscopy and all other elements by plasma emission spectroscopy."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 9  Grade 2 Procedures",
+    "content": "NOTE 2: Each laboratory is responsible for verifying the validity of the method within its own operation.  \n9.1  Non-Metal Impurities — See S ection 8, which contains procedures for the following tests:  \nAssay\nColor (APHA)\nFree Halogen\nPhosphate\nSulfate\nSulfite"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 9.2  Trace Metals Analysis",
+    "content": "9.2.1  The following method has giv en satisfactory results in determining metal ion impurities at the values specified for each of the following metals: aluminum (Al), antimony (Sb), arsenic (As) barium (Ba), beryllium (Be), bismuth (Bi), boron (B), calcium $\\mathrm { ( C a ) }$ , chromium $( \\mathrm { C r } )$ , cobalt $\\scriptstyle ( \\mathbf { C o } )$ , copper $\\mathbf { \\Pi } ( \\mathbf { C u } )$ , gallium (Ga), germanium (Ge), gold (Au), iron (Fe), lead $( \\mathrm { P b } )$ , lithium (Li), magnesium $( \\mathbf { M g } )$ , manganese (Mn), molybdenum (Mo), nickel (Ni), niobium (Nb), potassium (K), silver (Ag), sodium (Na), strontium $( \\mathsf { S r } )$ , tantalum (Ta), tin $( \\mathsf { S } \\boldsymbol { \\mathrm { n } } )$ , titanium (Ti), vanadium (V), zinc $( Z \\boldsymbol { \\mathrm { n } } )$ , and zirconium $( \\mathrm { Z r } )$ . Alternate methods may be used as long as appropriate studies demonstrate a recovery between $7 5 \\mathrm { - } 1 2 5 \\%$ of a known sample spike for half of the value of each specified element."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 9.2.2  Special Reagents",
+    "content": "9.2.2.1  Hydrochloric Acid, Ultrapure Use hydrochloric acid specified for low metal ion content.  \n9.2.2.2 $3 . 7 \\%$ Hydrochloric Acid Solution — Dilute 20 $\\mathbf { g }$ of ultrapure hydrochloric acid to $2 0 0 ~ \\mathrm { g }$ using water meeting the criteria for Type E1.1 in ASTM D5127.  \n9.2.2.3  Nitric Acid, Ultrapure — Use nitric acid specified for low metal ion content.  \n9.2.2.4 $1 \\%$ Nitric Acid Solution — Di lute $1 0 ~ \\mathrm { m L }$ of ultrapure nitric acid to $^ \\mathrm { ~ 1 ~ L ~ }$ using water meeting the criteria for Type E1.1 in ASTM D5127.  \n9.2.2.5  Water — The water used for a ll the dilution, calibration and standards should meet at a minimum the criteria for Type E1.1 in ASTM D5127 in regard to cation analysis.  \n9.2.2.6  Rhodium Internal Standard — Make up the internal standard solution to a concentration of 20 $\\mu \\mathrm { g / m L }$ (ppm) from the appropriate concentrated standard rhodium solution."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 9.2.3  Sample Preparation",
+    "content": "9.2.3.1  In a clean environment, place $2 . 0 0 \\ \\mathrm { g }$ of sample into a tared FEP bottle $( 3 0 ~ \\mathrm { m L } )$ , dilute with “attainable” water to a final weight of $2 0 . 0 \\ \\mathrm {  g }$ . Add $2 0 ~ \\mu \\mathrm { L }$ of the rhodium internal standard solution. Run a reagent blank.  \n9.2.3.2  Vanadium — In a clean enviro nment, place $2 0 . 0 \\textrm { g }$ of sample into a clean PTFE dish. Slowly evaporate on a hot plate to dryness avoiding loss of sample by effervescence or spattering. Dissolve the residue with $5 ~ \\mathrm { m L }$ of the $1 \\%$ nitric acid solution by heating on a hot plate at low temperature for several minutes. Cool to room temperature, dilute to $2 0 ~ \\mathrm { g }$ with $1 \\%$ nitric acid, add $2 0 ~ \\mu \\mathrm { L }$ of the rhodium internal standard, mix well. Run a reagent blank."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 9.2.4  Analysis",
+    "content": "9.2.4.1  Using the prepared solutions a nd blanks, analyze sodium, potassium, calcium and iron by graphite furnace atomic absorption (GFAA) and the remaining elements by inductively coupled plasma mass spectrometry (ICP/MS). For calibration, the standards are made up with the $3 . 7 \\%$ hydrochloric acid solution and the rhodium internal standard except for the analysis of vanadium which is performed using $1 \\%$ nitric acid as the matrix. All standards must contain 10 $\\mathrm { n g / g }$ of rhodium as the internal standard."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 10  Grade 3 Procedures",
+    "content": "10.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 11  Grade 4 Procedures",
+    "content": "11.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 12  Grade 5 Procedures",
+    "content": "12.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 13  VLSI Grade Procedures",
+    "content": "13.1  Specific procedures for this gr ade do not exist.\nRefer to Sections 8 and 9 for available procedures."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 14  Tier A Procedures",
+    "content": "14.1  This section does not apply to this chemical."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 15  Tier B Procedures",
+    "content": "15.1  Standardized test methods are being developed for all parameters at the purity levels indicated. Until standardized test methods are published, test methodology shall be determined by user and supplier. The Process Chemicals Committee considers a test method to be valid only if there is a documented recovery study showing a recovery of $7 5 \\mathrm { - } 1 2 5 \\%$ .  \nRecovery is for a known sample spike at $50 \\%$ of the specified level."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 16  Tier C Procedures",
+    "content": "16.1  Standardized test methods are being developed for all parameters at the purity levels indicated. Until standardized test methods are published, test methodology shall be determined by user and producer.  \nThe Process Chemicals Committee considers a test method to be valid if there is a documented recovery study showing a recovery of $7 5 \\mathrm { - } 1 2 5 \\%$ . Recovery is for a known sample spike at $50 \\%$ of the specified level."
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 17  Tier D Procedures (Part 1)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 17  Tier D Procedures\n\nContent: 17.1 This section does not apply to this chemical. able 1 Impurity Limits and Other Requirements for Hydrochloric Acid NOTE 1: Due to the limitations of current particle counters, particle size and number are to be agreed upon between supplier and user. See SEMI C1, Section 3.9 for particle counting methodology. Table 2 Composition of Standard NOTE 1: 1,1,1-Trichloro-2,2-bis (p-chlorophenyl) ethane, dichlorodiphenyltrichloroethane. NOTICE: SEMI makes no warranties or representations as to the suitability of the specifications and guidelines set forth herein for any particular application. The determination of the suitability of the specifications and guidelines is solely the responsibility of the user. Users are cautioned to refer to manufacturer’s instructions, product labels, product data sheets, and other relevant literature respecting any materials mentioned herein. These specifications and guidelines are subject to change without notice. The user’s attention is called to the possibility that compliance with these"
+  },
+  {
+    "title": "SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 17  Tier D Procedures (Part 2)",
+    "content": "Title: SEMI C27-0301SPECIFICATIONS AND GUIDELINES FOR HYDROCHLORIC ACID - # 17  Tier D Procedures\n\nContent: specifications and guidelines may require use of copyrighted material or of an invention covered by patent rights. By publication of these specifications and guidelines, SEMI takes no position respecting the validity of any patent rights or copyrights asserted in connection with any item mentioned in these specifications and guidelines. Users of these specifications and guidelines are expressly advised that determination of any such patent rights or copyrights, and the risk of infringement of such rights, are entirely their own responsibility."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID",
+    "content": "This specification was technically approved by the global Liquid Chemicals Committee.  This edition was approved for publication by the global Audits and Reviews Subcommittee on May 20, 2005.  It was available at www.semi.org in June 2005 and on CD-ROM in July 2005.  Originally published in 1978; previously published July 2004.  \nNOTICE:  This document was completely rewritten in 2005."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 1  Purpose",
+    "content": "1.1  The purpose of this document is to standardize requirements for hydrofluoric acid used in the semiconductor industry and testing procedures to support those standards. Test methods have been shown to give statistically valid results."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 2  Scope",
+    "content": "2.1  The scope of this document is all grades of hydrofluoric acid used in the semiconductor industry.  \nNOTICE: This standard does not purport to address safety issues, if any, associated with its use.  It is the responsibility of the users of this standard to establish appropriate safety and health practices and determine the applicability of regulatory or other limitations prior to use."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 3  Limitations",
+    "content": "3.1  None."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 4  Referenced Standards and Documents",
+    "content": "4.1  SEMI Standards  \nSEMI C1 — Guide for the Analysis of Liquid Chemicals  \n4.2  ASTM Standards1  \nASTM D5127 — Standard Guide for Ultra Pure Water Used in the Electronics and Semiconductor Industry  \n4.3  Other Documents  \nDionex Technical Note 45 — Determination of Trace Anions in Concentrated Hydrofluoric Acid  \nNOTICE: Unless otherwise indicated, all documents cited shall be the latest published versions."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 5  Terminology",
+    "content": "5.1  None."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 7  Requirements",
+    "content": "7.1  The requirements for hydrofluoric acid for Grades 1, 2, 3 and 4 are listed in Table 1."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures (Part 1)",
+    "content": "Title: SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures\n\nContent: NOTE 1: Each laboratory is responsible for verifying the validity of the method within its own operation. 8.1 Assay — Accurately weigh $1 . 4 { - } 1 . 5 ~ \\mathrm { \\ m L }$ of sample in polyethylene weighing bottle, sample, stopper immediately, and reweigh. To $5 0 ~ \\mathrm { m L }$ of water in a plastic vessel, add the sample (loosen the stopper of the polyethylene bottle, and add both the container and the stopper with the sample). Add $0 . 1 ~ \\mathrm { m L }$ of phenolphthalein indicator solution, and titrate with standardized $1 \\mathrm { N }$ sodium hydroxide to a slight, pink color. $$ \\% \\mathrm { \\Delta A s s a y = \\frac { m L \\times \\Delta N \\ o f N a O H \\times 2 . 0 0 1 } { W e i g h t \\ o f \\ s a m p l e \\ ( g ) } } $$ 8.1.1 Alternately, potentiometric end point detection can be used. 8.2 Chloride — Add 1.7 mL $( 2 . 0 \\ { \\tt g } )$ of sample to $4 5 ~ \\mathrm { m L }$ of water. Filter, if necessary, through a chloride-free filter. Add $1 ~ \\mathrm { m L }$ of nitric acid and $1 ~ \\mathrm { m L }$ of silver nitrate reagent"
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures (Part 2)",
+    "content": "Title: SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures\n\nContent: solution. Any turbidity produced should be no greater than that produced when $0 . 0 1 \\mathrm { \\ m g }$ of chloride ion (Cl) is treated as the sample. 8.3 Nitrate — Weigh $3 . 3 ~ \\mathrm { g }$ of sample in a white plastic $5 0 ~ \\mathrm { m L }$ beaker and dilute with $4 . 5 ~ \\mathrm { m L }$ of water. To another $5 0 ~ \\mathrm { m L }$ plastic beaker, add $6 . 5 ~ \\mathrm { m L }$ of water and $1 ~ \\mathrm { m L }$ of standard nitrate solution containing $0 . 0 1 \\mathrm { \\ m g }$ of nitrate $\\left( \\mathrm { N O } _ { 3 } \\right)$ per mL. To each solution, add $2 . 5 ~ \\mathrm { m L }$ of brucine sulfate reagent solution and cautiously add with stirring $2 0 ~ \\mathrm { m L }$ of sulfuric acid. Allow to stand for 10 minutes. The yellow color in the sample solution should be no greater than that in the standard solution. 8.4 Phosphate — Evaporate $9 ~ \\mathrm { m L }$ $\\left( 1 0 \\ { \\tt g } \\right)$ of sample to dryness in a platinum or other suitable dish on a steam bath in a hood. Dissolve the residue in $2 5 ~ \\mathrm { m L }$ of"
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures (Part 3)",
+    "content": "Title: SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures\n\nContent: $0 . 5 \\mathrm { N }$ sulfuric acid. Add $1 ~ \\mathrm { m L }$ of ammonium molybdate reagent solution and $1 ~ \\mathrm { m L }$ of p-(methylamino)phenol sulfate reagent solution. Allow to stand for 2 hours at room temperature. Any blue color should be no greater than that produced when $0 . 0 1 \\mathrm { m g }$ of phosphate ion $\\left( \\mathrm { P O } _ { 4 } \\right)$ is treated like the sample. 8.5 Sulfate and Sulfite (as $S O _ { 4 } ,$ — To $1 8 ~ \\mathrm { m L }$ $( 2 0 \\ \\mathrm { g } )$ of sample in a platinum or other suitable evaporating dish, add about $1 0 ~ \\mathrm { m g }$ of sodium carbonate and $1 ~ \\mathrm { m L }$ of 30 hydrogen peroxide. Evaporate to dryness on a steam bath in a hood, wash down the sides of the dish with a small volume of water, and add $3 ~ \\mathrm { m L }$ of perchloric acid. Evaporate to about $1 ~ \\mathrm { m L }$ , dilute with about $1 5 ~ \\mathrm { m L }$ of water, and add $0 . 0 1 ~ \\mathrm { m L }$ of phenolphthalein indicator solution. Neutralize with ammonium hydroxide, dilute with water to $2 0 ~"
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures (Part 4)",
+    "content": "Title: SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures\n\nContent: \\mathrm { m L }$ , and add $2 { \\mathrm { ~ m L ~ } }$ of dilute hydrochloric acid $( 1 + 1 9 )$ and $2 { \\mathrm { ~ m L } }$ of barium chloride reagent solution. Any turbidity should not exceed that produced by $0 . 1 \\mathrm { m g }$ of sulfate ion $\\mathrm { ( S O _ { 4 } ) }$ in an equal volume of solution containing the quantities of reagents used in the test. Compare 10 minutes after adding the barium chloride to the sample and standard solutions. NOTE 2: For anion determination, alternate method based upon ion chromatography may be used, see $\\ P 1 0 . 2$ . 8.6 Trace Metal Analysis — The following method has given satisfactory results in determining trace metal impurities at the value specified for each of the following trace metals: aluminum (Al), antimony (Sb), arsenic (As), barium (Ba), boron (B), cadmium, (Cd), calcium (Ca), chromium $\\mathrm { ( C r ) }$ , copper $\\mathrm { ( C u ) }$ , iron (Fe), lead $( \\mathrm { P b } )$ , lithium (Li), magnesium $\\left( \\mathrm { M g } \\right)$ , manganese (Mn), nickel (Ni), potassium (K),"
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures (Part 5)",
+    "content": "Title: SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8  Grade 1 Procedures\n\nContent: sodium (Na), tin (Sn), titanium (Ti), vanadium (V) and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . An alternate method is described in $\\ P { \\cdot } 2$ . Any other alternate methods may be used as long as method validation according to SEMI C1 can be demonstrated."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8.6.1  Special Reagents",
+    "content": "8.6.1.1  Nitric Acid, Ultra Pure — Use nitric acid specified for ultra low metal ion content.  \n8.6.1.2 $2 \\%$ Nitric Acid Solution — Dilute $2 0 ~ \\mathrm { m L }$ of ultra pure nitric acid to $1 \\mathrm { L }$ using water meeting the criteria for Type E1.1 in ASTM D5127."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8.6.2  Sample Preparation",
+    "content": "8.6.2.1  In a clean environment, place $2 5 0 ~ \\mathrm { g }$ of sample in a PTFE evaporating dish. Slowly evaporate on a hot plate, avoiding loss of sample by effervescence or spattering until approximately $2 \\mathrm { m L }$ of liquid remains.  \nNOTE 3:  Evaporation typically requires $2 1 / 2$ to 4 hours.  \nCool. Add $1 ~ \\mathrm { m L }$ of ultra pure, $70 \\%$ nitric acid. While maintaining volume, carefully warm several minutes to dissolve any residue. Cool. Transfer quantitatively to a $5 0 ~ \\mathrm { m L }$ volumetric flask using $2 \\%$ nitric acid for rinsing and dilution to volume. Run a reagent blank."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 8.6.3  Analysis",
+    "content": "8.6.3.1  Using the acid sample and reagent blank, analyze all specified elements by plasma emission spectroscopy or preferably by ICP-MS."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 9  Grade 2 Procedures",
+    "content": "NOTE 4:  Each laboratory is responsible for verifying the validity of the method within its own operation.  \n9.1  Non-Metal Impurities — See $\\ S 8$ , which contains procedures for the following tests:  \nAssay,\nChloride,\nNitrate,\nPhosphate, and\nSulfate and Sulfite (as $\\mathrm { S O } _ { 4 }$ ).  \n9.2  Trace Metals Analysis  \n9.2.1  The following method has given satisfactory results in determining trace metal impurities at the value specified for each of the following trace metals: aluminum (Al),  antimony (Sb), arsenic (As), barium (Ba), boron (B), cadmium (Cd), calcium (Ca), chromium $( \\mathrm { C r } )$ , copper $\\mathrm { ( C u ) }$ , iron (Fe), lead $( \\mathrm { P b } )$ , lithium (Li), magnesium $\\left( \\mathrm { M g } \\right)$ , manganese (Mn), nickel (Ni), potassium (K), sodium (Na), tin (Sn), titanium (Ti), vanadium (V), and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate method can be used as long as method validation according to SEMI C1 can be demonstrated."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 9.2.2  Special Reagents",
+    "content": "9.2.2.1  Hydrofluoric Acid, Ultra Pure — Use hydrofluoric acid specified for low metal ion content.  \n9.2.2.2 $4 . 9 \\%$ Hydrofluoric Acid Solution — Dilute $2 0 \\ \\mathrm { g }$ of ultrapure hydrofluoric acid to $2 0 0 ~ \\mathrm { g }$ using water meetin the criteria for Type E1.1 in ASTM D5127.  \n9.2.2.3  Water — The water used for all the dilution, calibration and standards should meet at a minimum the criteria for Type E1.1 in ASTM D5127 in regard to cation analysis.  \n9.2.2.4  Indium Internal Standard — Make up a internal standard solution to a concentration of $2 0 ~ \\mu \\mathrm { g / m L }$ (ppm) from the appropriate concentrated indium standard solution.  \n9.2.3  Sample Preparation — In a clean environment, place $2 . 0 0 \\ \\mathrm { g }$ of sample into a tared FEP bottle $( 3 0 ~ \\mathrm { m L } )$ ), dilute with Type E1.1 water to a final weight of $2 0 . 0 \\ \\mathrm { g }$ . Add $2 0 { \\mu \\mathrm { L } }$ of the indium internal standard solution. Run a reagent blank."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 9.2.4  Analysis",
+    "content": "9.2.4.1  Using the prepared solutions and blanks, analyze all the specified elements by inductively coupled plasma mass spectrometry (ICP/MS). For calibration, the standards are made up with the $4 . 9 \\%$ hydrofluoric acid solution and the indium internal standard such that the final concentration is $2 0 \\mathrm { n g / g }$ of indium.  \nNOTE 5:  Analysis of dilute hydrofluoric acid requires the use of special hydrofluoric acid resistant sample introduction system for inductively coupled plasma mass spectrometry. These systems are available from most instrument suppliers.  \nNOTE 6:  Analysis of dilute hydrofluoric acid can produce rapid corrosion of nickel cones commonly used in inductively coupled plasma mass spectrometry, platinum cones should be considered as alternative when performing this analysis."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 10  Grade 3 Procedures (Part 1)",
+    "content": "Title: SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 10  Grade 3 Procedures\n\nContent: 10.1 Assay — See ¶8.1 10.2 Chloride, Nitrate, Sulfate, Phosphate 10.2.1 The above mentioned anions can be determined by ion chromatography using a two dimensional approach. For a detailed procedure, see for example Dionex Technical Note 45. Better results are obtained when using an IonPac ICE-AS1 column instead of the IonPac ICE-AS6 recommended in the TN45. Calibration is preferably done by the method of standard addition. Alternate method can be used as long as method validation according to SEM C1 can be demonstrated. 10.3 Trace Metal Analysis — The following method has given satisfactory results in determining trace metal impurities at the value specified for each of the following trace metals: aluminum (Al), antimony (Sb), arsenic (As), barium (Ba), boron (B), cadmium (Cd), calcium (Ca), chromium (Cr), copper $\\mathrm { ( C u ) }$ , iron (Fe), lead $\\left( \\mathrm { P b } \\right)$ , lithium (Li), magnesium $\\left( \\mathrm { M g } \\right)$ , manganese (Mn), nickel (Ni), potassium (K), sodium (Na), tin (Sn), titanium (Ti), vanadium (V),"
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 10  Grade 3 Procedures (Part 2)",
+    "content": "Title: SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 10  Grade 3 Procedures\n\nContent: and zinc $( Z \\boldsymbol { \\mathrm { n } } )$ . Alternate method can be used as long as method validation according to SEMI C1 can be demonstrated."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 10.3.1  Special Reagents",
+    "content": "10.3.1.1  Nitric Acid, Ultra Pure — Use nitric acid specified for ultra low metal ion content.  \n10.3.1.2 $3 \\%$ Nitric Acid Solution — In a clean environment, place $\\boldsymbol { 1 5 } \\mathrm { \\textrm { g } }$ of Ultra Pure Nitric Acid $\\ P 1 0 . 3 . 1 . 1$ into a tared clean $5 0 0 \\mathrm { m l }$ FEP bottle.  Dilute to a final weight of $5 0 0 ~ \\mathrm { g }$ using ultrapure water $\\ P 1 0 . 3 . 1 . 3$ .  \n10.3.1.3  Water — The water used for all the dilutions, calibrations and standards should meet at a minimum the criteria for Type E1.2 in ASTM D5127 in regard to cation analysis."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 10.3.2  Sample Preparation",
+    "content": "10.3.2.1  In a clean environment, place $2 0 \\ \\mathrm { g }$ of sample into a tared clean $1 2 0 ~ \\mathrm { m l }$ FEP bottle.  Dilute to a final weight of $1 0 0 \\mathrm { g }$ with the $3 \\%$ Nitric Acid Solution $\\ P 1 0 . 3 . 1 . 2$ ."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 10.3.3  Analysis",
+    "content": "10.3.3.1  Using the prepared solutions, analyze all the specified elements by inductively coupled plasma mass spectrometry (ICP-MS). For calibration, blank and standards are made up with the $3 \\%$ Nitric Acid Solution $\\ P 1 0 . 3 . 1 . 2$ .  \nNOTE 7:  Analysis of dilute hydrofluoric acid requires the use of special hydrofluoric acid resistant sample introduction systems for inductively coupled plasma mass spectrometry. These systems are available from most instrument suppliers.  \nNOTE 8:  Analysis of dilute hydrofluoric acid can produce rapid corrosion of nickel cones commonly used in inductively coupled plasma mass spectrometry, platinum cones should be considered as alternative when performing this analysis.  \nNOTE 9:  The analytical methodology described in $\\ P 1 0 . 3$ has been validated using a “Reaction / Collision cell” type ICP-MS.\nOther instrument type can be used as long as method validation according to SEMI C1 can be demonstrated."
+  },
+  {
+    "title": "SEMI C28-0705 SPECIFICATIONS FOR HYDROFLUORIC ACID - # 11  Grade 4 Procedures",
+    "content": "11.1  Assay  — See ¶8.1.  \n11.2  Chloride, Nitrate, Sulfate, Phosphate — See ¶10.2.  \n11.3  Trace Metal Analysis — See ¶10.3."
+  }
+]
